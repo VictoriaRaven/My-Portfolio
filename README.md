@@ -11,8 +11,7 @@ Hi! If you are here looking for my most of my portfolio of (Java, C++, Python, H
 - Cryptograhy (Hashing; MSGS; Security);
 - Data Science (Law firms like Westlaw/Nexus Uni)
 - AI/Machine Learning (Any topics)
-- Mathematics (Calculus: 1-3; Differential Equations and Linear Algebra; Basic Stat
-StatStatistics);
+- Mathematics (Calculus: 1-3; Differential Equations and Linear Algebra; Basic Statistics);
 - General Physics (1-3)
 ### Fun Facts
 - I love learning different cultures and continuing to explore more about CS by keeping up-to-date, using Git, and curiosity.
