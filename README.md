@@ -14,17 +14,17 @@ Hi there! All of my **Public Repositories** has my Public Projects/Class. Feel f
 - AI/Machine Learning (Any topics)
 - Mathematics (Calculus: 1-3; Differential Equations and Linear Algebra; Basic Statistics);
 - General Physics (1-3)
+### Main Skills / Traits:
+- **Technical Skills:** Java (Intermediate, some Advanced), Python; C++; Microsoft & Google Office (Intermediate), C; HTML; JavaScript;
+CSS; SQL; Git (Intro)
+- **Professional Certifications:** z/OS: Mainframe Practitioner
+- **Traits:** Teamwork, Communication, Multitasking, Leadership, Critical Thinking, Problem Solving, Perseverance, Adaptability
 ### Languages
 Later on, I will post my other codes or repositories in different languages. If you prefer to discuss other topics in another language these are the languages I am compatible with where top is more fluent vs bottom less fluent (writing; speaking; reading)
 - French 
 - Russian
 - Ukrainian
 - Others (After I get extremely fluent in these three)
-### Main Skills / Traits:
-- **Technical Skills:** Java (Intermediate, some Advanced), Python; C++; Microsoft & Google Office (Intermediate), C; HTML; JavaScript;
-CSS; SQL; Git (Intro)
-- **Professional Certifications:** z/OS: Mainframe Practitioner
-- **Traits:** Teamwork, Communication, Multitasking, Leadership, Critical Thinking, Problem Solving, Perseverance, Adaptability
 ### Fun Facts and Personality:
 - I like fast paced environments, working indpendently/as a team (dependently), and making postive impacts to the company's goals/ethos or communities.
 - I love learning different cultures and continuing to explore more about CS by keeping up-to-date, using Git, and curiosity.
