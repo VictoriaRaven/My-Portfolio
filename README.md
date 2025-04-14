@@ -24,7 +24,7 @@ Later on, I will post my other codes or repositories in different languages. If 
 - I believe that CS can be integrated into many different subjects!
 - On my free time I like to go outdoors, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal Justice hybrids with CS.
 - Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, protective, and a great team player.
-### My Media / YouTube
+### My Media
 - My Spotify playlist: [2025 Global Playlist](https://open.spotify.com/playlist/71emCwwP5kE4DQTROKiJ3F?si=L1MzHxHYSOqObqqFq-lo_A&pi=Y99IcV4HSBC1_)
 - My Website/Blog: TBA.
 
