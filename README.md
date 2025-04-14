@@ -16,7 +16,7 @@ Hi there! All of my **Public Repositories** has my Public Projects/Class. Feel f
 - General Physics (1-3)
 ### Main Skills / Traits:
 - **Technical Skills:** Java (Intermediate, some Advanced), Python; C++; Microsoft & Google Office (Intermediate), C; HTML; JavaScript;
-CSS; SQL; Git (Intro)
+CSS; SQL; Git (Intro, few intermediate/advanced)
 - **Professional Certifications:** z/OS: Mainframe Practitioner
 - **Traits:** Teamwork, Communication, Multitasking, Leadership, Critical Thinking, Problem Solving, Perseverance, Adaptability
 ### Languages:
