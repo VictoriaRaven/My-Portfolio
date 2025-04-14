@@ -28,7 +28,7 @@ Later on, I will post my other codes or repositories in different languages. If 
   - I lean more towards direct communication (includes constructive feedbacks professionally), which why others with indirect communication may misinterpret or misunderstood my intentions out of not being used to my directness.
   - To mitigate this, I have enhanced my communication skills through my Minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
   - My goal if positioned as a leader is to not only being direct, but also learning to listen and adjust my directness to other commmunicaiton styles (like professional constructive feedback rather than blaming someone, etc.) and also make teamwork sucessful, including making time to teach my team as well.
-### My Media
+### My Media (currently listening to)
 - My Spotify playlist: [2025 Global Playlist](https://open.spotify.com/playlist/71emCwwP5kE4DQTROKiJ3F?si=L1MzHxHYSOqObqqFq-lo_A&pi=Y99IcV4HSBC1_)
 - My Website/Blog: TBA.
 
