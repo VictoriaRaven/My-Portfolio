@@ -1,6 +1,6 @@
 # My-Portfolio
 ## Message
-Hi! If you are here looking for my most of my portfolio of (Java, C++, Python, HTML, etc.) they are private for now. However, there is a few other public repositories I made so feel free to check them out at my home page. When I graduate in May 2025 at UMGC, I will briefly make most of these codes in public for future job applications and then close it after completed. For now, please feel free to contact me to see the codes privately in a separate link for the other private repositories. Thank you!
+Hi there! All of my Public Repositories has my Public Projects/Class. Feel free to check them out at my home page. When I graduate in May 2025 at UMGC, I will briefly make my other private codes in public for future job applications and then close it after completed. this is because some of them has an asnwer key in a few of my old Java, C++, Python, HTML, etc. classes. The ones public are made and adjusted so that it is not an asnwer key but my projects that I adjusted using my problem sovling skills and the lessons learned in my CS classes (Includes math, Physics, LGST, etc). For now, please feel free to contact me to see the other class codes with asnwer keys privately in a separate link for the other private repositories. Thank you!
 ### -VictoriaRaven
 ## About Me
 ### Main Interests: 
