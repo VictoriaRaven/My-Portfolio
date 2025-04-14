@@ -48,7 +48,7 @@ Later on, I will post my other codes or repositories in different languages. If 
   - I love to help others and bring a postive impact to my work and experinces.
     - Even though others may not like my style of communicating or how I make time to adjust to their style, I still enjoy working with them and learning how to teach my knowledge to show that I care for my team.
     - I want each of my members to not only be a part of the team, but also to grow their skills and traits no matter what level they are at (Intro, Intermediate, Advanced)
-      - This is also one of the cons I deal with beucase some of my peers that I experienced in the past do not enjoy being taught by others. They prefer to learn it individually or not learn it at all out of disinterest, in which I will stop and let them be if that is what they choose to be. I do not enforce people to change them, but I do my best as a team player and leader to adjust to thier skills to make a team work.
+      - This is also one of the cons I deal with because some of my peers that I experienced in the past do not enjoy being taught by others. They prefer to learn it individually or not learn it at all out of disinterest, in which I will stop and let them be if that is what they choose to be. I do not enforce people to change them, but I do my best as a team player and leader to adjust to thier skills to make a team work.
 ### Overall
 - Based on reading this, it demonstrates my compatibility with the company's ethos and traits that they wish for me to be apart of their team. 
 - If you are pleased with my communication skills and personality traits that matches with your company, please take a look at my Public Repositories and consider me as a member to be apart of your team!
