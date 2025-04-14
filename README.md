@@ -46,9 +46,13 @@ Later on, I will post my other codes or repositories in different languages. If 
   - To mitigate this, I have enhanced my communication skills through my Minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
   - My goal (if positioned as a leader) is to not only being direct, but also teaching others, learning to listen, and adjust my directness to other commmunicaiton styles (like professional constructive feedback rather than blaming someone, etc.) and also make teamwork sucessful, including making time to teach my team as well.
   - I love to help others and bring a postive impact to my work and experinces.
-    - Even though others may not like my style of communicaitng or how I make time to adjust to their style, I still enjoy working with them and learning how to teach my knowledge to show that I care for my team.
-    - I want each of my members to not only be a part of the team, but also to grow thier skills and traits no matter what level they are at (Intro, Intermediate, Advanced)
-      - This is also one of the cons I deal with beucase some of my peers that I experinced in the past do not enjoy being taught by others. They prefer to learn it individually or not learn it at all out of disinterest, in which I will stop and let them be if that is what they choose to be. I do not enforce people to change them, but I do my best as a team player and leader to adjust to thier skills to make a team work.
-- Note: removed media as it was unrelated to my professional GitHub page.
+    - Even though others may not like my style of communicating or how I make time to adjust to their style, I still enjoy working with them and learning how to teach my knowledge to show that I care for my team.
+    - I want each of my members to not only be a part of the team, but also to grow their skills and traits no matter what level they are at (Intro, Intermediate, Advanced)
+      - This is also one of the cons I deal with beucase some of my peers that I experienced in the past do not enjoy being taught by others. They prefer to learn it individually or not learn it at all out of disinterest, in which I will stop and let them be if that is what they choose to be. I do not enforce people to change them, but I do my best as a team player and leader to adjust to thier skills to make a team work.
+### Overall
+- Based on reading this, it demonstrates my compatibility with the company's ethos and traits that they wish for me to be apart of their team. 
+- If you are pleased with my communicaiton skills and perosnality traits that matches with your company, please take a look at my Public Repositries and consider me as a member to be apart of your team!
+- Thank you for taking the time to read this post.
+- Note: I removed media as it was unrelated to my professional GitHub page and I want to keep this as professional as possible.
 
 
