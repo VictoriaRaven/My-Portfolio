@@ -26,7 +26,6 @@ Later on, I will post my other codes or repositories in different languages. If 
 - Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, protective, and a great team player.
 ### My Media / YouTube
 - My Spotify playlist: [2025 Global Playlist](https://open.spotify.com/playlist/71emCwwP5kE4DQTROKiJ3F?si=L1MzHxHYSOqObqqFq-lo_A&pi=Y99IcV4HSBC1_)
-- My YouTube Channel: [VRave6](https://youtube.com/@virave650?feature=shared)
 - My Website/Blog: TBA.
 
 
