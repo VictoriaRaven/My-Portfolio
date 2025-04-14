@@ -19,7 +19,13 @@ Later on, I will post my other codes or repositories in different languages. If 
 - Russian
 - Ukrainian
 - Others (After I get extremely fluent in these three)
-### Fun Facts and Personality
+### Main Skills / Traits:
+- **Technical Skills:** Java (Intermediate, some Advanced), Python; C++; Microsoft & Google Office (Intermediate), C; HTML; JavaScript;
+CSS; SQL; Git (Intro)
+- **Professional Certifications:** z/OS: Mainframe Practitioner
+- **Traits:** Teamwork, Communication, Multitasking, Leadership, Critical Thinking, Problem Solving, Perseverance, Adaptability
+### Fun Facts and Personality:
+- I like fast paced environments, working indpendently/as a team (dependently), and making postive impacts to the company's goals/ethos or communities.
 - I love learning different cultures and continuing to explore more about CS by keeping up-to-date, using Git, and curiosity.
 - I believe that CS can be integrated into many different subjects!
 - On my free time I like to go outdoors, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal Justice hybrids with CS.
