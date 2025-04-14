@@ -13,16 +13,18 @@ Hi! If you are here looking for my most of my portfolio of (Java, C++, Python, H
 - AI/Machine Learning (Any topics)
 - Mathematics (Calculus: 1-3; Differential Equations and Linear Algebra; Basic Statistics);
 - General Physics (1-3)
+### Languages
+Later on, I will post my other codes or repositories in different languages. If you prefer to discuss other topics in another language these are the languages I am compatible with where top is more fluent vs bottom less fluent (writing; speaking; reading)
+- French 
+- Russian
+- Ukrainian
+- Others (After I get extremely fluent in these three)
 ### Fun Facts
 - I love learning different cultures and continuing to explore more about CS by keeping up-to-date, using Git, and curiosity.
 - I believe that CS can be integrated into many different subjects!
-- On my free time I like to go outdoors, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal justice hybrids with CS.
+- On my free time I like to go outdoors, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal Justice hybrids with CS.
 - Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, protective, and a great team player.
-### Languages
-If you prefer to discuss other topics in another language these are the languages I am compatible with where top is more fluent vs bottom less fluent (writing; speaking; reading)
-- French 
-- Russian/Ukrainian
-- Other (After I get extremely fluent in these three)
-
+- 
+- 
 
 
