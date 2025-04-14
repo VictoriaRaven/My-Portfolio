@@ -6,10 +6,10 @@ Hi there! All of my **Public Repositories** has my Public Projects/Class. Feel f
 ### Main Interests: 
 - Software Engineer or Software Developer
 ### Other Interests:
-- IT (Netowrking; Security; Cloud);
+- IT (Networking; Security; Cloud);
 - Cybersecurity (Hacking; Antivirus; Security);
 - Cryptograhy (Hashing; MSGS; Security);
-- Data Science (Law firms like Westlaw/Nexus Uni)
+- Data Science (Law firms like Westlaw/Nexus Uni; Gov/Intelligence databases)
 - AI/Machine Learning (Any topics)
 - Mathematics (Calculus: 1-3; Differential Equations and Linear Algebra; Basic Statistics);
 - General Physics (1-3)
