@@ -4,8 +4,8 @@ Hi there! All of my **Public Repositories** has my Public Projects/Class. Feel f
 ### -VictoriaRaven
 ## About Me
 ### Main Interests: 
-- Software Engineer
-- Software Developer
+- Software Engineer (Any topics)
+- Software Developer (Any topics)
 ### Other Interests:
 - IT (Networking; Security; Cloud);
 - Cybersecurity (Hacking; Antivirus; Security);
