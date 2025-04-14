@@ -31,14 +31,20 @@ Later on, I will post my other codes or repositories in different languages. If 
 - I believe that CS can be integrated into many different subjects!
 - On my free time I like to go outdoors, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal Justice hybrids with CS.
 - Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, shrewd, protective, and a great team player.
-- While others may have misunderstood me due to my communication style.
+- While others may have misunderstood me due to my communication style:
   - I lean more towards direct communication (includes constructive feedbacks professionally), which why others with indirect communication may misinterpret or misunderstood my intentions out of not being used to my directness.
+  - Others who disagree and think I'm not direct forget that I adapted my tone or words (similar to a chameleon/lyrebirds) to adjust to the indirect communication which is why he/she doesn't notice it or assume I am mocking/copying them when I'm just adjusting to the other style of communicating.
+  - In the professional world, I learned that sometimes you have to be indirect/passive agressive to resolve issues (coworkers, leaders, roles, tasks, keeping track of things, etc.) as it would offend them and destroy your chances of working cooperatively if it is direct.
+  - To prove this, I watch and analyze these traits when dealing with people on how he/she handles constructive criticism/feedback.
+    - This is proven through the Communication Theory Class I took.
+    - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive agressiveness, and nonverbal cues.
+      - [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
+      - [Indirect includes Passive Agressiveness](https://www.verywellmind.com/what-is-passive-aggressive-behavior-2795481)
+        - Ex: Refusing to provide information and waiting until the last minute can be a form of indirect communication, potentially indicating passive-aggressive behavior. This approach is a lack of transparency and can be seen as a way of expressing negative feelings or avoiding direct confrontation.
+      - I watch and analyze when dealing with people on how he/she handles consturctive criticism/feedback.
+  - I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct as that is the "real" me.
   - To mitigate this, I have enhanced my communication skills through my Minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
-  - My goal if positioned as a leader is to not only being direct, but also learning to listen and adjust my directness to other commmunicaiton styles (like professional constructive feedback rather than blaming someone, etc.) and also make teamwork sucessful, including making time to teach my team as well.
-### My Media (what I enjoy listening to):
-- My Spotify playlist: [2025 Global Playlist](https://open.spotify.com/playlist/71emCwwP5kE4DQTROKiJ3F?si=L1MzHxHYSOqObqqFq-lo_A&pi=Y99IcV4HSBC1_)
-- My Website/Blog: TBA.
-
-
+  - My goal (if positioned as a leader) is to not only being direct, but also teaching others, learning to listen, and adjust my directness to other commmunicaiton styles (like professional constructive feedback rather than blaming someone, etc.) and also make teamwork sucessful, including making time to teach my team as well.
+- Note: removed media as it was unrelated to my professional GitHub page.
 
 
