@@ -39,9 +39,9 @@ Later on, I will post my other codes or repositories in different languages. If 
     - This is proven through the Communication Theory Class I took.
     - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive agressiveness, and nonverbal cues.
       - [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
+        - Direct Ex: Letting someone know something ahead of time is an example of direct communication. Direct communication involves conveying information clearly and without ambiguity, and providing advance notice falls under this definition. 
       - [Indirect includes Passive Agressiveness](https://www.verywellmind.com/what-is-passive-aggressive-behavior-2795481)
-        - Ex: Refusing to provide information and waiting until the last minute can be a form of indirect communication, potentially indicating passive-aggressive behavior. This approach is a lack of transparency and can be seen as a way of expressing negative feelings or avoiding direct confrontation.
-      - I watch and analyze when dealing with people on how he/she handles consturctive criticism/feedback.
+        - Indirect Ex: Refusing to provide information and waiting until the last minute can be a form of indirect communication, potentially indicating passive-aggressive behavior. This approach is a lack of transparency and can be seen as a way of expressing negative feelings or avoiding direct confrontation.
   - I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct as that is the "real" me.
   - To mitigate this, I have enhanced my communication skills through my Minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
   - My goal (if positioned as a leader) is to not only being direct, but also teaching others, learning to listen, and adjust my directness to other commmunicaiton styles (like professional constructive feedback rather than blaming someone, etc.) and also make teamwork sucessful, including making time to teach my team as well.
