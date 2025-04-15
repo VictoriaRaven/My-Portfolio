@@ -32,7 +32,7 @@ Later on, I will post my other codes or repositories in different languages. If 
 - On my free time I like to go outdoors, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal Justice hybrids with CS.
 - Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, shrewd, protective, and a great team player.
 - While others may have misunderstood me due to my communication style:
-  - I lean more towards direct communication (includes constructive feedbacks professionally), which why others with indirect communication may misinterpret or misunderstood my intentions out of not being used to my directness.
+  - I lean more towards direct communication as I am a U.S. Born Citzen and having French culture since I know some connections in France (includes constructive feedbacks professionally), which why others with indirect communication may misinterpret or misunderstood my intentions out of not being used to my directness.
   - Others who disagree and think I'm not direct forget that I adapted my tone or words (similar to a chameleon/lyrebirds) to adjust to the indirect communication which is why he/she doesn't notice it or assume I am mocking/copying them when I'm just adjusting to the other style of communicating.
   - In the professional world, I learned that sometimes you have to be indirect/passive agressive to resolve issues (coworkers, leaders, roles, tasks, keeping track of things, etc.) as it would offend them and destroy your chances of working cooperatively if it is direct.
   - To prove this, I watch and analyze these traits when dealing with people on how he/she handles constructive criticism/feedback.
