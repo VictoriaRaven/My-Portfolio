@@ -50,7 +50,7 @@ Later on, I will post my other codes or repositories in different languages. If 
     - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive agressiveness, and nonverbal cues.
       - [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
         - Direct Ex: Letting someone know something ahead of time is an example of direct communication. Direct communication involves conveying information clearly and without ambiguity, and providing advance notice falls under this definition.
-        - Note: This means to be assertive NOT be aggressive! Being assertive is very different than being aggressive (threating way where it forces them to use indirect styles to mitigate this)! [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
+        - Note: This means to be assertive NOT be aggressive! Being assertive is very different than being aggressive(where it forces them to use indirect styles to mitigate this)! [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
       - [Indirect includes Passive Agressiveness](https://www.verywellmind.com/what-is-passive-aggressive-behavior-2795481)
         - Indirect Ex: Refusing to provide information and waiting until the last minute can be a form of indirect communication, potentially indicating passive-aggressive behavior. This approach is a lack of transparency and can be seen as a way of expressing negative feelings or avoiding direct confrontation.
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
