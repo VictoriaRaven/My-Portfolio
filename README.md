@@ -38,7 +38,7 @@ Later on, I will post my other codes or repositories in different languages. If 
 - In the professional world, I learned that sometimes you have to be indirect/passive agressive to resolve issues as it would offend the person and destroy your chances of working cooperatively if it is direct.
   - Ex of being indirect professionally: Instead of saying I want a different proposal it's not working (direct), you'd say: (indirect) I think we should maybe adjust the proposal just incase anything happens..
   - Other Ex of being indirect professionally: I don't think you did this right (direct), you'd say: (indirect) Maybe you could have add this feature or this one.
-- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct communication as that is the "real" me.
+- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct communication as that is the "real" me. It is also exhausting trying to be something you are not as well(indirect), but I can make it work temporarily at some point.
 - To mitigate this, I have enhanced my communication skills through my minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
 - My goal (if positioned as a leader) is to not only being direct, but also teaching others, learning to listen, and adjust my directness to other commmunicaiton styles (constructive feedback rather than blaming someone, etc.) and also make teamwork sucessful, including making time to teach my team as well.
 - I love to help others and bring a postive impact to my work and experinces.
