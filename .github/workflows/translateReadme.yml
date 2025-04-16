@@ -40,12 +40,6 @@ jobs:
         with:
           LANG: es
 
-      # Adding README - Portuguese (Brazil) (pt-BR)
-      - name: Adding README - Portuguese (Brazil)
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: pt-BR
-
       # Adding README - Dutch (nl)
       - name: Adding README - Dutch
         uses: dephraiim/translate-readme@main
@@ -92,15 +86,6 @@ jobs:
             echo "File README.es.md found."
           else
             echo "File README.es.md not found!" && exit 1
-        continue-on-error: false
-
-      # Check if README.pt-BR.md exists after translation
-      - name: Check if README.pt-BR.md exists
-        run: |
-          if [ -f "README.pt-BR.md" ]; then
-            echo "File README.pt-BR.md found."
-          else
-            echo "File README.pt-BR.md not found!" && exit 1
         continue-on-error: false
 
       # Check if README.nl.md exists after translation
@@ -190,15 +175,6 @@ jobs:
             echo "Failed to move README.es.md!" && exit 1
         continue-on-error: false
 
-      # Check if the move for Portuguese (Brazil) README was successful
-      - name: Check if move for Portuguese (Brazil) README was successful
-        run: |
-          if [ -f "languages/README.pt-BR.md" ]; then
-            echo "README.pt-BR.md successfully moved."
-          else
-            echo "Failed to move README.pt-BR.md!" && exit 1
-        continue-on-error: false
-
       # Check if the move for Dutch README was successful
       - name: Check if move for Dutch README was successful
         run: |
@@ -244,14 +220,6 @@ jobs:
           git add languages/README.es.md
           git status
           git commit -m "Add Spanish README translation"
-          git push origin main
-
-      # Commit and Push Translated README - Portuguese (Brazil)
-      - name: Commit and Push Translated README - Portuguese (Brazil)
-        run: |
-          git add languages/README.pt-BR.md
-          git status
-          git commit -m "Add Portuguese (Brazil) README translation"
           git push origin main
 
       # Commit and Push Translated README - Dutch
