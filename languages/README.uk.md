@@ -1,6 +1,6 @@
 # Мій-портфоліо
 
-[![Static Badge](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.fr.md)[![Static Badge](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.es.md)[![Static Badge](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.ru.md)[![Static Badge](https://img.shields.io/badge/Language-Ukrainian-yellow)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.uk.md)[![Static Badge](https://img.shields.io/badge/Language-Dutch-green)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.nl.md)
+[![Static Badge](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md) [![Static Badge](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md) [![Static Badge](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md) [![Static Badge](https://img.shields.io/badge/Language-Ukrainian-yellow)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.uk.md) [![Static Badge](https://img.shields.io/badge/Language-Dutch-green)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.nl.md)
 
 ## Повідомлення
 
