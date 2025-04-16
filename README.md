@@ -31,13 +31,11 @@ Later on, I will post my other codes or repositories in different languages. If 
 - I believe that CS can be integrated into many different subjects!
 - On my free time I like to go outdoors, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal Justice hybrids with CS.
 - Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, shrewd, protective, and a great team player.
-- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct communication as that is the "real" me. It is also exhausting trying to be something you are not as well (indirect), but I can make it work temporarily at some point.
+- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct communication as that is the "real" me.
 - To mitigate this, I have enhanced my communication skills through my minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
 - My goal (if positioned as a leader) is to not only being direct, but also teaching others, learning to listen, and adjust my directness to other commmunicaiton styles (constructive feedback rather than blaming someone, etc.) and also make teamwork sucessful, including making time to teach my team as well.
-- I love to help others and bring a postive impact to my work and experinces.
-- Even though others may not like my style of communicating or how I make time to adjust to their style, I still enjoy working with them and learning how to teach my knowledge to show that I care for my team.
+- I love to help others and bring a postive impact to my work and experinces to show that I care for my team.
   - I want each of my members to not only be a part of the team, but also to grow their skills and traits no matter what level they are at (Intro, Intermediate, Advanced)
-  - To prove this, I watch and analyze these traits when dealing with people on how the person handles constructive criticism/feedback based on the Communication Theory Class I took (References listed below) which is very helpful when working in a team or requires teamwork!
     - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive agressiveness, and nonverbal cues.
       - [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
 - [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
