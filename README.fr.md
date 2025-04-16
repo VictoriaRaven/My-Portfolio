@@ -1,10 +1,10 @@
 # My-portfolio
 
-[![Static Badge](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.fr.md)[![Static Badge](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.es.md)[![Static Badge](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.ru.md)[![Static Badge](https://img.shields.io/badge/Language-Ukrainian-yellow)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.uk.md)[![Static Badge](https://img.shields.io/badge/Language-Dutch-green)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.nl.md)
+[![Static Badge](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.fr.md)[![Static Badge](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.es.md)[![Static Badge](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.ru.md)[![Static Badge](https://img.shields.io/badge/Language-Ukrainian-yellow)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.uk.md) [![Static Badge](https://img.shields.io/badge/Language-Dutch-green)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.nl.md)
 
 ## Message
 
-Salut! Tous mes référentiels publics ont mes projets publics / classe. N'hésitez pas à les vérifier sur ma page d'accueil[Page d'accueil](https://github.com/VictoriaRaven?tab=repositories). Lorsque j'obtiens obtenu mon diplôme en mai 2025 à l'UMGC, je ferai brièvement mes autres codes privés en public pour les futures demandes d'emploi, puis la fermerai après la fin. En effet, certains des référentiels ont une clé de réponse dans quelques-uns de mes anciennes classes Java, C ++, Python, HTML, etc. qui briseraient les politiques universitaires / collégiales pour partager les clés de réponse publiquement. Cependant, pendant la courte période, je l'ouvrirai brièvement publiquement afin que vous puissiez voir ce que j'ai appris dans ma classe et pour les candidatures. Ceux publics ne sont pas une clé de réponse, mais mes projets que j'ai ajustés en utilisant mes compétences en résolution de problèmes et les leçons apprises dans mes cours CS (y compris les mathématiques, la physique, LGST, etc.). Pour l'instant, n'hésitez pas à me contacter pour voir les autres codes de classe avec des clés de réponse en privé dans un lien séparé pour les autres référentiels privés. Merci!
+Hi there! All of my Public Repositories has my Public Projects/Class. Feel free to check them out at my home page [Page d'accueil](https://github.com/VictoriaRaven?tab=repositories). Lorsque j'obtiens obtenu mon diplôme en mai 2025 à l'UMGC, je ferai brièvement mes autres codes privés en public pour les futures demandes d'emploi, puis la fermerai après la fin. En effet, certains des référentiels ont une clé de réponse dans quelques-uns de mes anciennes classes Java, C ++, Python, HTML, etc. qui briseraient les politiques universitaires / collégiales pour partager les clés de réponse publiquement. Cependant, pendant la courte période, je l'ouvrirai brièvement publiquement afin que vous puissiez voir ce que j'ai appris dans ma classe et pour les candidatures. Ceux publics ne sont pas une clé de réponse, mais mes projets que j'ai ajustés en utilisant mes compétences en résolution de problèmes et les leçons apprises dans mes cours CS (y compris les mathématiques, la physique, LGST, etc.). Pour l'instant, n'hésitez pas à me contacter pour voir les autres codes de classe avec des clés de réponse en privé dans un lien séparé pour les autres référentiels privés. Merci!
 
 ### -Victoriaraven
 
@@ -13,7 +13,7 @@ Salut! Tous mes référentiels publics ont mes projets publics / classe. N'hési
 ### Intérêts principaux:
 
 -   Ingénieur logiciel (tous les sujets)
--   Développeur de logiciels (tous les sujets)
+-   Software Developer (Any topics)
 
 ### Autres intérêts:
 
@@ -27,8 +27,8 @@ Salut! Tous mes référentiels publics ont mes projets publics / classe. N'hési
 
 ### Compétences / traits principaux:
 
--   **Compétences techniques:**Java (intermédiaire, certains avancé), Python; C ++; Microsoft & Google Office (Intermediate), C; Html; JavaScript;
-    CSS; SQL; Git (intro, peu intermédiaire / avancé)
+-   **Compétences techniques:** Java (Intermediate, some Advanced), Python; C++; Microsoft & Google Office (Intermediate), C; HTML; JavaScript;
+    CSS; SQL; Git (Intro, few intermediate/advanced)
 -   **Certifications professionnelles:**Z / OS: praticien Mainframe
 -   **Traits:**Travail d'équipe, communication, multitâche, leadership, pensée critique, résolution de problèmes, persévérance, adaptabilité
 
@@ -41,7 +41,7 @@ Plus tard, je publierai mes autres codes ou référentiels dans différentes lan
 -   ukrainien
 -   D'autres (après avoir été extrêmement couronné par ces trois)
 
-### Fun Facts and Personality:
+### Faits et personnalité amusants:
 
 -   J'aime les environnements à rythme rapide, le travail de manière indépendante ou en équipe (travail d'équipe / dépendance) et avoir des impacts postifs sur les objectifs / éthos ou les communautés de l'entreprise.
 -   J'adore apprendre différentes cultures et continuer à explorer davantage sur CS en me précipitant, en utilisant du git et en curiosité.
@@ -54,7 +54,7 @@ Plus tard, je publierai mes autres codes ou référentiels dans différentes lan
 -   J'adore aider les autres et apporter un impact positif à mon travail et à mes expériences pour montrer que je tiens à mon équipe.
     -   Je veux que chacun de mes membres fasse non seulement partie de l'équipe, mais aussi de développer leurs compétences et leurs traits quel que soit le niveau qu'ils sont (intro, intermédiaire, avancé)
         -   La théorie de la communication indique: la communication directe implique une expression explicite et simple, tandis que la communication indirecte repose sur les nuances, les implications, l'agressivité passive et les indices non verbaux.
-            -   [Exemples indirects directs](https://www.indeed.com/career-advice/career-development/direct-communication)
+            -   [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
             -   [Affirmation v. Passive ou. Agressif](https://youtu.be/KmrokQdsjTA?feature=shared)
             -   [Direct c. Indirect basé sur les pays / cultures: Video YouTube 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
             -   [Direct c. Indirect basé sur les pays / cultures: Video YouTube 2](https://youtu.be/ZjwiX6KNAHE?feature=shared&t=229)
