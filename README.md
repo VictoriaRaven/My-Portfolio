@@ -31,28 +31,16 @@ Later on, I will post my other codes or repositories in different languages. If 
 - I believe that CS can be integrated into many different subjects!
 - On my free time I like to go outdoors, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal Justice hybrids with CS.
 - Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, shrewd, protective, and a great team player.
-- While others may have misunderstood me due to my communication style:
-  - I am a direct communicator as I am a U.S. Citizen born/grew up in the U.S.A. with some French culture since I have some connections in France, which why others with indirect communication may misinterpret or misunderstood my intentions out of not being used to my directness. Also since I look or appear as "Asian" people assume I am indirect when I'm actually a direct communicator growing up in America as an American born citizen.
-  - Others who disagree and think I'm not direct forget that I adapted my tone or words (similar to a chameleon/lyrebirds) to adjust to the indirect communication which is why the person doesn't notice it.
-    -  Or assume I am mocking or copying them when I'm just adjusting to the other style of communicating (indirect).
-- In the professional world, I learned that sometimes you have to be indirect/passive agressive to resolve issues as it would offend the person and destroy your chances of working cooperatively if it is direct.
-  - Ex of being indirect professionally: Instead of saying I want a different proposal it's not working (direct), you'd say: (indirect) I think we should maybe adjust the proposal just incase anything happens..
-  - Other Ex of being indirect professionally: I don't think you did this right (direct), you'd say: (indirect) Maybe you could have add this feature or this one.
-- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct communication as that is the "real" me. It is also exhausting trying to be something you are not as well(indirect), but I can make it work temporarily at some point.
+- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct communication as that is the "real" me. It is also exhausting trying to be something you are not as well (indirect), but I can make it work temporarily at some point.
 - To mitigate this, I have enhanced my communication skills through my minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
 - My goal (if positioned as a leader) is to not only being direct, but also teaching others, learning to listen, and adjust my directness to other commmunicaiton styles (constructive feedback rather than blaming someone, etc.) and also make teamwork sucessful, including making time to teach my team as well.
 - I love to help others and bring a postive impact to my work and experinces.
 - Even though others may not like my style of communicating or how I make time to adjust to their style, I still enjoy working with them and learning how to teach my knowledge to show that I care for my team.
   - I want each of my members to not only be a part of the team, but also to grow their skills and traits no matter what level they are at (Intro, Intermediate, Advanced)
-    - This is also one of the cons I deal with when in a team because not everyone enjoys being taught by others. Others may prefer to learn it individually or not learn it at all out of disinterest, in which I will let them be who they are. I do not enforce people to change, but I do my best as a team player and leader to adjust to thier skills to make a team work.
-  - To prove this, I watch and analyze these traits when dealing with people on how the person handles constructive criticism/feedback.
-    - This is proven through the Communication Theory Class I took (References listed below) which is very helpful when working in a team or requires teamwork!
+  - To prove this, I watch and analyze these traits when dealing with people on how the person handles constructive criticism/feedback based on the Communication Theory Class I took (References listed below) which is very helpful when working in a team or requires teamwork!
     - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive agressiveness, and nonverbal cues.
       - [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
-        - Direct Ex: Letting someone know something ahead of time is an example of direct communication. Direct communication involves conveying information clearly and without ambiguity, and providing advance notice falls under this definition.
-        - Note: This means to be assertive NOT be aggressive! Being assertive is very different than being aggressive(where it forces them to use indirect styles to mitigate this)! [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
-      - [Indirect includes Passive Agressiveness](https://www.verywellmind.com/what-is-passive-aggressive-behavior-2795481)
-        - Indirect Ex: Refusing to provide information and waiting until the last minute can be a form of indirect communication, potentially indicating passive-aggressive behavior. This approach is a lack of transparency and can be seen as a way of expressing negative feelings or avoiding direct confrontation.
+- [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 2](https://youtu.be/ZjwiX6KNAHE?feature=shared&t=229)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 3](https://youtu.be/qKViQSnW-UA?si=fBhuKTvSY6Wy9VXX)
