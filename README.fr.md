@@ -1,10 +1,10 @@
 # My-portfolio
 
-[![Static Badge](https://img.shields.io/badge/language-French-blue)](https://github.com/[user]/[repository])[![](your-img-src)](your-link-here)[![](your-img-src)](your-link-here)
+[![Static Badge](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.fr.md)[![Static Badge](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.es.md)[![Static Badge](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.ru.md)[![Static Badge](https://img.shields.io/badge/Language-Ukrainian-yellow)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.uk.md)[![Static Badge](https://img.shields.io/badge/Language-Dutch-green)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.nl.md)
 
 ## Message
 
-Salut! Les « dépôts publics » sont tous mes « projets/classes publics ». [Page d'accueil](https://github.com/VictoriaRaven?tab=repositories). Lorsque j'obtiens obtenu mon diplôme en mai 2025 à l'UMGC, je ferai brièvement mes autres codes privés en public pour les futures demandes d'emploi, puis la fermerai après la fin. En effet, certains des référentiels ont une clé de réponse dans quelques-uns de mes anciennes classes Java, C ++, Python, HTML, etc. qui briseraient les politiques universitaires / collégiales pour partager les clés de réponse publiquement. Cependant, pendant la courte période, je l'ouvrirai brièvement publiquement afin que vous puissiez voir ce que j'ai appris dans ma classe et pour les candidatures. Ceux publics ne sont pas une clé de réponse, mais mes projets que j'ai ajustés en utilisant mes compétences en résolution de problèmes et les leçons apprises dans mes cours CS (y compris les mathématiques, la physique, LGST, etc.). Pour l'instant, n'hésitez pas à me contacter pour voir les autres codes de classe avec des clés de réponse en privé dans un lien séparé pour les autres référentiels privés. Merci!
+Salut! Tous mes référentiels publics ont mes projets publics / classe. N'hésitez pas à les vérifier sur ma page d'accueil[Page d'accueil](https://github.com/VictoriaRaven?tab=repositories). Lorsque j'obtiens obtenu mon diplôme en mai 2025 à l'UMGC, je ferai brièvement mes autres codes privés en public pour les futures demandes d'emploi, puis la fermerai après la fin. En effet, certains des référentiels ont une clé de réponse dans quelques-uns de mes anciennes classes Java, C ++, Python, HTML, etc. qui briseraient les politiques universitaires / collégiales pour partager les clés de réponse publiquement. Cependant, pendant la courte période, je l'ouvrirai brièvement publiquement afin que vous puissiez voir ce que j'ai appris dans ma classe et pour les candidatures. Ceux publics ne sont pas une clé de réponse, mais mes projets que j'ai ajustés en utilisant mes compétences en résolution de problèmes et les leçons apprises dans mes cours CS (y compris les mathématiques, la physique, LGST, etc.). Pour l'instant, n'hésitez pas à me contacter pour voir les autres codes de classe avec des clés de réponse en privé dans un lien séparé pour les autres référentiels privés. Merci!
 
 ### -Victoriaraven
 
@@ -41,7 +41,7 @@ Plus tard, je publierai mes autres codes ou référentiels dans différentes lan
 -   ukrainien
 -   D'autres (après avoir été extrêmement couronné par ces trois)
 
-### Faits et personnalité amusants:
+### Fun Facts and Personality:
 
 -   J'aime les environnements à rythme rapide, le travail de manière indépendante ou en équipe (travail d'équipe / dépendance) et avoir des impacts postifs sur les objectifs / éthos ou les communautés de l'entreprise.
 -   J'adore apprendre différentes cultures et continuer à explorer davantage sur CS en me précipitant, en utilisant du git et en curiosité.
@@ -63,6 +63,6 @@ Plus tard, je publierai mes autres codes ou référentiels dans différentes lan
 ### Dans l'ensemble
 
 -   Sur la base de la lecture de ceci, cela démontre ma compatibilité avec l'éthique et les traits de l'entreprise qu'ils souhaitent que je sois en dehors de leur équipe.
--   Si vous êtes satisfait de mes compétences en communication et de mes traits de personnalité qui correspondent à votre entreprise pour un travail individuel ou un travail d'équipe, veuillez jeter un œil à mes référentiels publics et me considérer comme un membre pour être séparé de votre équipe!
+-   Si vous êtes satisfait de mes compétences en communication et de mes traits de personnalité qui correspondent à votre entreprise pour un travail individuel ou un travail d'équipe, veuillez jeter un œil à mes référentiels publics et me considérer comme un membre pour être en dehors de votre équipe!
 -   Merci d'avoir pris le temps de lire ce post.
 -   Remarque: J'ai supprimé les médias car il n'était pas lié à ma page GitHub professionnelle et je veux garder cela aussi professionnel que possible.
