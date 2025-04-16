@@ -55,7 +55,7 @@
     -   Я хочу, щоб кожен з моїх членів не тільки був частиною команди, але й розвивати свої навички та риси, незалежно від того, на якому рівні вони знаходяться (вступні, проміжні, вдосконалені)
         -   Теорія комунікації: Пряме спілкування передбачає явне та пряме вираження, тоді як непряме спілкування покладається на нюанси, наслідки, пасивну агресивність та невербальні підказки.
             -   [Прямий проти непрямих прикладів](https://www.indeed.com/career-advice/career-development/direct-communication)
-            -   [Assertive проти пасивного або. Агресивний](https://youtu.be/KmrokQdsjTA?feature=shared)
+            -   [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
             -   [Прямий проти непрямого на основі країн/культур: відео YouTube 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
             -   [Direct v. Непрямі на основі країн/культур: YouTube Video 2](https://youtu.be/ZjwiX6KNAHE?feature=shared&t=229)
             -   [Прямий проти непрямо на основі країн/культур: YouTube Video 3](https://youtu.be/qKViQSnW-UA?si=fBhuKTvSY6Wy9VXX)
