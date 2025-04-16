@@ -1,6 +1,6 @@
 # Мій-портфоліо
 
-[![Static Badge](https://img.shields.io/badge/language-French-blue)](https://github.com/[user]/[repository])[![](your-img-src)](your-link-here)[![](your-img-src)](your-link-here)
+[![Static Badge](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.fr.md)[![Static Badge](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.es.md)[![Static Badge](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.ru.md)[![Static Badge](https://img.shields.io/badge/Language-Ukrainian-yellow)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.uk.md)[![Static Badge](https://img.shields.io/badge/Language-Dutch-green)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.nl.md)
 
 ## Повідомлення
 
@@ -47,7 +47,7 @@
 -   Я люблю вивчати різні культури і продовжую досліджувати більше про КС, підтримуючи сучасність, використовуючи GIT та цікавість.
 -   Я вважаю, що CS можна інтегрувати в багато різних предметів!
 -   У вільний час я люблю виходити на вулицю, тренування, читати, кодувати, грати в ігри, вивчати різні культури, вивчення мови, НАТО/ЄС/іноземні політики, а також гібриди закону/кримінальної юстиції з CS.
--   Більшість людей, яких я знаю, вважають мене відданим, лояльним, прямим комунікатором, нахабним, впевненим, лідером/викладачем, аналітичним, кревим, захисним та чудовим гравцем команди.
+-   Більшість людей, яких я знаю, вважають мене відданим, лояльним, прямим комунікатором, нахабним, впевненим, лідером/викладачем, аналітичним, кмітливим, захисним та чудовим гравцем команди.
 -   Я навчився коригувати та звикати до обох типів комунікацій (непрямих та прямих) під час мого попереднього досвіду, але вважаю за краще використовувати пряме спілкування, оскільки це "справжній" я.
 -   Щоб пом'якшити це, я покращив свої навички спілкування завдяки своєму неповнолітньому закону про бізнес та беруть безкоштовні онлайн -бічні курси щодо того, як боротися з цими типами комунікаторів.
 -   Моя мета (якщо позиціонує як лідера) - це не лише бути прямим, але й навчати інших, бути хорошим слухачем, пристосуватися до інших стилів Commmunicaiton, таких як конструктивний зворотній зв'язок, а не звинувачувати когось, і зробити командну роботу успішною (потребуючи часу, щоб навчити мою команду).
