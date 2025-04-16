@@ -38,7 +38,7 @@ Later on, I will post my other codes or repositories in different languages. If 
   - I want each of my members to not only be a part of the team, but also to grow their skills and traits no matter what level they are at (Intro, Intermediate, Advanced)
     - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive agressiveness, and nonverbal cues.
       - [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
-- [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
+      - [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 2](https://youtu.be/ZjwiX6KNAHE?feature=shared&t=229)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 3](https://youtu.be/qKViQSnW-UA?si=fBhuKTvSY6Wy9VXX)
