@@ -1,10 +1,10 @@
 # My-Portfolio
 
-[![Static Badge](https://img.shields.io/badge/language-French-blue)](https://github.com/[user]/[repository])[![](your-img-src)](your-link-here)[![](your-img-src)](your-link-here)
+[![Static Badge](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.fr.md)[![Static Badge](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.es.md)[![Static Badge](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.ru.md)[![Static Badge](https://img.shields.io/badge/Language-Ukrainian-yellow)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.uk.md)[![Static Badge](https://img.shields.io/badge/Language-Dutch-green)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.nl.md)
 
 ## Mensaje
 
-¡Hola! Todos mis repositorios públicos tienen mis proyectos públicos/clase. No dude en verlos en mi página de inicio[Página de inicio](https://github.com/VictoriaRaven?tab=repositories). Cuando me gradúe en mayo de 2025 en UMGC, haré brevemente mis otros códigos privados en público para futuras solicitudes de empleo y luego lo cerraré después de completar. Esto se debe a que algunos de los repositorios tienen una clave de respuesta en algunos de mis viejos clases Java, C ++, Python, HTML, etc. que violarían las políticas universitarias/universitarias para compartir las claves de respuesta públicamente. Sin embargo, durante el corto período, lo abriré brevemente públicamente para que pueda ver lo que aprendí en mi clase y para las solicitudes de empleo. Los públicos no son una clave de respuesta, sino mis proyectos que ajusté usando mis habilidades de resolución de problemas y las lecciones aprendidas en mis clases de CS (incluidas las matemáticas, la física, LGST, etc.). Por ahora, no dude en ponerse en contacto conmigo para ver los otros códigos de clase con claves de respuesta en privado en un enlace separado para los otros repositorios privados. ¡Gracias!
+¡Hola! Todos mis repositorios públicos tienen mis proyectos públicos/clase. No dude en verlos en mi página de inicio[Página de inicio](https://github.com/VictoriaRaven?tab=repositories). When I graduate in May 2025 at UMGC, I will briefly make my other private codes in public for future job applications and then close it after completed. This is because some of the repositories has an answer key in a few of my old Java, C++, Python, HTML, etc. classes which would be breaching the University/College policies to share the answer keys publicly. However, during the short period, I will briefly open it publicly so you can see what I learned in my class and for the job applications. The ones public ones are not an answer key but my projects that I adjusted using my problem solving skills and the lessons learned in my CS classes (including Math, Physics, LGST, etc). For now, please feel free to contact me to see the other class codes with answer keys privately in a separate link for the other private repositories. Thank you!
 
 ### -Victoriaraven
 
@@ -27,8 +27,8 @@
 
 ### Habilidades principales / rasgos:
 
--   **Habilidades técnicas:** Java (Intermediate, some Advanced), Python; C++; Microsoft & Google Office (Intermediate), C; HTML; JavaScript;
-    CSS; SQL; Git (Intro, few intermediate/advanced)
+-   **Habilidades técnicas:**Java (intermedio, algunos avanzados), Python; C ++; Microsoft y Google Office (intermedio), c; Html; JavaScript;
+    CSS; Sql; Git (introducción, pocos intermedios/avanzados)
 -   **Certificaciones profesionales:**Z/OS: Practicante de Mainframe
 -   **Características:**Trabajo en equipo, comunicación, multitarea, liderazgo, pensamiento crítico, resolución de problemas, perseverancia, adaptabilidad
 
