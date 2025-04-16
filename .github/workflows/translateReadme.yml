@@ -15,18 +15,72 @@ jobs:
           node-version: 12.x
 
       # ISO Language Codes: https://cloud.google.com/translate/docs/languages  
+      - name: Adding README - Chinese Simplified
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-CN
+
+      - name: Adding README - Chinese Traditional
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: zh-TW
+
+      - name: Adding README - Hindi
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: hi
+
+      - name: Adding README - Arabic
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ar
+
       - name: Adding README - French
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
 
+      # Debugging: Check the contents of the repository after translation
+      - name: List files in the repository
+        run: |
+          echo "Listing files in the current directory:"
+          ls -alh
+
+      # Check if README.fr.md exists after translation
+      - name: Check if README.fr.md exists
+        run: |
+          if [ -f "README.fr.md" ]; then
+            echo "File README.fr.md found."
+          else
+            echo "File README.fr.md not found!" && exit 1
+        continue-on-error: false
+
+      # Move the French README to the languages folder
       - name: Move French README to languages folder
         run: |
           mkdir -p languages
           mv README.fr.md languages/README.fr.md
+        continue-on-error: false
 
+      # Check if the move was successful
+      - name: Check if move was successful
+        run: |
+          if [ -f "languages/README.fr.md" ]; then
+            echo "README.fr.md successfully moved."
+          else
+            echo "Failed to move README.fr.md!" && exit 1
+        continue-on-error: false
+
+      # Set up git config to ensure commits are made correctly
+      - name: Set up Git configuration
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Commit and Push Translated README
       - name: Commit and Push Translated README
         run: |
           git add languages/README.fr.md
+          git status
           git commit -m "Add French README translation"
-          git push
+          git push origin main
