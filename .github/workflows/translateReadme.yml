@@ -1,0 +1,32 @@
+name: Translate README
+
+on:
+  workflow_dispatch: # This allows the workflow to be triggered manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+
+      # ISO Language Codes: https://cloud.google.com/translate/docs/languages  
+      - name: Adding README - French
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: fr
+
+      - name: Move French README to languages folder
+        run: |
+          mkdir -p languages
+          mv README.fr.md languages/README.fr.md
+
+      - name: Commit and Push Translated README
+        run: |
+          git add languages/README.fr.md
+          git commit -m "Add French README translation"
+          git push
