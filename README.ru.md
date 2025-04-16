@@ -1,6 +1,6 @@
 # My-Portfolio
 
-[![Static Badge](https://img.shields.io/badge/language-French-blue)](https://github.com/[user]/[repository])[![](your-img-src)](your-link-here)[![](your-img-src)](your-link-here)
+[![Static Badge](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.fr.md)[![Static Badge](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.es.md)[![Static Badge](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.ru.md)[![Static Badge](https://img.shields.io/badge/Language-Ukrainian-yellow)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.uk.md)[![Static Badge](https://img.shields.io/badge/Language-Dutch-green)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/README.nl.md)
 
 ## Сообщение
 
@@ -47,7 +47,7 @@
 -   Я люблю изучать разные культуры и продолжать изучать больше о CS, поддерживая в курсе, используя GIT и любопытство.
 -   Я считаю, что CS может быть интегрирован во множество разных предметов!
 -   В свободное время мне нравится выходить на улицу, тренироваться, читать, код, играть в игры, изучать различные культуры, изучение языка, НАТО/ЕС/иностранные политики, а также гибриды правозащитного правосудия с CS.
--   Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, shrewd, protective, and a great team player.
+-   Большинство людей, которых я знаю, считают меня преданным, лояльным, прямым коммуникатором, ужасным, уверенным, лидером/учителем, аналитическим, проницательным, защитным и отличным игроком команды.
 -   Я научился корректировать и привыкнуть к обоим типам связи (косвенных и прямых) во время моего предыдущего опыта, но предпочитаю использовать прямую связь, так как это «настоящий» я.
 -   Чтобы смягчить это, я улучшил свои навыки общения благодаря своему несовершеннолетнему в законе для бизнеса и бесплатно проходил онлайн -курсы о том, как справляться с этими типами коммуникаторов.
 -   Моя цель (если она позиционируется как лидер) - не только быть прямым, но и обучать других, быть хорошим слушателем, приспособиться к другим стилям Commmunicaiton, таким как конструктивная обратная связь, а не обвинять кого -то, и сделать командную работу успешной, (тратя время, чтобы преподавать мою команду).
