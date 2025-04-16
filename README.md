@@ -47,7 +47,7 @@ Later on, I will post my other codes or repositories in different languages. If 
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 3](https://youtu.be/qKViQSnW-UA?si=fBhuKTvSY6Wy9VXX)
 ### Overall
 - Based on reading this, it demonstrates my compatibility with the company's ethos and traits that they wish for me to be apart of their team. 
-- If you are pleased with my communication skills and personality traits that matches with your company for either individual work or teamwork,  please take a look at my **Public Repositories** and consider me as a member to be apart of your team!
+- If you are pleased with my communication skills and personality traits that matches with your company for either individual work or teamwork,  please take a look at my Public Repositories and consider me as a member to be apart of your team!
 - Thank you for taking the time to read this post.
 - Note: I removed media as it was unrelated to my professional GitHub page and I want to keep this as professional as possible.
 
