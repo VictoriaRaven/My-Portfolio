@@ -80,27 +80,11 @@ jobs:
           mv README.es.md languages/README.es.md
         continue-on-error: false
 
-      # Move the Portuguese (Brazil) README to languages folder
-      - name: Move Portuguese (Brazil) README to languages folder
-        run: |
-          mkdir -p languages
-          mv README.pt-BR.md languages/README.pt-BR.md
-        continue-on-error: false
-
       # Move the Dutch README to languages folder
       - name: Move Dutch README to languages folder
         run: |
           mkdir -p languages
           mv README.nl.md languages/README.nl.md
-        continue-on-error: false
-
-      # Check if the move for French README was successful
-      - name: Check if move for French README was successful
-        run: |
-          if [ -f "languages/README.fr.md" ]; then
-            echo "README.fr.md successfully moved."
-          else
-            echo "Failed to move README.fr.md!" && exit 1
         continue-on-error: false
 
       # Set up git config to ensure commits are made correctly
