@@ -1,11 +1,7 @@
 # My-Portfolio
-<p align="center">
-  <a href="https://github.com/[user]/[repository]">
-    <img alt="Static Badge" src="https://img.shields.io/badge/language-French-blue">
-  </a>
-  <a href=""><img alt="" src="" /></a>
-  <a href=""><img alt="" src="" /></a>
-</p>
+[![Static Badge](https://img.shields.io/badge/language-French-blue)](https://github.com/[user]/[repository])
+[![](your-img-src)](your-link-here)
+[![](your-img-src)](your-link-here)
 ## Message
 Hi there! All of my **Public Repositories** has my Public Projects/Class. Feel free to check them out at my home page [Home page](https://github.com/VictoriaRaven?tab=repositories). When I graduate in May 2025 at UMGC, I will briefly make my other private codes in public for future job applications and then close it after completed. This is because some of the repositories has an answer key in a few of my old Java, C++, Python, HTML, etc. classes which would be breaching the University/College policies to share the answer keys publicly. However, during the short period, I will briefly open it publicly so you can see what I learned in my class and for the job applications. The ones public ones are not an answer key but my projects that I adjusted using my problem solving skills and the lessons learned in my CS classes (including Math, Physics, LGST, etc). For now, please feel free to contact me to see the other class codes with answer keys privately in a separate link for the other private repositories. Thank you!
 ### -VictoriaRaven
