@@ -3,6 +3,8 @@
 - Note: Some of the translation may be incorrect as it was automated if you want to read this in a different language!
 ## Message
 Hi there! All of my Public Repositories has my Public Projects/Class. Feel free to check them out at my home page [Home page](https://github.com/VictoriaRaven?tab=repositories). When I graduate in May 2025 at UMGC, I will briefly make my other private codes in public for future job applications and then close it after completed. This is because some of the repositories has an answer key in a few of my old Java, C++, Python, HTML, etc. classes which would be breaching the University/College policies to share the answer keys publicly. However, during the short period, I will briefly open it publicly so you can see what I learned in my class and for the job applications. The ones public ones are not an answer key but my projects that I adjusted using my problem solving skills and the lessons learned in my CS classes (including Math, Physics, LGST, etc). For now, please feel free to contact me to see the other class codes with answer keys privately in a separate link for the other private repositories. Thank you!
+## My Contributions (Team/Group Projects)
+Here is a link to all of my Contributions on GitHub (including my CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 ### -VictoriaRaven
 ## About Me:
 ### Main Interests: 
