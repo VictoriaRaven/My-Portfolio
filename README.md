@@ -30,10 +30,10 @@ CSS; SQL; Git (Intro, few intermediate/advanced)
 - **Traits:** Teamwork, Communication, Multitasking, Leadership, Critical Thinking, Problem Solving, Perseverance, Adaptability
 ### Languages:
 Later on, I will post my other codes or repositories in different languages. If you prefer to discuss other topics in another language these are the languages I am compatible with where top is more fluent vs bottom less fluent (writing; speaking; reading)
-- French 
-- Russian
-- Ukrainian
-- Others (After I get extremely fluent in these three)
+- French (LEVELS - Speaking:Beginner/Conversational; Reading/Writing/Comprehension:Intermediate Low and Medium; Working On: Intermediate High and Advanced)
+- Russian (LEVELS - Speaking:Beginner/Conversational; Reading/Writing/Comprehension:Beginner/Conversational; Working On: Beginner and Intermediate (Low-High))
+- Italian/Spanish (After the first two above; Currently Only at Intro/Beginner/Conversational level for all parts)
+- Others like Ukrainian, etc. (After I get extremely fluent at the ones above)
 ### Fun Facts and Personality:
 - I like fast paced environments, working independently, or as a team (teamwork/dependently), and making postive impacts to the company's goals/ethos or communities.
 - I love learning different cultures and continuing to explore more about CS by keeping up-to-date, using Git, and curiosity.
