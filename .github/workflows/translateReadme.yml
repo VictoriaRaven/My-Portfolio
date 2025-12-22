@@ -1,92 +1,59 @@
 name: Translate README
 
 on:
-  workflow_dispatch: # This allows the workflow to be triggered manually
+  workflow_dispatch:
 
 jobs:
-  build:
+  translate:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v1
+        uses: actions/setup-node@v4
         with:
-          node-version: 12.x
+          node-version: 18
 
-      # ISO Language Codes: https://cloud.google.com/translate/docs/languages  
-      
-      # Adding README - French (fr)
-      - name: Adding README - French
+      # Remove old translations so they regenerate
+      - name: Remove old translated READMEs
+        run: |
+          rm -f README.fr.md README.ru.md README.es.md
+          rm -rf languages
+          mkdir -p languages
+
+      # Generate translations
+      - name: Generate French README
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
 
-      # Adding README - Russian (ru)
-      - name: Adding README - Russian
+      - name: Generate Russian README
         uses: dephraiim/translate-readme@main
         with:
           LANG: ru
 
-      # Adding README - Spanish (es)
-      - name: Adding README - Spanish
+      - name: Generate Spanish README
         uses: dephraiim/translate-readme@main
         with:
           LANG: es
 
-      # Debugging: Check the contents of the repository after translation
-      - name: List files in the repository
+      # Move translations into languages folder (overwrite safely)
+      - name: Move translated READMEs
         run: |
-          echo "Listing files in the current directory:"
-          ls -alh
+          mv -f README.fr.md languages/README.fr.md
+          mv -f README.ru.md languages/README.ru.md
+          mv -f README.es.md languages/README.es.md
 
-      # Move the French README to languages folder
-      - name: Move French README to languages folder
+      # Git config
+      - name: Configure Git
         run: |
-          mkdir -p languages
-          mv README.fr.md languages/README.fr.md
-        continue-on-error: false
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Move the Russian README to languages folder
-      - name: Move Russian README to languages folder
+      # Commit once
+      - name: Commit and push changes
         run: |
-          mkdir -p languages
-          mv README.ru.md languages/README.ru.md
-        continue-on-error: false
-
-      # Move the Spanish README to languages folder
-      - name: Move Spanish README to languages folder
-        run: |
-          mkdir -p languages
-          mv README.es.md languages/README.es.md
-        continue-on-error: false
-
-      # Set up git config to ensure commits are made correctly
-      - name: Set up Git configuration
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-      # Commit and Push Translated README - French
-      - name: Commit and Push Translated README - French
-        run: |
-          git add languages/README.fr.md
-          git status
-          git commit -m "Add French README translation"
-          git push origin main
-
-      # Commit and Push Translated README - Russian
-      - name: Commit and Push Translated README - Russian
-        run: |
-          git add languages/README.ru.md
-          git status
-          git commit -m "Add Russian README translation"
-          git push origin main
-
-      # Commit and Push Translated README - Spanish
-      - name: Commit and Push Translated README - Spanish
-        run: |
-          git add languages/README.es.md
-          git status
-          git commit -m "Add Spanish README translation"
-          git push origin main
+          git add -A
+          git commit -m "Update translated READMEs"
+          git push
