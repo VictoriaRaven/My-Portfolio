@@ -94,7 +94,7 @@ Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](http
 
 -   GitHub
 -   Actions GitHub (Tests ; Système ; Manuel ; Unité ; Intégration ; Automatisé)
--   Git (SDLC Concepts and Layout)
+-   Git (concepts et mise en page SDLC)
 -   VS Code (préférence pour toutes les langues)
 -   Microsoft Visual Studio (préférence pour C/C++)
 -   PyCharm (préférence pour Python)
@@ -162,7 +162,7 @@ Les projets sont commandés par**pertinence professionnelle, complexité et réc
 
 ## Projets en vedette (travail représentatif)
 
-Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma préparation à des rôles dans l'industrie.
+These projects best reflect my technical ability, growth, and readiness for industry roles.
 
 ### Application de traducteur/dictionnaire de langue
 
@@ -197,7 +197,7 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 -   Systèmes d'exploitation
 -   Architecture des systèmes informatiques
 
-### Mathématiques et Physique/Sciences
+### Mathématiques et Physique/Ingénierie
 
 -   Calcul I – III
 -   Algèbre linéaire
@@ -211,7 +211,7 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 -   Concepts de réseautage
 -   Systèmes et principes de sécurité
 
-### Law & Professional Studies
+### Droit et études professionnelles
 
 -   Droit des affaires (mineure)
 -   Éthique et responsabilité professionnelle
