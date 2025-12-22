@@ -28,13 +28,23 @@
 
 - **Degree:** Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
 - **Focus Areas:** Software Engineering; Software Development (Frontend, Backend, Full-Stack); IT/Cybersecurity
-- **Professional Certifications:** z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (Currently Working On)
+- **Professional Certifications:** z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working On Exam)
 - **Tech Stack:** Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, Mathematics, Physics, SDLC, Microsoft & Google Office, z/OS: Mainframe Practitioner
 - **Work Style:** Independent & Team-based | Ethical/Perceptive | Investigative | Direct Communicator
+
+- Professional Certifications: Google Cybersecurity, IBM z/OS Practitioner, CompTIA Network+(uCertify)
+Technical Skills: Java (Intermediate, some Advanced), Python; C++; C; HTML; JavaScript;
+CSS; SQL; Git (Intermediate)
+Software Tools: Git (Intermediate), Linux, VS Code, Microsoft and Google Office Suite (In-
+termediate), Google Workspace (Intermediate), Dreamweaver 2021
+CS Concepts: Accessibility (WCAG/ADA), OOP, REST APIs, Debugging, SDLC
+Languages: French (Speaking: Conversational; Writing: Intermediate), Russian(Speaking:
+Conversational; Writing: Basic)
+Traits: Problem Solving, Teamwork, Leadership, Adaptability, Critical Thinking
 - **Availability:**
    - **Main Open Roles to Focus: Software Engineering or Software Development specialization positions (Backend, Frontend, or Full-Stack).**
    - **Alternative Open Roles to Focus: IT, Cybersecurity, and Data/AI/ML roles if not offered main focused specialization positions.**
-   - Experienced with Accessibility (ADA/WCAG) Frontend (including UI/UX/APIs) for internship, back-end and front-end languages, and Git (Version Control, SDLC).
+   - Experienced with Accessibility (ADA/WCAG) Frontend (including UI/UX/APIs) for work experience, back-end and front-end languages, and Git (Version Control, SDLC).
    - Developed projects and earned certifications showcased on my GitHub.
    - Passionate about building software and enthusiastic about being updated with the CS trends.
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
@@ -71,6 +81,9 @@ GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https:
 - Microsoft Visual Studio (preference for C/C++)
 - PyCharm (preference for Python)
 - Oracle (preference for Java)
+- Microsoft and Google Office Suite
+- Google Workspace
+- Dreamweaver 2021 (for Web Dev Work Experience)
 - Notepad/Notepad++
 ### Core Concepts
 - Software Engineer (Any topics)
@@ -90,6 +103,10 @@ GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https:
    - IT/Cybersecurity Fundamentals
    - Software Testing
    - Cryptography
+   - Accessibility (WCAG/ADA) for Web-Dev with DreamWeaver 2021
+   - REST APIs
+   - Debugging
+   - SDLC
 
 ## Projects in Order
 Projects are ordered by **professional relevance, complexity, and recency** (top = strongest signal for recruiters). Links will be updated...
