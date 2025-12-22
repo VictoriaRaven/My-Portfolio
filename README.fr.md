@@ -28,17 +28,34 @@
 ## Aperçu rapide du profil (analyse du recruteur)
 
 -   **Degré:**Baccalauréat ès sciences - BS Informatique — Campus mondial de l'Université du Maryland (2025)
+
 -   **Domaines d'intervention :**Génie logiciel ; Développement de logiciels (Frontend, Backend, Full-Stack) ; Informatique/Cybersécurité
--   **Certifications professionnelles :**z/OS : certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (en cours de développement)
+
+-   **Certifications professionnelles :**z/OS : certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (cours uCertify suivi avec UMGC ; je travaille actuellement sur l'examen)
+
 -   **Pile technologique :**Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, Mathématiques, Physique, SDLC, Microsoft et Google Office, z/OS : Praticien Mainframe
+
 -   **Style de travail :**Indépendant et en équipe | Éthique/Perspective | Enquête | Communicateur direct
+
+-   Certifications professionnelles : Google Cybersecurity, IBM z/OS Practitioner, CompTIA Network+ (uCertify)
+    Compétences techniques : Java (intermédiaire, certains avancés), Python ; C++ ; C ; HTML ; Javascript ;
+    CSS ; SQL ; Git (intermédiaire)
+    Outils logiciels : Git (intermédiaire), Linux, VS Code, Microsoft et Google Office Suite (In-
+    intermédiaire), Google Workspace (intermédiaire), Dreamweaver 2021
+    Concepts CS : accessibilité (WCAG/ADA), POO, API REST, débogage, SDLC
+    Langues : français (parlant : conversationnel ; écrit : intermédiaire), russe (parlant :
+    Conversationnel ; Écriture : Basique)
+    Traits : résolution de problèmes, travail d'équipe, leadership, adaptabilité, pensée critique
+
 -   **Disponibilité:**
     -   **Principaux postes ouverts à privilégier : postes de spécialisation en génie logiciel ou en développement logiciel (Backend, Frontend ou Full-Stack).**
     -   **Rôles ouverts alternatifs à cibler : rôles informatiques, de cybersécurité et de données/IA/ML s'ils ne sont pas proposés de postes de spécialisation principaux ciblés.**
-    -   Expérience avec le frontend d'accessibilité (ADA/WCAG) (y compris UI/UX/API) pour les stages, les langages back-end et front-end, et Git (contrôle de version, SDLC).
+    -   Expérience avec le frontend d'accessibilité (ADA/WCAG) (y compris UI/UX/API) pour l'expérience de travail, les langages back-end et front-end, et Git (contrôle de version, SDLC).
     -   Projets développés et certifications obtenues présentées sur mon GitHub.
     -   Passionné par la création de logiciels et enthousiaste à l'idée d'être mis à jour avec les tendances CS.
+
 -   🔗 Tous les projets publics :[Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
+
 -   _Les informations détaillées sur le profil commencent ci-dessous._
 
 ## Contributions d'équipe et de groupe
@@ -77,11 +94,14 @@ Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](http
 
 -   GitHub
 -   Actions GitHub (Tests ; Système ; Manuel ; Unité ; Intégration ; Automatisé)
--   Git (concepts et mise en page SDLC)
+-   Git (SDLC Concepts and Layout)
 -   VS Code (préférence pour toutes les langues)
 -   Microsoft Visual Studio (préférence pour C/C++)
 -   PyCharm (préférence pour Python)
 -   Oracle (préférence pour Java)
+-   Suite Microsoft et Google Office
+-   Espace de travail Google
+-   Dreamweaver 2021 (pour l'expérience de travail en développement Web)
 -   Bloc-notes/Bloc-notes++
 
 ### Concepts de base
@@ -103,6 +123,10 @@ Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](http
     -   Fondamentaux de l'informatique/cybersécurité
     -   Tests de logiciels
     -   Cryptographie
+    -   Accessibilité (WCAG/ADA) pour le Web-Dev avec DreamWeaver 2021
+    -   API REST
+    -   Débogage
+    -   SDLC
 
 ## Projets en ordre
 
@@ -187,7 +211,7 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 -   Concepts de réseautage
 -   Systèmes et principes de sécurité
 
-### Droit et études professionnelles
+### Law & Professional Studies
 
 -   Droit des affaires (mineure)
 -   Éthique et responsabilité professionnelle
