@@ -27,10 +27,10 @@
 
 ## Aperçu rapide du profil (analyse du recruteur)
 
--   **Degré:** Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
+-   **Degré:**Baccalauréat ès sciences - BS Informatique — Campus mondial de l'Université du Maryland (2025)
 -   **Domaines d'intervention :**Génie logiciel ; Développement de logiciels (Frontend, Backend, Full-Stack) ; Informatique/Cybersécurité
 -   **Certifications professionnelles :**z/OS : certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (en cours de développement)
--   **Tech Stack:**Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, Mathématiques, Physique, SDLC, Microsoft et Google Office, z/OS : Praticien Mainframe
+-   **Pile technologique :**Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, Mathématiques, Physique, SDLC, Microsoft et Google Office, z/OS : Praticien Mainframe
 -   **Style de travail :**Indépendant et en équipe | Éthique/Perspective | Enquête | Communicateur direct
 -   **Disponibilité:**
     -   **Principaux postes ouverts à privilégier : postes de spécialisation en génie logiciel ou en développement logiciel (Backend, Frontend ou Full-Stack).**
@@ -128,7 +128,7 @@ Les projets sont commandés par**pertinence professionnelle, complexité et réc
 ### 4. Projets Web et bases de données
 
 -   [Projets HTML, CSS, JavaScript (Développement Web)](https://github.com/VictoriaRaven/Front-End-Web-Developer-edX-W3C)
--   [SQL Database Design & Queries](https://github.com/VictoriaRaven/Database-Projects-with-SQL)
+-   [Conception et requêtes de bases de données SQL](https://github.com/VictoriaRaven/Database-Projects-with-SQL)
 
 ### 5. Pratique, expériences et apprentissage
 
@@ -226,7 +226,7 @@ Certains référentiels restent privés pour se conformer aux politiques d'inté
 -   Espagnol (Après les deux premiers ci-dessus ; actuellement uniquement au niveau Intro/Débutant/Conversation pour toutes les parties)
 -   D'autres aiment l'italien/l'ukrainien, etc. (Après avoir appris à maîtriser ceux ci-dessus)
 
-### Personality & Work Ethic
+### Personnalité et éthique de travail
 
 -   J'aime les environnements au rythme rapide, travailler de manière indépendante ou en équipe (travail d'équipe/de manière indépendante) et avoir un impact positif sur les objectifs/la philosophie ou les communautés de l'entreprise.
 -   J'aime apprendre différentes cultures et continuer à explorer davantage CS en me tenant à jour, en utilisant Git et en faisant preuve de curiosité.
