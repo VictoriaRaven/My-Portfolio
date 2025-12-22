@@ -13,6 +13,7 @@
 
 ## Table of Contents
 - [Quick Profile Overview (Recruiter Scan)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
+- [Team & Group Contributions](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
 - [Technical Stack](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#technical-stack)
 - [Projects in Order](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#projects-in-order)
 - [Featured Projects](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#featured-projects-representative-work)
@@ -20,7 +21,6 @@
 - [UMGC Coursework](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#umgc-coursework)
 - [Previous / Old Coursework](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#previous--old-coursework)
 - [Badges & Certifications](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#badges--certifications)
-- [Team & Group Contributions](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
 - [About Me](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#about-me)
 - [Overall](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#overall)
 
@@ -39,6 +39,9 @@
    - Passionate about building software and enthusiastic about being updated with the CS trends.
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
 - *Detailed Information of Profile begins below.*
+
+## Team & Group Contributions
+GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 
 ## Technical Stack
 ### Professional Certifications
@@ -170,9 +173,6 @@ Some repositories remain private to comply with academic integrity policies.
    - **View Bade Validation Credly:** [Google Cybersecurity Professional Certificate Badge - Credly](https://www.credly.com/badges/13428837-66ba-40f6-9a44-4c21c0e18742)
 - **z/OS Mainframe Practitioner**
 - [![z/OS Mainframe Practitioner - Coursera]https://img.shields.io/badge/Coursera-zOSmainframe-yellow)](https://)
-
-## Team & Group Contributions
-GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 
 ## About Me
 ### Languages
