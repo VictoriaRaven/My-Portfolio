@@ -12,17 +12,17 @@
 -  🔗 GitHub: [https://github.com/VictoriaRaven](https://github.com/VictoriaRaven)
 
 ## Table of Contents
-- [Quick Profile Overview (Recruiter Scan)](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#quick-profile-overview-recruiter-scan)
-- [Technical Stack](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#technical-stack)
-- [Projects in Order](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#projects-in-order)
-- [Featured Projects](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#featured-projects-representative-work)
-- [Education — UMGC](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#education--university-of-maryland-global-campus)
-- [UMGC Coursework](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#umgc-coursework)
-- [Previous / Old Coursework](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#previous--old-coursework)
-- [Badges & Certifications](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#badges--certifications)
-- [Team & Group Contributions](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#team--group-contributions)
-- [About Me](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#about-me)
-- [Overall](https://github.com/VictoriaRaven/My-Portfolio/edit/main/README.md#overall)
+- [Quick Profile Overview (Recruiter Scan)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
+- [Technical Stack](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#technical-stack)
+- [Projects in Order](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#projects-in-order)
+- [Featured Projects](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#featured-projects-representative-work)
+- [Education — UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#education--university-of-maryland-global-campus)
+- [UMGC Coursework](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#umgc-coursework)
+- [Previous / Old Coursework](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#previous--old-coursework)
+- [Badges & Certifications](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#badges--certifications)
+- [Team & Group Contributions](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
+- [About Me](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#about-me)
+- [Overall](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#overall)
 
 ## Quick Profile Overview (Recruiter Scan)
 
