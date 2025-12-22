@@ -28,23 +28,11 @@ jobs:
         with:
           LANG: ru
 
-      # Adding README - Ukrainian (uk)
-      - name: Adding README - Ukrainian
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: uk
-
       # Adding README - Spanish (es)
       - name: Adding README - Spanish
         uses: dephraiim/translate-readme@main
         with:
           LANG: es
-
-      # Adding README - Dutch (nl)
-      - name: Adding README - Dutch
-        uses: dephraiim/translate-readme@main
-        with:
-          LANG: nl
 
       # Debugging: Check the contents of the repository after translation
       - name: List files in the repository
@@ -66,25 +54,11 @@ jobs:
           mv README.ru.md languages/README.ru.md
         continue-on-error: false
 
-      # Move the Ukrainian README to languages folder
-      - name: Move Ukrainian README to languages folder
-        run: |
-          mkdir -p languages
-          mv README.uk.md languages/README.uk.md
-        continue-on-error: false
-
       # Move the Spanish README to languages folder
       - name: Move Spanish README to languages folder
         run: |
           mkdir -p languages
           mv README.es.md languages/README.es.md
-        continue-on-error: false
-
-      # Move the Dutch README to languages folder
-      - name: Move Dutch README to languages folder
-        run: |
-          mkdir -p languages
-          mv README.nl.md languages/README.nl.md
         continue-on-error: false
 
       # Set up git config to ensure commits are made correctly
@@ -109,26 +83,10 @@ jobs:
           git commit -m "Add Russian README translation"
           git push origin main
 
-      # Commit and Push Translated README - Ukrainian
-      - name: Commit and Push Translated README - Ukrainian
-        run: |
-          git add languages/README.uk.md
-          git status
-          git commit -m "Add Ukrainian README translation"
-          git push origin main
-
       # Commit and Push Translated README - Spanish
       - name: Commit and Push Translated README - Spanish
         run: |
           git add languages/README.es.md
           git status
           git commit -m "Add Spanish README translation"
-          git push origin main
-
-      # Commit and Push Translated README - Dutch
-      - name: Commit and Push Translated README - Dutch
-        run: |
-          git add languages/README.nl.md
-          git status
-          git commit -m "Add Dutch README translation"
           git push origin main
