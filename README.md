@@ -156,7 +156,7 @@ These projects best reflect my technical ability, growth, and readiness for indu
 - Database Systems
 - Operating Systems
 - Computer Systems Architecture
-### Mathematics & Physics/Science
+### Mathematics & Physics/Engineering
 - Calculus I–III
 - Linear Algebra
 - Differential Equations
