@@ -1,8 +1,8 @@
 # My Portfolio — VictoriaRaven
 
-[![Language: French](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)
-[![Language: Spanish](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)
-[![Language: Russian](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
+[![Language: Français - French(FR)](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)
+[![Language: Español - Spanish(SP)](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)
+[![Language: Русский - Russian(RU)](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
 > **Note:** Some translations are automated and may contain inaccuracies.
 -  🎓 Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
     - Major: Computer Science
@@ -131,6 +131,7 @@ Projects are ordered by **professional relevance, complexity, and recency** (top
 - Algorithm practice
 - Concept demonstrations
 - Experimental repositories
+- AI and Machine Learning Certs/Projects
 
 ## Featured Projects (Representative Work)
 These projects best reflect my technical ability, growth, and readiness for industry roles.
