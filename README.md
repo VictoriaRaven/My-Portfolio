@@ -1,8 +1,8 @@
 # My Portfolio — VictoriaRaven
 
-[![Language: Français-French(FR)](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)
-[![Language: Español-Spanish(SP)](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)
-[![Language: Русский-Russian(RU)](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
+[![Language: Français-French(FR)](https://img.shields.io/badge/Language-Français|French(FR)-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)
+[![Language: Español-Spanish(SP)](https://img.shields.io/badge/Language-Español|Spanish(SP)-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)
+[![Language: Русский-Russian(RU)](https://img.shields.io/badge/Language-Русский|Russian(RU)-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
 > **Note:** Some translations are automated and may contain inaccuracies.
 -  🎓 Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
     - Major: Computer Science
