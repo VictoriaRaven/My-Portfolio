@@ -1,4 +1,4 @@
-# Mon portfolio — Victoria Raven
+# Mon portfolio — VictoriaRaven
 
 [![Language: French](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)[![Language: Spanish](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)[![Language: Russian](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
 
@@ -8,6 +8,9 @@
 >     -   Majeure : Informatique
 >     -   Mineure : Droit des Affaires
 >     -   Mentions d'obtention du diplôme : Summa Cum Laude
+>     -   Sociétés d'honneur (officiellement accréditées aux États-Unis par l'Association of College Honor Societies (ACHS)) :
+>         -   Société d'honneur Phi Kappa Phi (chapitre UMGC 2025)
+>         -   Société d'honneur Upsilon Pi Epsilon (chapitre UMGC 2025)
 > -   💻 Génie logiciel | Développement logiciel (Backend, Frontend, Full-Stack) | Informatique/Cybersécurité
 > -   🔗GitHub :<https://github.com/VictoriaRaven>
 
@@ -37,30 +40,35 @@
 
 -   **Style de travail :**Indépendant et en équipe | Éthique/Perspective | Enquête | Communicateur direct
 
--   Certifications professionnelles : Google Cybersecurity, IBM z/OS Practitioner, CompTIA Network+ (uCertify)
-    Compétences techniques : Java (intermédiaire, certains avancés), Python ; C++ ; C ; HTML ; Javascript ;
-    CSS ; SQL ; Git (intermédiaire)
-    Outils logiciels : Git (intermédiaire), Linux, VS Code, Microsoft et Google Office Suite (In-
-    intermédiaire), Google Workspace (intermédiaire), Dreamweaver 2021
-    Concepts CS : accessibilité (WCAG/ADA), POO, API REST, débogage, SDLC
-    Langues : français (parlant : conversationnel ; écrit : intermédiaire), russe (parlant :
-    Conversationnel ; Écriture : Basique)
-    Traits : résolution de problèmes, travail d'équipe, leadership, adaptabilité, pensée critique
+-   **Certifications professionnelles :**Cybersécurité Google, praticien IBM z/OS, CompTIA Network+ (uCertify)
+
+-   **Compétences techniques :**Java (intermédiaire, certains avancés), Python ; C++ ; C ; HTML ; Javascript ; CSS ; SQL ; Git (intermédiaire)
+
+-   **Outils logiciels :**Git (intermédiaire), Linux, VS Code, Microsoft et Google Office Suite (intermédiaire), Google Workspace (intermédiaire), Dreamweaver 2021
+
+-   **Concepts CS :**Accessibilité (WCAG/ADA), POO, API REST, débogage, SDLC
+
+-   **Langues :**Français (parlé : conversationnel ; écrit : intermédiaire), russe/espagnol (parlé : conversationnel ; écrit : basique)
+
+-   **Traits:**Résolution de problèmes, travail d'équipe, leadership, adaptabilité, pensée critique
 
 -   **Disponibilité:**
     -   **Principaux postes ouverts à privilégier : postes de spécialisation en génie logiciel ou en développement logiciel (Backend, Frontend ou Full-Stack).**
     -   **Rôles ouverts alternatifs à cibler : rôles informatiques, de cybersécurité et de données/IA/ML s'ils ne sont pas proposés de postes de spécialisation principaux ciblés.**
-    -   Expérience avec le frontend d'accessibilité (ADA/WCAG) (y compris UI/UX/API) pour l'expérience de travail, les langages back-end et front-end, et Git (contrôle de version, SDLC).
-    -   Projets développés et certifications obtenues présentées sur mon GitHub.
-    -   Passionné par la création de logiciels et enthousiaste à l'idée d'être mis à jour avec les tendances CS.
+        -   Expérience avec le frontend d'accessibilité (ADA/WCAG) (y compris UI/UX/API) pour l'expérience de travail, les langages back-end et front-end, et Git (contrôle de version, SDLC).
+        -   Projets développés et certifications obtenues présentées sur mon GitHub.
+        -   Passionné par la création de logiciels et enthousiaste à l'idée d'être mis à jour avec les tendances CS.
 
 -   🔗 Tous les projets publics :[Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
+
+-   🔗 Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 
 -   _Les informations détaillées sur le profil commencent ci-dessous._
 
 ## Contributions d'équipe et de groupe
 
-Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
+-   🔗 Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
+-   🔗 Tous les projets publics :[Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
 
 ## Pile technique
 
@@ -75,7 +83,9 @@ Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](http
 
 \-**Avis:**_L'American Council on Education (ACE) est un organisme de coordination des collèges et universités des États-Unis. ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage collégial avec des recommandations pour le niveau de matière, les heures de crédit et la matière de cours pour les crédits de transfert._
 
--   Certificat CS50x - Unité de crédit ACE : 4 crédits - edX et HarvardX (Harvard University)
+-   **Certificat CS50x**- Unité de crédit ACE : 4 crédits - edX et HarvardX (Harvard University)
+    -   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
+    -   [CS50 Autre code mineur + Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
 
 ### Langues
 
@@ -108,25 +118,25 @@ Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](http
 
 -   Ingénieur logiciel (tous les sujets)
 -   Développeur de logiciels (tous les sujets)
--   Informatique (réseau, sécurité, cloud)
--   Cybersécurité (piratage; antivirus; sécurité)
--   Cryptographie (hachage ; MSGS ; sécurité)
--   Science des données (cabinets d'avocats comme Westlaw/Nexus Uni ; bases de données Gov/Intelligence)
--   IA/apprentissage automatique (tous les sujets)
--   Mathématiques (Calcul : 1-3 ; Équations différentielles et algèbre linéaire ; Statistiques de base) ;
--   Physique générale (1-3)
-    -   Programmation orientée objet
-    -   Structures de données et algorithmes
-    -   Développement d'interface graphique
-    -   Développement Web
-    -   Bases de données
-    -   Fondamentaux de l'informatique/cybersécurité
-    -   Tests de logiciels
-    -   Cryptographie
-    -   Accessibilité (WCAG/ADA) pour le Web-Dev avec DreamWeaver 2021
-    -   API REST
-    -   Débogage
-    -   SDLC
+    -   Informatique (réseau, sécurité, cloud)
+    -   Cybersécurité (piratage; antivirus; sécurité)
+    -   Cryptographie (hachage ; MSGS ; sécurité)
+    -   Science des données (cabinets d'avocats comme Westlaw/Nexus Uni ; bases de données Gov/Intelligence)
+    -   IA/apprentissage automatique (tous les sujets)
+    -   Mathématiques (Calcul : 1-3 ; Équations différentielles et algèbre linéaire ; Statistiques de base) ;
+    -   Physique générale (1-3)
+        -   Programmation orientée objet
+        -   Structures de données et algorithmes
+        -   Développement d'interface graphique
+        -   Développement Web
+        -   Bases de données
+        -   Fondamentaux de l'informatique/cybersécurité
+        -   Tests de logiciels
+        -   Cryptographie
+        -   Accessibilité (WCAG/ADA) pour le Web-Dev avec DreamWeaver 2021
+        -   API REST
+        -   Débogage
+        -   SDLC
 
 ## Projets en ordre
 
@@ -162,7 +172,7 @@ Les projets sont commandés par**pertinence professionnelle, complexité et réc
 
 ## Projets en vedette (travail représentatif)
 
-These projects best reflect my technical ability, growth, and readiness for industry roles.
+Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma préparation à des rôles dans l'industrie.
 
 ### Application de traducteur/dictionnaire de langue
 
@@ -235,18 +245,17 @@ Certains référentiels restent privés pour se conformer aux politiques d'inté
     -   **Nom de l'insigne :**Insigne de la société d'honneur de l'UMGC UPE
     -   **Émis:**[Université du Maryland, Campus mondial](https://gateway.aefis.net/services/exchange/api/ims/ob/issuers/umgc:institution:1)**; Temps**: 9 mai 2025
     -   **Afficher la validation du badge (sauf PI) :**[Lien d’assertion AEFIS](https://gist.github.com/VictoriaRaven/fdcac42f23b30e5ee94f8ad211077ca0)
--   **Certificat professionnel de cybersécurité Google**
--   [![Google Cybersecurity Professional Certificate Badge - Credly Badge](https://img.shields.io/badge/Coursera-GoogleCybersecurity-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
+-   **CS50x - Harvardx - Certificat edx (Université de Harvard) :**[![CS50x Certificate - HarvardX and edX](https://img.shields.io/badge/Coursera-CS50xHarvard-yellow)](https://certificates.cs50.io/8e1af2b8-c9b3-43d7-ad70-156766976cc6.pdf?size=letter)
+-   **Certificat professionnel de cybersécurité Google**[![Google Cybersecurity Professional Certificate Badge - Credly Badge](https://img.shields.io/badge/Coursera-GoogleCybersecurity-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
     -   **Voir Bade Validation Credly :**[Badge de certificat professionnel de cybersécurité Google - Credly](https://www.credly.com/badges/13428837-66ba-40f6-9a44-4c21c0e18742)
--   **Praticien mainframe z/OS**
--   [![z/OS Mainframe Practitioner - Coursera]https://img.shields.io/badge/Coursera-zOSmainframe-yellow)](https://)
+-   **Praticien mainframe z/OS :**[![z/OS Mainframe Practitioner - Coursera](https://img.shields.io/badge/Coursera-zOSmainframe-yellow)](https://coursera.org/share/6d9495558399ec2257ebe447ae9d5338)
 
 ## Sur moi
 
 ### Langues
 
--   Français (NIVEAUX - Parler : Débutant/Conversationnel ; Lecture/Écriture/Compréhension : Intermédiaire bas et moyen ; Travail sur : Intermédiaire haut et avancé)
--   Russe (NIVEAUX - Parler : Débutant/Conversationnel ; Lecture/Écriture/Compréhension : Débutant/Conversationnelle ; Travail sur : Débutant et Intermédiaire (Bas-Haut))
+-   Français (NIVEAUX - Parler : Débutant/Conversation ; Lecture/Écriture/Compréhension : Intermédiaire bas et moyen ; Travail : Intermédiaire haut et avancé)
+-   Russe (NIVEAUX - Parler : Débutant/Conversation ; Lecture/Écriture/Compréhension : Débutant/Conversation ; Travail : Débutant et Intermédiaire (Bas-Haut))
 -   Espagnol (Après les deux premiers ci-dessus ; actuellement uniquement au niveau Intro/Débutant/Conversation pour toutes les parties)
 -   D'autres aiment l'italien/l'ukrainien, etc. (Après avoir appris à maîtriser ceux ci-dessus)
 
