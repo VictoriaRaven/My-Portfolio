@@ -1,6 +1,6 @@
 # Mon portfolio — VictoriaRaven
 
-[![Language: French](https://img.shields.io/badge/Language-French-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)[![Language: Spanish](https://img.shields.io/badge/Language-Spanish-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)[![Language: Russian](https://img.shields.io/badge/Language-Russian-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
+[![Language: Français|French(FR)](https://img.shields.io/badge/Language-Français|French(FR)-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)[![Language: Español|Spanish(SP)](https://img.shields.io/badge/Language-Español|Spanish(SP)-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)[![Language: Русский|Russian(RU)](https://img.shields.io/badge/Language-Русский|Russian(RU)-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
 
 > **Note:**Certaines traductions sont automatisées et peuvent contenir des inexactitudes.
 >
@@ -169,6 +169,7 @@ Les projets sont commandés par**pertinence professionnelle, complexité et réc
 -   Pratique de l'algorithme
 -   Démonstrations de concepts
 -   Dépôts expérimentaux
+-   Certs/projets d'IA et d'apprentissage automatique
 
 ## Projets en vedette (travail représentatif)
 
