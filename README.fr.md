@@ -31,38 +31,24 @@
 ## Aperçu rapide du profil (analyse du recruteur)
 
 -   **Degré:**Baccalauréat ès sciences - BS Informatique — Campus mondial de l'Université du Maryland (2025)
-
 -   **Domaines d'intervention :**Génie logiciel ; Développement de logiciels (Frontend, Backend, Full-Stack) ; Informatique/Cybersécurité
-
 -   **Certifications professionnelles :**z/OS : certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (cours uCertify suivi avec UMGC ; je travaille actuellement sur l'examen)
-
 -   **Pile technologique :**Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, Mathématiques, Physique, SDLC, Microsoft et Google Office, z/OS : Praticien Mainframe
-
 -   **Style de travail :**Indépendant et en équipe | Éthique/Perspective | Enquête | Communicateur direct
-
 -   **Certifications professionnelles :**Cybersécurité Google, praticien IBM z/OS, CompTIA Network+ (uCertify)
-
 -   **Compétences techniques :**Java (intermédiaire, certains avancés), Python ; C++ ; C ; HTML ; Javascript ; CSS ; SQL ; Git (intermédiaire)
-
 -   **Outils logiciels :**Git (intermédiaire), Linux, VS Code, Microsoft et Google Office Suite (intermédiaire), Google Workspace (intermédiaire), Dreamweaver 2021
-
 -   **Concepts CS :**Accessibilité (WCAG/ADA), POO, API REST, débogage, SDLC
-
 -   **Langues :**Français (parlé : conversationnel ; écrit : intermédiaire), russe/espagnol (parlé : conversationnel ; écrit : basique)
-
 -   **Traits:**Résolution de problèmes, travail d'équipe, leadership, adaptabilité, pensée critique
-
 -   **Disponibilité:**
     -   **Principaux postes ouverts à privilégier : postes de spécialisation en génie logiciel ou en développement logiciel (Backend, Frontend ou Full-Stack).**
     -   **Rôles ouverts alternatifs à cibler : rôles informatiques, de cybersécurité et de données/IA/ML s'ils ne sont pas proposés de postes de spécialisation principaux ciblés.**
-        -   Expérience avec le frontend d'accessibilité (ADA/WCAG) (y compris UI/UX/API) pour l'expérience de travail, les langages back-end et front-end, et Git (contrôle de version, SDLC).
+        -   Expérience avec le frontend d'accessibilité (ADA/WCAG) (y compris UI/UX/API) pour l'expérience de travail, les langages backend et frontend, et Git (contrôle de version, SDLC).
         -   Projets développés et certifications obtenues présentées sur mon GitHub.
         -   Passionné par la création de logiciels et enthousiaste à l'idée d'être mis à jour avec les tendances CS.
-
 -   🔗 Tous les projets publics :[Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
-
 -   🔗 Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
-
 -   _Les informations détaillées sur le profil commencent ci-dessous._
 
 ## Contributions d'équipe et de groupe
@@ -77,11 +63,11 @@
 -   z/OS : Certificat professionnel de praticien mainframe (Coursera)
 -   Certificat professionnel de cybersécurité Google (Coursera)
 -   CompTIA Network+ (travaille actuellement à la réussite de l'examen ; cours UDEMY/UMGC terminé)
--   CompTIA Security+ (je travaille actuellement à la réussite de l'examen ; j'ai suivi le cours Google Cybersecurity/Autre pour cela)
+-   CompTIA Security+ (Currently Working On Passing Exam; Completed Google Cybersecurity Course/Other for this)
 
 ### Certifications professionnelles avec ACE CREDIT pour les cours
 
-\-**Avis:**_L'American Council on Education (ACE) est un organisme de coordination des collèges et universités des États-Unis. ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage collégial avec des recommandations pour le niveau de matière, les heures de crédit et la matière de cours pour les crédits de transfert._
+\-**Avis:**_L'American Council on Education (ACE) est un organisme de coordination des collèges et universités des États-Unis. ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage collégial et fournit des recommandations sur le niveau de matière, les heures de crédit et la matière de cours pour le transfert de crédits._
 
 -   **Certificat CS50x**- Unité de crédit ACE : 4 crédits - edX et HarvardX (Harvard University)
     -   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
@@ -140,7 +126,7 @@
 
 ## Projets en ordre
 
-Les projets sont commandés par**pertinence professionnelle, complexité et récence**(en haut = signal le plus fort pour les recruteurs). Les liens seront mis à jour...
+Projets commandés par**pertinence professionnelle, complexité et récence**(en haut = signal le plus fort pour les recruteurs). Mises à jour continues des liens.
 
 ### 1. Capstone et principales applications
 
@@ -179,6 +165,7 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 
 -   **Technologies :**Python, Tkinter, SQLite, API
 -   **Se concentrer:**Conception d'interface graphique, fonctionnalités hors ligne/en ligne, tests, architecture modulaire
+-   **Rôles :**Tous les rôles, car il s'agissait d'un projet solo. Il comprend un développeur de logiciels, un ingénieur logiciel, un chef de projet, un rédacteur technique et un développeur testeur/débogage.
 -   **Points forts:**Panneau d'administration, fonctionnalités d'exportation, tests automatisés
 -   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
 -   [CS50 Autre code mineur + Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
@@ -214,7 +201,7 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 -   Algèbre linéaire
 -   Équations différentielles
 -   Statistiques
--   Physique générale I-III
+-   Physique générale I–III
 
 ### Cybersécurité et informatique
 
@@ -262,17 +249,17 @@ Certains référentiels restent privés pour se conformer aux politiques d'inté
 
 ### Personnalité et éthique de travail
 
--   J'aime les environnements au rythme rapide, travailler de manière indépendante ou en équipe (travail d'équipe/de manière indépendante) et avoir un impact positif sur les objectifs/la philosophie ou les communautés de l'entreprise.
--   J'aime apprendre différentes cultures et continuer à explorer davantage CS en me tenant à jour, en utilisant Git et en faisant preuve de curiosité.
--   Je crois que CS peut être intégré dans de nombreux sujets différents !
--   Pendant mon temps libre, j'aime sortir, explorer la mode, m'entraîner, lire, coder, jouer à des jeux, apprendre différentes cultures, apprendre les langues, les politiques OTAN/UE/Forgien et les hybrides droit/justice pénale avec CS.
--   La plupart des gens que je connais me considèrent comme un communicateur dévoué, loyal, direct, ambitieux, confiant, leader/enseignant, analytique, astucieux, protecteur et un excellent joueur d'équipe.
--   J'ai appris à m'adapter et à m'habituer aux deux types de communication (indirecte et directe) au cours de mes expériences précédentes, mais je préfère utiliser la communication directe car c'est le « vrai » moi.
+-   J'aime les environnements au rythme rapide, travailler de manière indépendante ou en équipe (travail d'équipe/de manière indépendante) et avoir un impact positif sur les objectifs/la philosophie de l'entreprise ou sur les communautés.
+-   J'aime découvrir différentes cultures et continuer à explorer davantage CS en me tenant à jour, en utilisant Git et en faisant preuve de curiosité.
+-   CS peut être intégré et intégré à de nombreux sujets différents !
+-   Pendant mon temps libre, j'aime sortir, explorer la mode, m'entraîner, lire, coder, jouer à des jeux, cuisiner, apprendre différentes cultures, apprendre des langues et étudier les hybrides droit/justice pénale avec CS.
+-   La plupart des gens que je connais me considèrent comme un communicateur dévoué, loyal, direct, ambitieux, confiant (personne solo ; simple ; sérieux ; soucieux du détail), leader/enseignant, analytique, astucieux, protecteur et un excellent joueur d'équipe.
+-   J'ai appris à m'adapter et à m'habituer aux deux types de communication (indirecte et directe) au cours de mes expériences précédentes. Cependant, je préfère la communication directe parce que c'est le « vrai » moi.
 -   Pour atténuer cela, j'ai amélioré mes compétences en communication grâce à ma mineure en droit des affaires et en suivant des cours parallèles en ligne gratuits sur la façon de traiter avec ces types de communicateurs.
 -   Mon objectif (si je suis positionné en tant que leader) est non seulement d'être direct, mais aussi d'enseigner aux autres, d'être un bon auditeur, de m'adapter à d'autres styles de communication comme les commentaires constructifs plutôt que de blâmer quelqu'un et de réussir le travail d'équipe (en prenant le temps d'enseigner à mon équipe).
 -   J'aime aider les autres et apporter un impact positif à mon travail et à mes expériences pour montrer que je me soucie de mon équipe.
     -   Je veux que chacun de mes membres fasse non seulement partie de l'équipe, mais qu'il développe également ses compétences et ses traits de caractère, quel que soit son niveau (Intro, Intermédiaire, Avancé).
-        -   Selon la théorie de la communication : la communication directe implique une expression explicite et directe, tandis que la communication indirecte repose sur des nuances, des implications, une agressivité passive et des indices non verbaux.
+        -   Selon la théorie de la communication : la communication directe implique une expression explicite et directe, tandis que la communication indirecte repose sur des nuances, des implications, une agressivité passive et des signaux non verbaux.
             -   [Exemples directs et indirects](https://www.indeed.com/career-advice/career-development/direct-communication)
             -   [Assertif contre Passif ou. Agressif](https://youtu.be/KmrokQdsjTA?feature=shared)
             -   [Direct ou indirect en fonction des pays/cultures : vidéo YouTube 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
