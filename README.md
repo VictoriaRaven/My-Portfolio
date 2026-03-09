@@ -34,7 +34,6 @@
 - **Professional Certifications:** z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working On Exam)
 - **Tech Stack:** Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, Mathematics, Physics, SDLC, Microsoft & Google Office, z/OS: Mainframe Practitioner
 - **Work Style:** Independent & Team-based | Ethical/Perceptive | Investigative | Direct Communicator
-
 - **Professional Certifications:** Google Cybersecurity, IBM z/OS Practitioner, CompTIA Network+(uCertify)
 - **Technical Skills:** Java (Intermediate, some Advanced), Python; C++; C; HTML; JavaScript; CSS; SQL; Git (Intermediate)
 - **Software Tools:** Git (Intermediate), Linux, VS Code, Microsoft and Google Office Suite (Intermediate), Google Workspace (Intermediate), Dreamweaver 2021
@@ -44,7 +43,7 @@
 - **Availability:**
    - **Main Open Roles to Focus: Software Engineering or Software Development specialization positions (Backend, Frontend, or Full-Stack).**
    - **Alternative Open Roles to Focus: IT, Cybersecurity, and Data/AI/ML roles if not offered main focused specialization positions.**
-       - Experienced with Accessibility (ADA/WCAG) Frontend (including UI/UX/APIs) for work experience, back-end and front-end languages, and Git (Version Control, SDLC).
+       - Experienced with Accessibility (ADA/WCAG) Frontend (including UI/UX/APIs) for work experience, backend and frontend languages, and Git (Version Control, SDLC).
        - Developed projects and earned certifications showcased on my GitHub.
        - Passionate about building software and enthusiastic about being updated with the CS trends.
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
@@ -59,9 +58,9 @@
 - z/OS: Mainframe Practitioner Professional Certificate (Coursera)
 - Google Cybersecurity Professional Certificate (Coursera)
 - CompTIA Network+ (Currently Working On Passing Exam; Completed UDEMY/UMGC Course)
-- CompTIA Security+ (Currently Working On Passing Exam; Completed Google Cybersecuirty Course/Other for this)
+- CompTIA Security+ (Currently Working On Passing Exam; Completed Google Cybersecurity Course/Other for this)
 ### Professional Certifications with ACE CREDIT for Coursework
--**Notice:** *The American Council on Education (ACE) is a coordinating body for colleges and universities in the United States. ACE evaluates courses and programs to determine if they meet collegiate learning outcomes with recommendations for the subject level, credit hours, and course subject for transfer credits.*
+-**Notice:** *The American Council on Education (ACE) is a coordinating body for colleges and universities in the United States. ACE evaluates courses and programs to determine whether they meet collegiate learning outcomes, and provides recommendations on the subject level, credit hours, and course subject for transfer credit.*
 - **CS50x Certificate** - ACE Credit Unit: 4 credits - edX and HarvardX (Harvard University)
     - [Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
     - [CS50 Other Minor Code + Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
@@ -112,7 +111,7 @@
        - SDLC
 
 ## Projects in Order
-Projects are ordered by **professional relevance, complexity, and recency** (top = strongest signal for recruiters). Links will be updated...
+Projects ordered by **professional relevance, complexity, and recency** (top = strongest signal for recruiters). Ongoing link updates.
 ### 1. Capstone & Major Applications
 - [CMSC Capstone Project (Team-Based)](https://github.com/javonpayne100/CMSC495Capstone)
 - [Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
@@ -138,6 +137,7 @@ These projects best reflect my technical ability, growth, and readiness for indu
 ### Translator / Language Dictionary Application
 - **Technologies:** Python, Tkinter, SQLite, APIs
 - **Focus:** GUI design, offline/online functionality, testing, modular architecture
+- **Roles:** All roles, as this was a solo project. It includes Software Developer, Software Engineer, Project Manager, Technical Writer, and Tester/Debug Developer.
 - **Highlights:** Admin panel, export features, automated tests
 - [Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
 - [CS50 Other Minor Code + Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
@@ -199,17 +199,17 @@ Some repositories remain private to comply with academic integrity policies.
 - Spanish (After the first two above; Currently Only at Intro/Beginner/Conversational level for all parts)
 - Others like Italian/Ukrainian, etc. (After I get extremely fluent at the ones above)
 ### Personality & Work Ethic
-- I like fast paced environments, working independently, or as a team (teamwork/dependently), and making postive impacts to the company's goals/ethos or communities.
-- I love learning different cultures and continuing to explore more about CS by keeping up-to-date, using Git, and curiosity.
-- I believe that CS can be integrated into many different subjects!
-- On my free time I like to go outdoors, explore fashion, workout, read, code, play games, learning different cultures, language learning, NATO/EU/Forgien Policies, and Law/Criminal Justice hybrids with CS.
-- Most people I know consider me as devoted, loyal, direct communicator, abitious, confident, leader/teacher, analytical, shrewd, protective, and a great team player.
-- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences, but prefer to use direct communication as that is the "real" me.
+- I like fast-paced environments, working independently, or as a team (teamwork/dependently), and making positive impacts on the company's goals/ethos or communities.
+- I love learning about different cultures and continuing to explore more about CS by keeping up-to-date, using Git, and curiosity.
+- CS can be integrated and meshed into many different subjects!
+- In my free time, I like to go outdoors, explore fashion, work out, read, code, play games, cook, learning different cultures, language learning, and study Law/Criminal Justice hybrids with CS.
+- Most people I know consider me a devoted, loyal, direct communicator, ambitious, confident(solo-person; straightforward; serious; detail-oriented), leader/teacher, analytical, shrewd, protective, and a great team player.
+- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences. However, I prefer direct communication because that is the "real" me.
 - To mitigate this, I have enhanced my communication skills through my minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
-- My goal (if positioned as a leader) is to not only being direct, but also teaching others, being a good listener, adjusting to other commmunicaiton styles like constructive feedback rather than blaming someone, and make teamwork sucessful, (taking time to teach my team).
-- I love to help others and bring a postive impact to my work and experinces to show that I care for my team.
-  - I want each of my members to not only be a part of the team, but also to grow their skills and traits no matter what level they are at (Intro, Intermediate, Advanced)
-    - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive agressiveness, and nonverbal cues.
+- My goal (if positioned as a leader) is to not only be direct, but also to teach others, be a good listener, adjust to other communication styles like constructive feedback rather than blaming someone, and make teamwork successful (taking time to teach my team).
+- I love to help others and bring a positive impact to my work and experiences to show that I care for my team.
+  - I want each of my members to not only be a part of the team, but also to grow their skills and traits, no matter what level they are at (Intro, Intermediate, Advanced)
+    - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive aggressiveness, and nonverbal cues.
       - [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
       - [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
