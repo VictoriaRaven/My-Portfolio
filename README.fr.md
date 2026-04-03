@@ -13,6 +13,10 @@
 >         -   Société d'honneur Upsilon Pi Epsilon (chapitre UMGC 2025)
 > -   💻 Génie logiciel | Développement logiciel (Backend, Frontend, Full-Stack) | Informatique/Cybersécurité
 > -   🔗GitHub :<https://github.com/VictoriaRaven>
+> -   🔗 Chaîne Youtube VRave6 (mes vidéos de didacticiels éducatifs ; uniquement) :<https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9>
+> -   🔗 Profil Coursera de tous les certificats (Coursera) :<https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f>
+> -   🔗 Profil LeetCode :<https://www.leetcode.com/VictoriaRaven/>
+> -   🔗 Profil HackerRank :<https://www.hackerrank.com/profile/victoria_lee_co1>
 
 ## Table des matières
 
@@ -63,7 +67,7 @@
 -   z/OS : Certificat professionnel de praticien mainframe (Coursera)
 -   Certificat professionnel de cybersécurité Google (Coursera)
 -   CompTIA Network+ (travaille actuellement à la réussite de l'examen ; cours UDEMY/UMGC terminé)
--   CompTIA Security+ (Currently Working On Passing Exam; Completed Google Cybersecurity Course/Other for this)
+-   CompTIA Security+ (je travaille actuellement à la réussite de l'examen ; j'ai suivi le cours Google Cybersecurity/Autre pour cela)
 
 ### Certifications professionnelles avec ACE CREDIT pour les cours
 
@@ -201,7 +205,7 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 -   Algèbre linéaire
 -   Équations différentielles
 -   Statistiques
--   Physique générale I–III
+-   Physique générale I-III
 
 ### Cybersécurité et informatique
 
@@ -259,7 +263,7 @@ Certains référentiels restent privés pour se conformer aux politiques d'inté
 -   Mon objectif (si je suis positionné en tant que leader) est non seulement d'être direct, mais aussi d'enseigner aux autres, d'être un bon auditeur, de m'adapter à d'autres styles de communication comme les commentaires constructifs plutôt que de blâmer quelqu'un et de réussir le travail d'équipe (en prenant le temps d'enseigner à mon équipe).
 -   J'aime aider les autres et apporter un impact positif à mon travail et à mes expériences pour montrer que je me soucie de mon équipe.
     -   Je veux que chacun de mes membres fasse non seulement partie de l'équipe, mais qu'il développe également ses compétences et ses traits de caractère, quel que soit son niveau (Intro, Intermédiaire, Avancé).
-        -   Selon la théorie de la communication : la communication directe implique une expression explicite et directe, tandis que la communication indirecte repose sur des nuances, des implications, une agressivité passive et des signaux non verbaux.
+        -   Selon la théorie de la communication : la communication directe implique une expression explicite et directe, tandis que la communication indirecte repose sur des nuances, des implications, une agressivité passive et des indices non verbaux.
             -   [Exemples directs et indirects](https://www.indeed.com/career-advice/career-development/direct-communication)
             -   [Assertif contre Passif ou. Agressif](https://youtu.be/KmrokQdsjTA?feature=shared)
             -   [Direct ou indirect en fonction des pays/cultures : vidéo YouTube 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
