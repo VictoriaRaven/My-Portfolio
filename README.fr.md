@@ -13,10 +13,10 @@
 >         -   Société d'honneur Upsilon Pi Epsilon (chapitre UMGC 2025)
 > -   💻 Génie logiciel | Développement logiciel (Backend, Frontend, Full-Stack) | Informatique/Cybersécurité
 > -   🔗GitHub :<https://github.com/VictoriaRaven>
-> -   🔗 Chaîne Youtube VRave6 (mes vidéos de didacticiels éducatifs ; uniquement) :<https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9>
-> -   🔗 Profil Coursera de tous les certificats (Coursera) :<https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f>
-> -   🔗 Profil LeetCode :<https://www.leetcode.com/VictoriaRaven/>
-> -   🔗 Profil HackerRank :<https://www.hackerrank.com/profile/victoria_lee_co1>
+> -   🔗 Chaîne Youtube VRave6 (mes vidéos de didacticiels éducatifs ; uniquement) :[youtube/@viravesh-vrush/playlist](https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9)
+> -   🔗 Profil Coursera de tous les certificats (Coursera) :[https://www.coursera.org/user](https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f)
+> -   🔗 Profil LeetCode :[leetcode/VictoriaRaven/](https://www.leetcode.com/VictoriaRaven/)
+> -   🔗 Profil HackerRank :[hackerrank/victoria_lee_co1](https://www.hackerrank.com/profile/victoria_lee_co1)
 
 ## Table des matières
 
@@ -69,7 +69,7 @@
 -   CompTIA Network+ (travaille actuellement à la réussite de l'examen ; cours UDEMY/UMGC terminé)
 -   CompTIA Security+ (je travaille actuellement à la réussite de l'examen ; j'ai suivi le cours Google Cybersecurity/Autre pour cela)
 
-### Certifications professionnelles avec ACE CREDIT pour les cours
+### Professional Certifications with ACE CREDIT for Coursework
 
 \-**Avis:**_L'American Council on Education (ACE) est un organisme de coordination des collèges et universités des États-Unis. ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage collégial et fournit des recommandations sur le niveau de matière, les heures de crédit et la matière de cours pour le transfert de crédits._
 
@@ -87,7 +87,7 @@
 -   HTML / CSS (Intro → Intermédiaire)
 -   SQL (Intro → Intermédiaire)
 -   Git/GitHub (Intro → Intermédiaire)
--   Microsoft et Google Office (intermédiaire)
+-   Microsoft & Google Office (Intermediate)
 -   z/OS : Praticien Mainframe (Intro → Intermédiaire)
 
 ### Outils et technologies
@@ -165,7 +165,7 @@ Projets commandés par**pertinence professionnelle, complexité et récence**(en
 
 Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma préparation à des rôles dans l'industrie.
 
-### Application de traducteur/dictionnaire de langue
+### Translator / Language Dictionary Application
 
 -   **Technologies :**Python, Tkinter, SQLite, API
 -   **Se concentrer:**Conception d'interface graphique, fonctionnalités hors ligne/en ligne, tests, architecture modulaire
