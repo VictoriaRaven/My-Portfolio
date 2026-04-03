@@ -13,10 +13,10 @@
         - Upsilon Pi Epsilon Honor Society (UMGC 2025 Chapter)
 -  💻 Software Engineering | Software Development(Backend, Frontend, Full-Stack) | IT/Cybersecurity
 -  🔗 GitHub: [https://github.com/VictoriaRaven](https://github.com/VictoriaRaven)
--  🔗 VRave6 Youtube Channel(My Educational Tutorial Videos; Only): [https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9](https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9)
--  🔗 Coursera Profile of All Certificates (Coursera): [https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f](https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f)
--  🔗 LeetCode Profile: [https://www.leetcode.com/VictoriaRaven/](https://www.leetcode.com/VictoriaRaven/)
--  🔗 HackerRank Profile: [https://www.hackerrank.com/profile/victoria_lee_co1](https://www.hackerrank.com/profile/victoria_lee_co1)
+-  🔗 VRave6 Youtube Channel(My Educational Tutorial Videos; Only): [youtube/@virave6-vr6/playlist](https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9)
+-  🔗 Coursera Profile of All Certificates (Coursera): [https://www.coursera.org/user](https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f)
+-  🔗 LeetCode Profile: [leetcode/VictoriaRaven/](https://www.leetcode.com/VictoriaRaven/)
+-  🔗 HackerRank Profile: [hackerrank/victoria_lee_co1](https://www.hackerrank.com/profile/victoria_lee_co1)
 
 ## Table of Contents
 - [Quick Profile Overview (Recruiter Scan)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
