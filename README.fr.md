@@ -17,20 +17,21 @@
 > -   🔗 Profil Coursera de tous les certificats (Coursera) :[https://www.coursera.org/user](https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f)
 > -   🔗 Profil LeetCode :[leetcode/VictoriaRaven/](https://www.leetcode.com/VictoriaRaven/)
 > -   🔗 Profil HackerRank :[hackerrank/victoria_lee_co1](https://www.hackerrank.com/profile/victoria_lee_co1)
-
-## Table des matières
-
--   [Aperçu rapide du profil (analyse du recruteur)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
--   [Contributions d'équipe et de groupe](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
--   [Pile technique](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#technical-stack)
--   [Projets en ordre](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#projects-in-order)
--   [Projets en vedette](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#featured-projects-representative-work)
--   [Éducation – UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#education--university-of-maryland-global-campus)
--   [Cours UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#umgc-coursework)
--   [Cours précédents / anciens](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#previous--old-coursework)
--   [Insignes et certifications](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#badges--certifications)
--   [Sur moi](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#about-me)
--   [Dans l'ensemble](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#overall)
+> -   🔗 Certificat de profil uCertify (UMGC) :[uCertifier](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
+>
+> ## Table des matières
+>
+> -   [Aperçu rapide du profil (analyse du recruteur)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
+> -   [Contributions d'équipe et de groupe](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
+> -   [Pile technique](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#technical-stack)
+> -   [Projets en ordre](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#projects-in-order)
+> -   [Projets en vedette](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#featured-projects-representative-work)
+> -   [Éducation – UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#education--university-of-maryland-global-campus)
+> -   [Cours UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#umgc-coursework)
+> -   [Cours précédents / anciens](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#previous--old-coursework)
+> -   [Insignes et certifications](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#badges--certifications)
+> -   [Sur moi](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#about-me)
+> -   [Dans l'ensemble](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#overall)
 
 ## Aperçu rapide du profil (analyse du recruteur)
 
@@ -66,10 +67,11 @@
 
 -   z/OS : Certificat professionnel de praticien mainframe (Coursera)
 -   Certificat professionnel de cybersécurité Google (Coursera)
--   CompTIA Network+ (travaille actuellement à la réussite de l'examen ; cours UDEMY/UMGC terminé)
+-   CompTIA Network+ (je travaille actuellement à la réussite de l'examen N009 ; cours UDEMY/UMGC terminé)
+-   Cours COMPTIA Network+ N008 : Certificat de profil uCertify (UMGC) :[Cours uCertify Network+](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
 -   CompTIA Security+ (je travaille actuellement à la réussite de l'examen ; j'ai suivi le cours Google Cybersecurity/Autre pour cela)
 
-### Professional Certifications with ACE CREDIT for Coursework
+### Certifications professionnelles avec ACE CREDIT pour les cours
 
 \-**Avis:**_L'American Council on Education (ACE) est un organisme de coordination des collèges et universités des États-Unis. ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage collégial et fournit des recommandations sur le niveau de matière, les heures de crédit et la matière de cours pour le transfert de crédits._
 
@@ -87,7 +89,7 @@
 -   HTML / CSS (Intro → Intermédiaire)
 -   SQL (Intro → Intermédiaire)
 -   Git/GitHub (Intro → Intermédiaire)
--   Microsoft & Google Office (Intermediate)
+-   Microsoft et Google Office (intermédiaire)
 -   z/OS : Praticien Mainframe (Intro → Intermédiaire)
 
 ### Outils et technologies
@@ -165,7 +167,7 @@ Projets commandés par**pertinence professionnelle, complexité et récence**(en
 
 Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma préparation à des rôles dans l'industrie.
 
-### Translator / Language Dictionary Application
+### Application de traducteur/dictionnaire de langue
 
 -   **Technologies :**Python, Tkinter, SQLite, API
 -   **Se concentrer:**Conception d'interface graphique, fonctionnalités hors ligne/en ligne, tests, architecture modulaire
@@ -241,6 +243,7 @@ Certains référentiels restent privés pour se conformer aux politiques d'inté
 -   **Certificat professionnel de cybersécurité Google**[![Google Cybersecurity Professional Certificate Badge - Credly Badge](https://img.shields.io/badge/Coursera-GoogleCybersecurity-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
     -   **Voir Bade Validation Credly :**[Badge de certificat professionnel de cybersécurité Google - Credly](https://www.credly.com/badges/13428837-66ba-40f6-9a44-4c21c0e18742)
 -   **Praticien mainframe z/OS :**[![z/OS Mainframe Practitioner - Coursera](https://img.shields.io/badge/Coursera-zOSmainframe-yellow)](https://coursera.org/share/6d9495558399ec2257ebe447ae9d5338)
+-   **Cours COMPTIA Network+ N008 : Certificat de profil uCertify (UMGC) :**[uCertifier](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
 
 ## Sur moi
 
