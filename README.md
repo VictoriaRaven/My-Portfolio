@@ -17,7 +17,7 @@
 -  🔗 Coursera Profile of All Certificates (Coursera): [https://www.coursera.org/user](https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f)
 -  🔗 LeetCode Profile: [leetcode/VictoriaRaven/](https://www.leetcode.com/VictoriaRaven/)
 -  🔗 HackerRank Profile: [hackerrank/victoria_lee_co1](https://www.hackerrank.com/profile/victoria_lee_co1)
-
+-  🔗 uCertify Profile Certificate (UMGC): [uCertify](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
 ## Table of Contents
 - [Quick Profile Overview (Recruiter Scan)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
 - [Team & Group Contributions](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
@@ -61,7 +61,8 @@
 ### Professional Certifications
 - z/OS: Mainframe Practitioner Professional Certificate (Coursera)
 - Google Cybersecurity Professional Certificate (Coursera)
-- CompTIA Network+ (Currently Working On Passing Exam; Completed UDEMY/UMGC Course)
+- CompTIA Network+ (Currently Working On Passing Exam N009; Completed UDEMY/UMGC Course)
+- COMPTIA Network+ N008 Course: uCertify Profile Certificate (UMGC): [uCertify Network+ Course](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
 - CompTIA Security+ (Currently Working On Passing Exam; Completed Google Cybersecurity Course/Other for this)
 ### Professional Certifications with ACE CREDIT for Coursework
 -**Notice:** *The American Council on Education (ACE) is a coordinating body for colleges and universities in the United States. ACE evaluates courses and programs to determine whether they meet collegiate learning outcomes, and provides recommendations on the subject level, credit hours, and course subject for transfer credit.*
@@ -196,6 +197,7 @@ Some repositories remain private to comply with academic integrity policies.
 - **Google Cybersecurity Professional Certificate** [![Google Cybersecurity Professional Certificate Badge - Credly Badge](https://img.shields.io/badge/Coursera-GoogleCybersecurity-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
     - **View Bade Validation Credly:** [Google Cybersecurity Professional Certificate Badge - Credly](https://www.credly.com/badges/13428837-66ba-40f6-9a44-4c21c0e18742)
 - **z/OS Mainframe Practitioner:** [![z/OS Mainframe Practitioner - Coursera](https://img.shields.io/badge/Coursera-zOSmainframe-yellow)](https://coursera.org/share/6d9495558399ec2257ebe447ae9d5338)
+- **COMPTIA Network+ N008 Course: uCertify Profile Certificate (UMGC):** [uCertify](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
 ## About Me
 ### Languages
 - French (LEVELS - Speaking: Beginner/Conversational; Reading/Writing/Comprehension: Intermediate Low and Medium; Working On: Intermediate High and Advanced)
