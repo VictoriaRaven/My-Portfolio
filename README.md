@@ -16,7 +16,7 @@
         - Phi Kappa Phi Honor Society (UMGC 2025 Chapter)
         - Upsilon Pi Epsilon Honor Society (UMGC 2025 Chapter))
 -  💻 Departments Focused: Information Technology (IT), Cybersecurity, Full-Stack (Web Development and Security)
--  🔍🎯 **Specific Topics & Positions I am Interested In:** Computer Science (Full-Stack, Website & Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Technical Intelligence, Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer
+-  🔍🎯 **Specific Topics & Positions I am Interested In:** Computer Science (Full-Stack, Website & Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Cyber/IT Analyst, Technical Intelligence, Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer
 -  🔗 GitHub: [https://github.com/VictoriaRaven](https://github.com/VictoriaRaven)
 -  🔗 VRave6 Youtube Channel(My Educational Tutorial Videos; Only): [youtube/@virave6-vr6/playlist](https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9)
 -  🔗 Professional Certificates: z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working On Exam)
@@ -50,8 +50,7 @@
 - **Languages:** French (Speaking: Conversational; Writing: Intermediate), Russian/Spanish(Speaking:Conversational; Writing: Basic)
 - **Traits:** Problem Solving, Teamwork, Leadership, Adaptability, Critical Thinking
 - **Availability:**
-   - **Main Open Roles to Focus and Job Desires: Computer Science (Full-Stack, Website and Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Technical Intelligence /
-Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer.**
+   - **Main Open Roles to Focus and Job Desires: Computer Science (Full-Stack, Website and Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigator, Cyber/IT Analyst, Technical Intelligence, Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer.**
        - Experienced with Accessibility (ADA/WCAG) Front-End for a 5-month internship and currently as a 8-month part-time Junior Web Coordinator, Full-Stack, enhancing IT/Cybersecurity with Full-Stack languages, and Git (Version Control, SDLC).
        - Developed projects and earned certifications showcased on my GitHub, demonstrating updated technical skills as technology advances.
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
