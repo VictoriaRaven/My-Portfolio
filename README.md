@@ -15,9 +15,8 @@
     - Honor Societies (Offically U.S.A. Accredited by Association of College Honor Societies(ACHS)):
         - Phi Kappa Phi Honor Society (UMGC 2025 Chapter)
         - Upsilon Pi Epsilon Honor Society (UMGC 2025 Chapter))
--  💻 Departments and Resume Focus: Information Technology(IT) / Cybersecurity / Full-Stack (Web Development and Security)
--  🔍🎯 **Specific Topics and Career Goals:** Computer Science (Full-Stack, Website and Secuirty), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Technical Intelligence /
-Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer
+-  💻 Departments Focused: Information Technology (IT), Cybersecurity, Full-Stack (Web Development and Security)
+-  🔍🎯 **Specific Topics & Positions I am Interested In:** Computer Science (Full-Stack, Website & Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Technical Intelligence, Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer
 -  🔗 GitHub: [https://github.com/VictoriaRaven](https://github.com/VictoriaRaven)
 -  🔗 VRave6 Youtube Channel(My Educational Tutorial Videos; Only): [youtube/@virave6-vr6/playlist](https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9)
 -  🔗 Professional Certificates: z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working On Exam)
@@ -199,7 +198,7 @@ Some repositories remain private to comply with academic integrity policies.
 ### Personality & Work Ethic
 - I love working independently or as a team (teamwork/dependently), and making positive impacts on the company's goals/ethos or communities.
 - I love learning about different cultures and staying up to date with CS trends, using Git, and Law/Criminal Justice hybrids with CS.
-- My hobbies include, Gym/MMA(boxing, kickboxing, Karate, BJJ), Nerf Guns to practice toy firearms, outdoors, fashion, reading (non-fiction), coding, playing games, cooking, learning about different cultures, and language learning.
+- My hobbies include, Gym/MMA(boxing, kickboxing, Karate, BJJ), Nerf Guns to practice toy firearms, outdoors, fashion, reading (non-fiction), coding, playing games, making music, cooking, learning about different cultures, and language learning.
 - Most people I know consider me an introvert who is devoted, loyal, a direct communicator, ambitious, confident(solo-person; straightforward; serious; detail-oriented), a leader/teacher, analytical, shrewd, protective, and a great team player.
 - I prefer direct communication because that is the "real" me, but I have adjusted to learn both indirect and direct communication (including dealing with intorverts/extroverts) through my minor in Law for Business.
 - My goal (if positioned as a leader) is to not only be direct, but also to teach others, be a good listener, adjust to other communication styles, like constructive feedback rather than blaming someone, and make teamwork successful (taking time to teach my team).
