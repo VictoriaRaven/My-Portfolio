@@ -3,17 +3,24 @@
 [![Language: Français|French(FR)](https://img.shields.io/badge/Language-Français|French(FR)-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)
 [![Language: Español|Spanish(SP)](https://img.shields.io/badge/Language-Español|Spanish(SP)-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)
 [![Language: Русский|Russian(RU)](https://img.shields.io/badge/Language-Русский|Russian(RU)-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
-> **Note:** Some translations are automated and may contain inaccuracies.
+> **Note:** Some translations are automated and may contain inaccuracies. As of October 2026, my focus is on Information Technology (IT), Cybersecurity, and Full-Stack, including Digital Forensics & Cyber Investigation and Web Development.
+-  🎓 (ONGOING; WILL UPDATE 2027) Master of Science — M.S. Cyber Operations / Digital Forensics & Cyber Investigation — University of Maryland Global Campus (2028)
+    - Major: I will have to choose between Cyber Operations / Digital Forensics & Cyber Investigation. I will decide to pursue an additional Graduate Certificate. UMGC faculty will help me finalize a decision before January 2027 at UMGC.
+    - Graduate Certificates (UMGC Replaced Minors With Graduate Certificates): I will have to choose one of these based on my Major: Cyber Operations / Digital Forensics & Cyber Investigation / Cybersecurity Technology
+    - UMGC IEEE Student Membership (will consider)
 -  🎓 Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
     - Major: Computer Science
     - Minor: Law for Business
     - Graduation Honors: Summa Cum Laude
     - Honor Societies (Offically U.S.A. Accredited by Association of College Honor Societies(ACHS)):
         - Phi Kappa Phi Honor Society (UMGC 2025 Chapter)
-        - Upsilon Pi Epsilon Honor Society (UMGC 2025 Chapter)
--  💻 Software Engineering | Software Development(Backend, Frontend, Full-Stack) | IT/Cybersecurity
+        - Upsilon Pi Epsilon Honor Society (UMGC 2025 Chapter))
+-  💻 Departments and Resume Focus: Information Technology(IT) / Cybersecurity / Full-Stack (Web Development and Security)
+-  🔍🎯 **Specific Topics and Career Goals:** Computer Science (Full-Stack, Website and Secuirty), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Technical Intelligence /
+Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer
 -  🔗 GitHub: [https://github.com/VictoriaRaven](https://github.com/VictoriaRaven)
 -  🔗 VRave6 Youtube Channel(My Educational Tutorial Videos; Only): [youtube/@virave6-vr6/playlist](https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9)
+-  🔗 Professional Certificates: z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working On Exam)
 -  🔗 Coursera Profile of All Certificates (Coursera): [https://www.coursera.org/user](https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f)
 -  🔗 LeetCode Profile: [leetcode/VictoriaRaven/](https://www.leetcode.com/VictoriaRaven/)
 -  🔗 HackerRank Profile: [hackerrank/victoria_lee_co1](https://www.hackerrank.com/profile/victoria_lee_co1)
@@ -32,27 +39,25 @@
 - [Overall](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#overall)
 
 ## Quick Profile Overview (Recruiter Scan)
-
-- **Degree:** Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
-- **Focus Areas:** Software Engineering; Software Development (Frontend, Backend, Full-Stack); IT/Cybersecurity
-- **Professional Certifications:** z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working On Exam)
-- **Tech Stack:** Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, Mathematics, Physics, SDLC, Microsoft & Google Office, z/OS: Mainframe Practitioner
+-  🎓 (ONGOING; WILL UPDATE 2027) Master of Science — M.S. Cyber Operations / Digital Forensics & Cyber Investigation — University of Maryland Global Campus (2028)
+- **Degree(s):**  (1) Master of Science — M.S. Cyber Operations / Digital Forensics & Cyber Investigation — University of Maryland Global Campus (2028); (2) Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
+- **Focus Areas:** Information Technology(IT) / Cybersecurity / Full-Stack (Web Development and Security)
+- **Professional Certifications:** z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working on Passing the Exam); CompTIA Security+ (Currently Working on Passing the Exam)
+- **Tech Stack:** Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, .NET.ASP, Mathematics, Physics, SDLC, Microsoft & Google Office, z/OS: Mainframe Practitioner
 - **Work Style:** Independent & Team-based | Ethical/Perceptive | Investigative | Direct Communicator
-- **Professional Certifications:** Google Cybersecurity, IBM z/OS Practitioner, CompTIA Network+(uCertify)
 - **Technical Skills:** Java (Intermediate, some Advanced), Python; C++; C; HTML; JavaScript; CSS; SQL; Git (Intermediate)
-- **Software Tools:** Git (Intermediate), Linux, VS Code, Microsoft and Google Office Suite (Intermediate), Google Workspace (Intermediate), Dreamweaver 2021
-- **CS Concepts:** Accessibility (WCAG/ADA), OOP, REST APIs, Debugging, SDLC
+- **Software Tools:** Git (Intermediate), Linux, VS Code, Microsoft and Google Office Suite (Intermediate), Google Workspace (Intermediate), Adobe Dreamweaver 2021, MySQL
+- **CS Concepts:** XSS and SQL Injections(Website Security), WCAG/ADA, .NET.ASP, Cybersecurity, Information Technology, SWE Testing (Black Box and White Box), Debugging, SDLC
 - **Languages:** French (Speaking: Conversational; Writing: Intermediate), Russian/Spanish(Speaking:Conversational; Writing: Basic)
 - **Traits:** Problem Solving, Teamwork, Leadership, Adaptability, Critical Thinking
 - **Availability:**
-   - **Main Open Roles to Focus: Software Engineering or Software Development specialization positions (Backend, Frontend, or Full-Stack).**
-   - **Alternative Open Roles to Focus: IT, Cybersecurity, and Data/AI/ML roles if not offered main focused specialization positions.**
-       - Experienced with Accessibility (ADA/WCAG) Frontend (including UI/UX/APIs) for work experience, backend and frontend languages, and Git (Version Control, SDLC).
-       - Developed projects and earned certifications showcased on my GitHub.
-       - Passionate about building software and enthusiastic about being updated with the CS trends.
+   - **Main Open Roles to Focus and Job Desires: Computer Science (Full-Stack, Website and Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Technical Intelligence /
+Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer.**
+       - Experienced with Accessibility (ADA/WCAG) Front-End for a 5-month internship and currently as a 8-month part-time Junior Web Coordinator, Full-Stack, enhancing IT/Cybersecurity with Full-Stack languages, and Git (Version Control, SDLC).
+       - Developed projects and earned certifications showcased on my GitHub, demonstrating updated technical skills as technology advances.
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
-- *Detailed Information of Profile begins below.*
+- *Detailed information about the profile begins below.*
 
 ## Team & Group Contributions
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
@@ -61,9 +66,9 @@
 ### Professional Certifications
 - z/OS: Mainframe Practitioner Professional Certificate (Coursera)
 - Google Cybersecurity Professional Certificate (Coursera)
-- CompTIA Network+ (Currently Working On Passing Exam N009; Completed UDEMY/UMGC Course)
+- CompTIA Network+ (Currently Working on Passing Exam N009; Completed UDEMY/UMGC Course)
 - COMPTIA Network+ N008 Course: uCertify Profile Certificate (UMGC): [uCertify Network+ Course](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
-- CompTIA Security+ (Currently Working On Passing Exam; Completed Google Cybersecurity Course/Other for this)
+- CompTIA Security+ (Currently working on Passing the Exam; Completed Google Cybersecurity Course, which is relevant for this.)
 ### Professional Certifications with ACE CREDIT for Coursework
 -**Notice:** *The American Council on Education (ACE) is a coordinating body for colleges and universities in the United States. ACE evaluates courses and programs to determine whether they meet collegiate learning outcomes, and provides recommendations on the subject level, credit hours, and course subject for transfer credit.*
 - **CS50x Certificate** - ACE Credit Unit: 4 credits - edX and HarvardX (Harvard University)
@@ -82,7 +87,7 @@
 - z/OS: Mainframe Practitioner (Intro → Intermediate)
 ### Tools & Technologies
 - GitHub
-- GitHub Actions (Testings; System; Manual; Unit; Integration; Automated)
+- GitHub Actions (Back Box Test/White Box Test; Testing; System; Manual; Unit; Integration; Automated)
 - Git (SDLC Concepts and Layout)
 - VS Code (preference for all languages)
 - Microsoft Visual Studio (preference for C/C++)
@@ -90,30 +95,18 @@
 - Oracle (preference for Java)
 - Microsoft and Google Office Suite
 - Google Workspace
-- Dreamweaver 2021 (for Web Dev Work Experience)
+- Adobe Dreamweaver 2021 and .NET.ASP (Website Full-Stack and Security Work Experience)
 - Notepad/Notepad++
-### Core Concepts
-- Software Engineer (Any topics)
-- Software Developer (Any topics)
-    - IT (Networking; Security; Cloud)
-    - Cybersecurity (Hacking; Antivirus; Security)
+### Core Concepts (Main) & Positions I am Interested in:
+- Information Technology(IT): Network Security, Network Exploitation, General Security, Cybersecurity/IT for Finance
+- Cybersecurity: Digital Forensics, Cybersecurity Investigations, Cybersecurity Threat Work, Vulnerability Analysis, Hacking, Antivirus, Security, Cybersecurity/IT/Forensics Law Enforcement Officer
+- Full-Stack: Website and Security, Computer Science, Technical Intelligence, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer
+    - **Side Topics:**
     - Cryptography (Hashing; MSGS; Security)
     - Data Science (Law firms like Westlaw/Nexus Uni; Gov/Intelligence databases)
     - AI/Machine Learning (Any topics)
     - Mathematics (Calculus: 1-3; Differential Equations and Linear Algebra; Basic Statistics);
     - General Physics (1-3)
-       - Object-Oriented Programming
-       - Data Structures & Algorithms
-       - GUI Development
-       - Web Development
-       - Databases
-       - IT/Cybersecurity Fundamentals
-       - Software Testing
-       - Cryptography
-       - Accessibility (WCAG/ADA) for Web-Dev with DreamWeaver 2021
-       - REST APIs
-       - Debugging
-       - SDLC
 
 ## Projects in Order
 Projects ordered by **professional relevance, complexity, and recency** (top = strongest signal for recruiters). Ongoing link updates.
@@ -153,32 +146,31 @@ These projects best reflect my technical ability, growth, and readiness for indu
 - [CMSC Capstone Project (Team-Based)](https://github.com/javonpayne100/CMSC495Capstone)
 
 ## Education — University of Maryland Global Campus
-- **Program and Major:** Computer Science
-- **Minor with CS Program:** Law for Business
-- **Institution:** University of Maryland Global Campus
-- **Graduatuion Date:** 2025
-## UMGC Coursework
-### Core Computer Science
+- University of Maryland Global Campus (UMGC), M.S. Cyber Operations / Digital Forensics & Cyber Investigation (2028)
+- University of Maryland Global Campus (UMGC), B.S. Computer Science with Minor in Law for Business (2025)
+## UMGC Coursework for both M.S. & B.S. Degrees (Will Update and Ongoing):
+### Computer Science (M.S. & B.S.)
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - Software Engineering
 - Database Systems
 - Operating Systems
 - Computer Systems Architecture
-### Mathematics & Physics/Engineering
+### Mathematics & Physics/Engineering (M.S. & B.S.)
 - Calculus I–III
 - Linear Algebra
 - Differential Equations
 - Statistics
 - General Physics I–III
-### Cybersecurity & IT
+### Cybersecurity & IT (M.S. & B.S.)
 - Cybersecurity Fundamentals
 - Networking Concepts
 - Systems & Security Principles
-### Law & Professional Studies
+- COMPTIA NETWORK+ and COMPTIA SECURITY+
+### Law & Professional Studies (M.S. & B.S.)
 - Law for Business (Minor)
 - Ethics & Professional Responsibility
-## Previous / Old Coursework
+## Previous / Old Coursework (Community College ASSOCIATES (3 Associate Degrees), and M.S. & B.S.)
 Some repositories remain private to comply with academic integrity policies.
 ### Topics Covered
 - Java, Python, C++, C
@@ -187,7 +179,7 @@ Some repositories remain private to comply with academic integrity policies.
 - Security & Cryptography Basics
    - > 🔒 **Academic Integrity Note:** Repositories containing graded material or answer keys are kept private. Selected coursework may be temporarily shared **upon request** for hiring or evaluation purposes.
 
-## Badges & Certifications
+## Badges & Certifications (M.S. & B.S.)
 - **Upsilon Pi Epsilon (UPE)** — Honor Society (UMGC, May 9, 2025)  
 - [![AEFIS Badge](https://img.shields.io/badge/HonorSocieties-UpsilonPiEpsilon-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
    - **Badge Name:** UMGC UPE Honor Society Badge
@@ -203,21 +195,19 @@ Some repositories remain private to comply with academic integrity policies.
 - French (LEVELS - Speaking: Beginner/Conversational; Reading/Writing/Comprehension: Intermediate Low and Medium; Working On: Intermediate High and Advanced)
 - Russian (LEVELS - Speaking: Beginner/Conversational; Reading/Writing/Comprehension: Beginner/Conversational; Working On: Beginner and Intermediate (Low-High))
 - Spanish (After the first two above; Currently Only at Intro/Beginner/Conversational level for all parts)
-- Others like Italian/Ukrainian, etc. (After I get extremely fluent at the ones above)
+   - **NOTE:** Due to my courses and work-life balance overload, I have interchanged and swapped Russian and Spanish often on my resume, as I know I will not be 100% fluent, but at least beginner.
 ### Personality & Work Ethic
-- I like fast-paced environments, working independently, or as a team (teamwork/dependently), and making positive impacts on the company's goals/ethos or communities.
-- I love learning about different cultures and continuing to explore more about CS by keeping up-to-date, using Git, and curiosity.
-- CS can be integrated and meshed into many different subjects!
-- In my free time, I like to go outdoors, explore fashion, work out, read, code, play games, cook, learning different cultures, language learning, and study Law/Criminal Justice hybrids with CS.
-- Most people I know consider me a devoted, loyal, direct communicator, ambitious, confident(solo-person; straightforward; serious; detail-oriented), leader/teacher, analytical, shrewd, protective, and a great team player.
-- I learned to adjust and get used to both types of communications (indirect and direct) during my previous experiences. However, I prefer direct communication because that is the "real" me.
-- To mitigate this, I have enhanced my communication skills through my minor in Law for Business and taking free online side courses on how to deal with these types of communicators.
-- My goal (if positioned as a leader) is to not only be direct, but also to teach others, be a good listener, adjust to other communication styles like constructive feedback rather than blaming someone, and make teamwork successful (taking time to teach my team).
+- I love working independently or as a team (teamwork/dependently), and making positive impacts on the company's goals/ethos or communities.
+- I love learning about different cultures and staying up to date with CS trends, using Git, and Law/Criminal Justice hybrids with CS.
+- My hobbies include, Gym/MMA(boxing, kickboxing, Karate, BJJ), Nerf Guns to practice toy firearms, outdoors, fashion, reading (non-fiction), coding, playing games, cooking, learning about different cultures, and language learning.
+- Most people I know consider me an introvert who is devoted, loyal, a direct communicator, ambitious, confident(solo-person; straightforward; serious; detail-oriented), a leader/teacher, analytical, shrewd, protective, and a great team player.
+- I prefer direct communication because that is the "real" me, but I have adjusted to learn both indirect and direct communication (including dealing with intorverts/extroverts) through my minor in Law for Business.
+- My goal (if positioned as a leader) is to not only be direct, but also to teach others, be a good listener, adjust to other communication styles, like constructive feedback rather than blaming someone, and make teamwork successful (taking time to teach my team).
 - I love to help others and bring a positive impact to my work and experiences to show that I care for my team.
   - I want each of my members to not only be a part of the team, but also to grow their skills and traits, no matter what level they are at (Intro, Intermediate, Advanced)
     - Communication theory states: Direct communication involves explicit and straightforward expression, while Indirect communication relies on nuances, implications, passive aggressiveness, and nonverbal cues.
       - [Direct v. Indirect Examples](https://www.indeed.com/career-advice/career-development/direct-communication)
-      - [Assertive v. Passive v. Agressive](https://youtu.be/KmrokQdsjTA?feature=shared)
+      - [Assertive v. Passive v. Aggressive](https://youtu.be/KmrokQdsjTA?feature=shared)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 2](https://youtu.be/ZjwiX6KNAHE?feature=shared&t=229)
       - [Direct v. Indirect based on Countries/Cultures: YouTube Video 3](https://youtu.be/qKViQSnW-UA?si=fBhuKTvSY6Wy9VXX)
