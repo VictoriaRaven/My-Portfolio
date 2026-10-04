@@ -4,17 +4,24 @@
 [![Language: Español|Spanish(SP)](https://img.shields.io/badge/Language-Español|Spanish(SP)-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)
 [![Language: Русский|Russian(RU)](https://img.shields.io/badge/Language-Русский|Russian(RU)-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
 > **Note:** Some translations are automated and may contain inaccuracies. As of October 2026, my focus is on Information Technology (IT), Cybersecurity, and Full-Stack, including Digital Forensics & Cyber Investigation and Web Development.
--  🎓 (ONGOING; WILL UPDATE 2027) Master of Science — M.S. Cyber Operations / Digital Forensics & Cyber Investigation — University of Maryland Global Campus (2028)
-    - Major: I will have to choose between Cyber Operations / Digital Forensics & Cyber Investigation. I will decide to pursue an additional Graduate Certificate. UMGC faculty will help me finalize a decision before January 2027 at UMGC.
-    - Graduate Certificates (UMGC Replaced Minors With Graduate Certificates): I will have to choose one of these based on my Major: Cyber Operations / Digital Forensics & Cyber Investigation / Cybersecurity Technology
-    - UMGC IEEE Student Membership (will consider)
+-  🎓 (ONGOING; WILL UPDATE 2027) Master of Science — M.S. Cyber Operations — University of Maryland Global Campus (2028) + Graduate Certificate: Digital Forensics & Cyber Investigation (2028)
+    - Major: Cyber Operations
+    - Minor/Graduate Certificate: Digital Forensics & Cyber Investigation
+    - UMGC IEEE Student Membership (to be considered)
 -  🎓 Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
     - Major: Computer Science
     - Minor: Law for Business
     - Graduation Honors: Summa Cum Laude
     - Honor Societies (Offically U.S.A. Accredited by Association of College Honor Societies(ACHS)):
         - Phi Kappa Phi Honor Society (UMGC 2025 Chapter)
-        - Upsilon Pi Epsilon Honor Society (UMGC 2025 Chapter))
+        - Upsilon Pi Epsilon Honor Society (UMGC 2025 Chapter)
+    - University of Maryland Global Campus (UMGC) President’s List, Adelphi, Maryland | July 2025
+    - University of Maryland Global Campus (UMGC) Dean’s List, Adelphi, Maryland | Jan 2024 – Jun 2025
+- 🎓 Associate of Arts — A.A. Math and Science — Cypress College (2023)
+- 🎓 Associate of Science — A.S. Mathematics — Cypress College (2023)
+- 🎓 Associate of Science — A.S. Physics — Cypress College (2023)
+    - Cypress College Dean’s List, Cypress, California | December 2020
+    - Cypress College President’s Honor List, Cypress, California | May 2020
 -  💻 Departments Focused: Information Technology (IT), Cybersecurity, Full-Stack (Web Development and Security)
 -  🔍🎯 **Specific Topics & Positions I am Interested In:** Computer Science (Full-Stack, Website & Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Cyber/IT Analyst, Technical Intelligence, Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer
 -  🔗 GitHub: [https://github.com/VictoriaRaven](https://github.com/VictoriaRaven)
@@ -38,25 +45,24 @@
 - [Overall](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#overall)
 
 ## Quick Profile Overview (Recruiter Scan)
--  🎓 (ONGOING; WILL UPDATE 2027) Master of Science — M.S. Cyber Operations / Digital Forensics & Cyber Investigation — University of Maryland Global Campus (2028)
-- **Degree(s):**  (1) Master of Science — M.S. Cyber Operations / Digital Forensics & Cyber Investigation — University of Maryland Global Campus (2028); (2) Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
+-  🎓 (ONGOING; WILL UPDATE 2027)
+- **Degree(s):**  (1) Master of Science — M.S. Cyber Operations — University of Maryland Global Campus (2028), Graduate Certificate (Minor): Digital Forensics & Cyber Investigation — University of Maryland Global Campus (2028); (2) Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025); (3) Associate of Arts — A.A. Math and Science — Cypress College (2023), Associate of Science — A.S. Mathematics — Cypress College (2023), Associate of Science — A.S. Physics — Cypress College (2023)
 - **Focus Areas:** Information Technology(IT) / Cybersecurity / Full-Stack (Web Development and Security)
-- **Professional Certifications:** z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working on Passing the Exam); CompTIA Security+ (Currently Working on Passing the Exam)
-- **Tech Stack:** Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, .NET.ASP, Mathematics, Physics, SDLC, Microsoft & Google Office, z/OS: Mainframe Practitioner
+- **Professional Certifications:** z/OS: Mainframe Practitioner Professional Certificate (Coursera); Google Cybersecurity Professional Certificate (Coursera); CompTIA Network+ (uCertify course completed with UMGC; Currently Working on Passing the Exam); CompTIA Security+ (Compelted Google Cybersecurity; Currently working on Passing the Exam)
+- **Tech Stack:** Java, Python, C++, C, HTML, JavaScript, CSS, SQL, VBScript, TypeScript, Git, Bash, .Net, .ASP, Node.js, Microsoft & Google Office, z/OS: Mainframe Practitioner, Google Cybersecurity
 - **Work Style:** Independent & Team-based | Ethical/Perceptive | Investigative | Direct Communicator
 - **Technical Skills:** Java (Intermediate, some Advanced), Python; C++; C; HTML; JavaScript; CSS; SQL; Git (Intermediate)
-- **Software Tools:** Git (Intermediate), Linux, VS Code, Microsoft and Google Office Suite (Intermediate), Google Workspace (Intermediate), Adobe Dreamweaver 2021, MySQL
-- **CS Concepts:** XSS and SQL Injections(Website Security), WCAG/ADA, .NET.ASP, Cybersecurity, Information Technology, SWE Testing (Black Box and White Box), Debugging, SDLC
-- **Languages:** French (Speaking: Conversational; Writing: Intermediate), Russian/Spanish(Speaking:Conversational; Writing: Basic)
-- **Traits:** Problem Solving, Teamwork, Leadership, Adaptability, Critical Thinking
+- **Software & CS Concepts:** Adobe Dreamweaver 2021, .ASP .NET, Microsoft SQL Server, Git, VS Code, Microsoft & Google Tools, TRENDnet’s ChatGPT, Full-Stack, WCAG, ADA, SDLC, Cybersecurity, IT, Debugging, Black Box Testing, White Box Testing, XSS Mitigations, SQL Injection Mitigation
+- **Languages:** French (Limited Working Proficiency), Spanish (Elementary Proficiency); Russian (Elementary Proficiency)
+- **Personality Traits:** Teamwork, Leadership, Adaptability, Problem Solving, Critical Thinking, Direct Communication, Analytical
 - **Availability:**
    - **Main Open Roles to Focus and Job Desires: Computer Science (Full-Stack, Website and Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigator, Cyber/IT Analyst, Technical Intelligence, Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer.**
-       - Experienced with Accessibility (ADA/WCAG) Front-End for a 5-month internship and currently as a 8-month part-time Junior Web Coordinator, Full-Stack, enhancing IT/Cybersecurity with Full-Stack languages, and Git (Version Control, SDLC).
+       - Experienced with Accessibility (ADA/WCAG) Front-End for a 5-month internship and currently as an 8-month part-time Junior Web Coordinator, Full-Stack, enhancing IT/Cybersecurity with Full-Stack languages and Git (Version Control, SDLC).
        - Developed projects and earned certifications showcased on my GitHub, demonstrating updated technical skills as technology advances.
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 - *Detailed information about the profile begins below.*
-
+- 
 ## Team & Group Contributions
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
@@ -66,7 +72,7 @@
 - Google Cybersecurity Professional Certificate (Coursera)
 - CompTIA Network+ (Currently Working on Passing Exam N009; Completed UDEMY/UMGC Course)
 - COMPTIA Network+ N008 Course: uCertify Profile Certificate (UMGC): [uCertify Network+ Course](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
-- CompTIA Security+ (Currently working on Passing the Exam; Completed Google Cybersecurity Course, which is relevant for this.)
+- CompTIA Security+ (Currently working on passing the Exam; Completed Google Cybersecurity Course, which is relevant for this.)
 ### Professional Certifications with ACE CREDIT for Coursework
 -**Notice:** *The American Council on Education (ACE) is a coordinating body for colleges and universities in the United States. ACE evaluates courses and programs to determine whether they meet collegiate learning outcomes, and provides recommendations on the subject level, credit hours, and course subject for transfer credit.*
 - **CS50x Certificate** - ACE Credit Unit: 4 credits - edX and HarvardX (Harvard University)
@@ -85,7 +91,7 @@
 - z/OS: Mainframe Practitioner (Intro → Intermediate)
 ### Tools & Technologies
 - GitHub
-- GitHub Actions (Back Box Test/White Box Test; Testing; System; Manual; Unit; Integration; Automated)
+- GitHub Actions (Black Box Test/White Box Test; Testing; System; Manual; Unit; Integration; Automated)
 - Git (SDLC Concepts and Layout)
 - VS Code (preference for all languages)
 - Microsoft Visual Studio (preference for C/C++)
@@ -93,7 +99,7 @@
 - Oracle (preference for Java)
 - Microsoft and Google Office Suite
 - Google Workspace
-- Adobe Dreamweaver 2021 and .NET.ASP (Website Full-Stack and Security Work Experience)
+- Adobe Dreamweaver 2021 and .NET .ASP (Website Full-Stack and Security Work Experience)
 - Notepad/Notepad++
 ### Core Concepts (Main) & Positions I am Interested in:
 - Information Technology(IT): Network Security, Network Exploitation, General Security, Cybersecurity/IT for Finance
@@ -144,8 +150,11 @@ These projects best reflect my technical ability, growth, and readiness for indu
 - [CMSC Capstone Project (Team-Based)](https://github.com/javonpayne100/CMSC495Capstone)
 
 ## Education — University of Maryland Global Campus
-- University of Maryland Global Campus (UMGC), M.S. Cyber Operations / Digital Forensics & Cyber Investigation (2028)
+- University of Maryland Global Campus (UMGC), M.S. Cyber Operations (2028) + Graduate Certificate: Digital Forensics & Cyber Investigation (2028)
 - University of Maryland Global Campus (UMGC), B.S. Computer Science with Minor in Law for Business (2025)
+- Associate of Arts — A.A. Math and Science — Cypress College (2023)
+- Associate of Science — A.S. Mathematics — Cypress College (2023)
+- Associate of Science — A.S. Physics — Cypress College (2023)
 ## UMGC Coursework for both M.S. & B.S. Degrees (Will Update and Ongoing):
 ### Computer Science (M.S. & B.S.)
 - Object-Oriented Programming
@@ -190,9 +199,9 @@ Some repositories remain private to comply with academic integrity policies.
 - **COMPTIA Network+ N008 Course: uCertify Profile Certificate (UMGC):** [uCertify](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
 ## About Me
 ### Languages
-- French (LEVELS - Speaking: Beginner/Conversational; Reading/Writing/Comprehension: Intermediate Low and Medium; Working On: Intermediate High and Advanced)
-- Russian (LEVELS - Speaking: Beginner/Conversational; Reading/Writing/Comprehension: Beginner/Conversational; Working On: Beginner and Intermediate (Low-High))
-- Spanish (After the first two above; Currently Only at Intro/Beginner/Conversational level for all parts)
+- French (Limited Working Proficiency; working toward Professional Working Proficiency & Full Professional Proficiency)
+- Spanish (Elementary Proficiency)
+- Russian (Elementary Proficiency)
    - **NOTE:** Due to my courses and work-life balance overload, I have interchanged and swapped Russian and Spanish often on my resume, as I know I will not be 100% fluent, but at least beginner.
 ### Personality & Work Ethic
 - I love working independently or as a team (teamwork/dependently), and making positive impacts on the company's goals/ethos or communities.
