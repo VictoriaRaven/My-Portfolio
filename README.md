@@ -3,7 +3,7 @@
 [![Language: Français|French(FR)](https://img.shields.io/badge/Language-Français|French(FR)-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)
 [![Language: Español|Spanish(SP)](https://img.shields.io/badge/Language-Español|Spanish(SP)-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)
 [![Language: Русский|Russian(RU)](https://img.shields.io/badge/Language-Русский|Russian(RU)-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
-> **Note:** Some translations are automated and may contain inaccuracies. As of October 2026, my focus is on Information Technology (IT), Cybersecurity, and Full-Stack, including Digital Forensics & Cyber Investigation and Web Development.
+> **Note:** Some translations are automated and may contain inaccuracies. As of October 2026, my focus is on Information Technology (IT), Cybersecurity, and Full-Stack.
 -  🎓 (ONGOING; WILL UPDATE 2027) Master of Science — M.S. Cyber Operations — University of Maryland Global Campus (2028) + Graduate Certificate: Digital Forensics & Cyber Investigation (2028)
     - Major: Cyber Operations
     - Minor/Graduate Certificate: Digital Forensics & Cyber Investigation
