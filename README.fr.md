@@ -4,17 +4,24 @@
 
 > **Note:**Certaines traductions sont automatisées et peuvent contenir des inexactitudes. Depuis octobre 2026, je me concentre sur les technologies de l'information (TI), la cybersécurité et le Full-Stack, y compris la criminalistique numérique, les cyberinvestigations et le développement Web.
 >
-> -   🎓 (EN COURS ; MISE À JOUR EN 2027) Master of Science — M.S. Cyber-opérations / Forensique numérique et cyber-enquête — Campus mondial de l'Université du Maryland (2028)
->     -   Majeure : Je devrai choisir entre Cyber ​​Operations / Digital Forensics & Cyber ​​Investigation. Je déciderai de poursuivre un certificat d'études supérieures supplémentaire. Le corps professoral de l’UMGC m’aidera à finaliser une décision avant janvier 2027 à l’UMGC.
->     -   Certificats d'études supérieures (UMGC a remplacé les mineurs par des certificats d'études supérieures) : je devrai en choisir un en fonction de ma spécialisation : Cyber Opérations / Digital Forensics & Cyber ​​Investigation / Cybersecurity Technology.
->     -   Adhésion étudiante à l'UMGC IEEE (à considérer)
+> -   🎓 (EN COURS ; MISE À JOUR EN 2027) Master of Science — M.S. Cyber-Opérations — Campus mondial de l'Université du Maryland (2028) + Certificat d'études supérieures : Digital Forensics & Cyber ​​Investigation (2028)
+>     -   Majeure : Cyberopérations
+>     -   Certificat mineur/diplôme : criminalistique numérique et cyberenquête
+>     -   Adhésion étudiante UMGC IEEE (à considérer)
 > -   🎓 Baccalauréat ès sciences — BS Informatique — Campus mondial de l'Université du Maryland (2025)
 >     -   Majeure : Informatique
 >     -   Mineure : Droit des Affaires
 >     -   Mentions d'obtention du diplôme : Summa Cum Laude
 >     -   Sociétés d'honneur (officiellement accréditées aux États-Unis par l'Association of College Honor Societies (ACHS)) :
 >         -   Société d'honneur Phi Kappa Phi (chapitre UMGC 2025)
->         -   Upsilon Pi Epsilon Honor Society (chapitre UMGC 2025))
+>         -   Société d'honneur Upsilon Pi Epsilon (chapitre UMGC 2025)
+>     -   Liste du président du campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | juillet 2025
+>     -   Liste du doyen du campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | janvier 2024 – juin 2025
+> -   🎓 Associé en Arts — A.A. Mathématiques et sciences — Cypress College (2023)
+> -   🎓 Associé ès sciences — A.S. Mathématiques — Cypress College (2023)
+> -   🎓 Associé ès sciences — A.S. Physique — Cypress College (2023)
+>     -   Liste des doyens du Cypress College, Cypress, Californie | décembre 2020
+>     -   Liste d'honneur du président du Cypress College, Cypress, Californie | mai 2020
 > -   💻 Départements ciblés : technologies de l'information (TI), cybersécurité, Full-Stack (développement Web et sécurité)
 > -   🔍🎯**Sujets et postes spécifiques qui m'intéressent :**Informatique (Full-Stack, Site Web et sécurité), Cybersécurité, Technologies de l'information (TI), Forensique numérique, Enquêtes sur la cybersécurité, Analyste cyber/informatique, Intelligence technique, Travail sur les menaces de cybersécurité, Analyse de vulnérabilité, Sécurité des réseaux, Exploitation des réseaux, Cybersécurité et sécurité pour la finance, Droit informatique, Agent d'application de la loi en cybersécurité/informatique/criminalité
 > -   🔗GitHub :<https://github.com/VictoriaRaven>
@@ -41,24 +48,24 @@
 
 ## Aperçu rapide du profil (analyse du recruteur)
 
--   🎓 (EN COURS ; MISE À JOUR EN 2027) Master of Science — M.S. Cyber-opérations / Forensique numérique et cyber-enquête — Campus mondial de l'Université du Maryland (2028)
--   **Diplôme(s) :**(1) Master of Science — MS Cyber-Opérations / Forensique numérique et cyber-investigation — Campus mondial de l'Université du Maryland (2028) ; (2) Baccalauréat ès sciences — BS. Informatique — Campus mondial de l'Université du Maryland (2025)
--   **Focus Areas:**Technologies de l'information (TI) / Cybersécurité / Full-Stack (Développement Web et sécurité)
--   **Certifications professionnelles :**z/OS : certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (cours uCertify suivi avec UMGC ; travaille actuellement à la réussite de l'examen) ; CompTIA Security+ (travaille actuellement à la réussite de l'examen)
--   **Pile technologique :**Java, Python, C++, HTML, CSS, JavaScript, SQL, Git/GitHub, CompTIA, .NET.ASP, Mathématiques, Physique, SDLC, Microsoft et Google Office, z/OS : Praticien Mainframe
+-   🎓 (EN COURS ; MISE À JOUR EN 2027)
+-   **Diplôme(s) :**(1) Master of Science — MS Cyber-Opérations — Campus mondial de l'Université du Maryland (2028), Certificat d'études supérieures (mineure) : Digital Forensics & Cyber ​​Investigation — Campus mondial de l'Université du Maryland (2028) ; (2) Baccalauréat ès sciences — BS. Informatique — Campus mondial de l'Université du Maryland (2025) ; (3) Associé ès arts — AA Mathématiques et sciences — Cypress College (2023), associé en sciences — A.S. Mathématiques — Cypress College (2023), Associate of Science — A.S. Physique — Cypress College (2023)
+-   **Domaines d'intervention :**Technologies de l'information (TI) / Cybersécurité / Full-Stack (Développement Web et sécurité)
+-   **Certifications professionnelles :**z/OS : certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (cours uCertify suivi avec UMGC ; travaille actuellement à la réussite de l'examen) ; CompTIA Security+ (Cybersécurité Google obligatoire ; travaille actuellement à la réussite de l'examen)
+-   **Pile technologique :**Java, Python, C++, C, HTML, JavaScript, CSS, SQL, VBScript, TypeScript, Git, Bash, .Net, .ASP, Node.js, Microsoft et Google Office, z/OS : Mainframe Practitioner, Google Cybersecurity
 -   **Style de travail :**Indépendant et en équipe | Éthique/Perspective | Enquête | Communicateur direct
 -   **Compétences techniques :**Java (intermédiaire, certains avancés), Python ; C++ ; C ; HTML ; Javascript ; CSS ; SQL ; Git (intermédiaire)
--   **Outils logiciels :**Git (intermédiaire), Linux, VS Code, Microsoft et Google Office Suite (intermédiaire), Google Workspace (intermédiaire), Adobe Dreamweaver 2021, MySQL
--   **Concepts CS :**Injections XSS et SQL (sécurité du site Web), WCAG/ADA, .NET.ASP, cybersécurité, technologies de l'information, tests SWE (boîte noire et boîte blanche), débogage, SDLC
--   **Langues :**Français (parlé : conversationnel ; écrit : intermédiaire), russe/espagnol (parlé : conversationnel ; écrit : basique)
--   **Traits:**Résolution de problèmes, travail d'équipe, leadership, adaptabilité, pensée critique
+-   **Concepts logiciels et CS :**Adobe Dreamweaver 2021, .ASP .NET, Microsoft SQL Server, Git, VS Code, Microsoft et Google Tools, ChatGPT de TRENDnet, Full-Stack, WCAG, ADA, SDLC, Cybersécurité, informatique, débogage, tests boîte noire, tests boîte blanche, atténuations XSS, atténuation des injections SQL
+-   **Langues :**français (compétence professionnelle limitée), espagnol (compétence élémentaire); Russe (compétence élémentaire)
+-   **Traits de personnalité :**Travail d'équipe, leadership, adaptabilité, résolution de problèmes, pensée critique, communication directe, analytique
 -   **Disponibilité:**
     -   **Principaux rôles ouverts à cibler et désirs d'emploi : informatique (Full-Stack, site Web et sécurité), cybersécurité, technologie de l'information (TI), criminalistique numérique, enquêteur en cybersécurité, analyste cyber/informatique, renseignement technique, travail sur les menaces de cybersécurité, analyse de vulnérabilité, sécurité des réseaux, exploitation des réseaux, cybersécurité et sécurité pour la finance, droit informatique, agent d'application de la loi en cybersécurité/informatique/criminalité.**
-        -   Expérience avec le Front-End d'accessibilité (ADA/WCAG) pour un stage de 5 mois et actuellement en tant que coordinateur Web junior à temps partiel de 8 mois, Full-Stack, améliorant l'informatique/cybersécurité avec des langages Full-Stack et Git (Contrôle de version, SDLC).
+        -   Expérience avec l'accessibilité (ADA/WCAG) Front-End pour un stage de 5 mois et actuellement en tant que coordinateur Web junior à temps partiel de 8 mois, Full-Stack, améliorant l'informatique/cybersécurité avec les langages Full-Stack et Git (Contrôle de version, SDLC).
         -   Projets développés et certifications obtenues présentées sur mon GitHub, démontrant des compétences techniques mises à jour à mesure que la technologie avance.
 -   🔗 Tous les projets publics :[Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
 -   🔗 Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 -   _Les informations détaillées sur le profil commencent ci-dessous._
+-
 
 ## Contributions d'équipe et de groupe
 
@@ -79,7 +86,7 @@
 
 \-**Avis:**_L'American Council on Education (ACE) est un organisme de coordination des collèges et universités des États-Unis. ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage collégial et fournit des recommandations sur le niveau de matière, les heures de crédit et la matière de cours pour le transfert de crédits._
 
--   **Certificat CS50x**- Unité de crédit ACE : 4 crédits - edX et HarvardX (Harvard University)
+-   **CS50x Certificate**- Unité de crédit ACE : 4 crédits - edX et HarvardX (Harvard University)
     -   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
     -   [CS50 Autre code mineur + Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
 
@@ -99,7 +106,7 @@
 ### Outils et technologies
 
 -   GitHub
--   Actions GitHub (Test de la boîte arrière/Test de la boîte blanche ; Test ; Système ; Manuel ; Unité ; Intégration ; Automatisé)
+-   Actions GitHub (Test boîte noire/Test boîte blanche ; Test ; Système ; Manuel ; Unité ; Intégration ; Automatisé)
 -   Git (concepts et mise en page SDLC)
 -   VS Code (préférence pour toutes les langues)
 -   Microsoft Visual Studio (préférence pour C/C++)
@@ -107,7 +114,7 @@
 -   Oracle (préférence pour Java)
 -   Suite Microsoft et Google Office
 -   Espace de travail Google
--   Adobe Dreamweaver 2021 et .NET.ASP (Website Full-Stack et Security Work Experience)
+-   Adobe Dreamweaver 2021 et .NET .ASP (Website Full-Stack and Security Work Experience)
 -   Bloc-notes/Bloc-notes++
 
 ### Concepts de base (principaux) et postes qui m'intéressent :
@@ -124,7 +131,7 @@
 
 ## Projets en ordre
 
-Projets commandés par**professional relevance, complexity, and recency**(en haut = signal le plus fort pour les recruteurs). Mises à jour continues des liens.
+Projets commandés par**pertinence professionnelle, complexité et récence**(en haut = signal le plus fort pour les recruteurs). Mises à jour continues des liens.
 
 ### 1. Capstone et principales applications
 
@@ -145,7 +152,7 @@ Projets commandés par**professional relevance, complexity, and recency**(en hau
 
 ### 4. Projets Web et bases de données
 
--   [HTML, CSS, JavaScript Projects (Web Dev)](https://github.com/VictoriaRaven/Front-End-Web-Developer-edX-W3C)
+-   [Projets HTML, CSS, JavaScript (Développement Web)](https://github.com/VictoriaRaven/Front-End-Web-Developer-edX-W3C)
 -   [Conception et requêtes de bases de données SQL](https://github.com/VictoriaRaven/Database-Projects-with-SQL)
 
 ### 5. Pratique, expériences et apprentissage
@@ -166,19 +173,22 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 -   **Rôles :**Tous les rôles, car il s'agissait d'un projet solo. Il comprend un développeur de logiciels, un ingénieur logiciel, un chef de projet, un rédacteur technique et un développeur testeur/débogage.
 -   **Points forts:**Panneau d'administration, fonctionnalités d'exportation, tests automatisés
 -   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
--   [CS50 Other Minor Code + Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
+-   [CS50 Autre code mineur + Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
 
 ### Projet de synthèse du CMSC
 
 -   **Taper:**Développement de logiciels en équipe
 -   **Se concentrer:**Collaboration, analyse des besoins, workflow Git, livraison
--   **Rôles :**Chef de projet; Rédacteur technique ; Testeur/Développeur de débogage
+-   **Rôles :**Chef de projet; Rédacteur technique ; Testeur/développeur de débogage
 -   [Projet CMSC Capstone (en équipe)](https://github.com/javonpayne100/CMSC495Capstone)
 
 ## Éducation — Campus mondial de l'Université du Maryland
 
--   Campus mondial de l'Université du Maryland (UMGC), MS Cyber-Opérations / Forensique numérique et cyber-investigation (2028)
+-   Campus mondial de l'Université du Maryland (UMGC), MS Cyber-Opérations (2028) + Certificat d'études supérieures : Digital Forensics & Cyber ​​Investigation (2028)
 -   Campus mondial de l'Université du Maryland (UMGC), BS Informatique avec mineure en droit des affaires (2025)
+-   Associé ès arts — AA Mathématiques et sciences — Cypress College (2023)
+-   Associé ès sciences — A.S. Mathématiques — Cypress College (2023)
+-   Associé ès sciences — A.S. Physique — Cypress College (2023)
 
 ## Cours UMGC pour les deux MS. et B.S. Diplômes (seront mis à jour et en cours) :
 
@@ -193,7 +203,7 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 
 ### Mathématiques et physique/ingénierie (MS et BS)
 
--   Calculus I–III
+-   Calcul I – III
 -   Algèbre linéaire
 -   Équations différentielles
 -   Statistiques
@@ -240,9 +250,9 @@ Certains référentiels restent privés pour se conformer aux politiques d'inté
 
 ### Langues
 
--   Français (NIVEAUX - Parler : Débutant/Conversation ; Lecture/Écriture/Compréhension : Intermédiaire bas et moyen ; Travail : Intermédiaire haut et avancé)
--   Russe (NIVEAUX - Parler : Débutant/Conversation ; Lecture/Écriture/Compréhension : Débutant/Conversation ; Travail sur : Débutant et Intermédiaire (Bas-Haut))
--   Espagnol (Après les deux premiers ci-dessus ; actuellement uniquement au niveau Intro/Débutant/Conversation pour toutes les parties)
+-   Français (compétence professionnelle limitée ; en cours d'obtention d'une compétence professionnelle professionnelle et d'une compétence professionnelle complète)
+-   Espagnol (compétence élémentaire)
+-   Russe (compétence élémentaire)
     -   **NOTE:**En raison de mes cours et de la surcharge de l'équilibre travail-vie personnelle, j'ai souvent échangé le russe et l'espagnol sur mon CV, car je sais que je ne parlerai pas à 100%, mais au moins débutant.
 
 ### Personnalité et éthique de travail
