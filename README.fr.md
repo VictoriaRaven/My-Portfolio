@@ -2,7 +2,7 @@
 
 [![Language: Français|French(FR)](https://img.shields.io/badge/Language-Français|French(FR)-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)[![Language: Español|Spanish(SP)](https://img.shields.io/badge/Language-Español|Spanish(SP)-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)[![Language: Русский|Russian(RU)](https://img.shields.io/badge/Language-Русский|Russian(RU)-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
 
-> **Note:**Certaines traductions sont automatisées et peuvent contenir des inexactitudes. Depuis octobre 2026, je me concentre sur les technologies de l'information (TI), la cybersécurité et le Full-Stack, y compris la criminalistique numérique, les cyberinvestigations et le développement Web.
+> **Note:**Certaines traductions sont automatisées et peuvent contenir des inexactitudes. Depuis octobre 2026, je me concentre sur les technologies de l'information (TI), la cybersécurité et le Full-Stack.
 >
 > -   🎓 (EN COURS ; MISE À JOUR EN 2027) Master of Science — M.S. Cyber-Opérations — Campus mondial de l'Université du Maryland (2028) + Certificat d'études supérieures : Digital Forensics & Cyber ​​Investigation (2028)
 >     -   Majeure : Cyberopérations
@@ -16,7 +16,7 @@
 >         -   Société d'honneur Phi Kappa Phi (chapitre UMGC 2025)
 >         -   Société d'honneur Upsilon Pi Epsilon (chapitre UMGC 2025)
 >     -   Liste du président du campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | juillet 2025
->     -   Liste du doyen du campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | janvier 2024 – juin 2025
+>     -   Liste du doyen du Campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | janvier 2024 – juin 2025
 > -   🎓 Associé en Arts — A.A. Mathématiques et sciences — Cypress College (2023)
 > -   🎓 Associé ès sciences — A.S. Mathématiques — Cypress College (2023)
 > -   🎓 Associé ès sciences — A.S. Physique — Cypress College (2023)
@@ -86,7 +86,7 @@
 
 \-**Avis:**_L'American Council on Education (ACE) est un organisme de coordination des collèges et universités des États-Unis. ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage collégial et fournit des recommandations sur le niveau de matière, les heures de crédit et la matière de cours pour le transfert de crédits._
 
--   **CS50x Certificate**- Unité de crédit ACE : 4 crédits - edX et HarvardX (Harvard University)
+-   **Certificat CS50x**- Unité de crédit ACE : 4 crédits - edX et HarvardX (Harvard University)
     -   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
     -   [CS50 Autre code mineur + Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
 
@@ -207,7 +207,7 @@ Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma p
 -   Algèbre linéaire
 -   Équations différentielles
 -   Statistiques
--   Physique générale I-III
+-   Physique générale I–III
 
 ### Cybersécurité et informatique (MS et BS)
 
