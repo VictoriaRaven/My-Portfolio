@@ -63,6 +63,7 @@
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 - *Detailed information about the profile begins below.*
+
 ## Additional Information ONLY for Public Sectors
 - My community college coursework, including the Intersegmental General Education Transfer Curriculum (IGETC), gave me a foundational understanding of criminal justice, psychology, and history, all relevant to law enforcement.
 - My B.S. in Computer Science, with a minor in Law for Business, gave me a foundation in computer science, legal theory, legal systems and institutions, contemporary legal practices, and research and report writing, all relevant to legal studies and law enforcement.
@@ -72,7 +73,8 @@
      - Overall, All of these "combat / toy firearm skills" are useful in law enforcement or government sectors that require them.
 - As for languages, I understand French (Limited Working Proficiency), Russian(Elementary Proficiency), and Spanish (Elementary Proficiency), (mostly French and Russian), which are useful in legal studies and law enforcement.
 - [Refer to this link for **My GitHub Profile**](https://github.com/VictoriaRaven/My-Portfolio)
-- [Refer to the **table of contents** of my profile](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#table-of-contents
+- [Refer to the **table of contents** of my profile](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#table-of-contents)
+
 ## Team & Group Contributions
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
