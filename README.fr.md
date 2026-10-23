@@ -15,7 +15,7 @@
 >     -   Sociétés d'honneur (officiellement accréditées aux États-Unis par l'Association of College Honor Societies (ACHS)) :
 >         -   Société d'honneur Phi Kappa Phi (chapitre UMGC 2025)
 >         -   Société d'honneur Upsilon Pi Epsilon (chapitre UMGC 2025)
->     -   University of Maryland Global Campus (UMGC) President’s List, Adelphi, Maryland | July 2025
+>     -   Liste du président du campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | juillet 2025
 >     -   Liste du doyen du campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | janvier 2024 – juin 2025
 > -   🎓 Associé en Arts — A.A. Mathématiques et sciences — Cypress College (2023)
 > -   🎓 Associé ès sciences — A.S. Mathématiques — Cypress College (2023)
@@ -49,7 +49,7 @@
 
 ## Aperçu rapide du profil (analyse du recruteur)
 
--   🎓 (ONGOING; WILL UPDATE 2027)
+-   🎓 (EN COURS ; MISE À JOUR EN 2027)
 -   **Diplôme(s) :**(1) Master of Science — MS Cyber-Opérations — Campus mondial de l'Université du Maryland (2028), Certificat d'études supérieures (mineure) : Digital Forensics & Cyber ​​Investigation — Campus mondial de l'Université du Maryland (2028) ; (2) Baccalauréat ès sciences — BS. Informatique — Campus mondial de l'Université du Maryland (2025) ; (3) Associé ès arts — AA Mathématiques et sciences — Cypress College (2023), associé en sciences — A.S. Mathématiques — Cypress College (2023), Associate of Science — A.S. Physique — Cypress College (2023)
 -   **Domaines d'intervention :**Technologies de l'information (TI) / Cybersécurité / Full-Stack (Développement Web et sécurité)
 -   **Certifications professionnelles :**z/OS : certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (cours uCertify suivi avec UMGC ; travaille actuellement à la réussite de l'examen) ; CompTIA Security+ (Cybersécurité Google obligatoire ; travaille actuellement à la réussite de l'examen)
@@ -64,7 +64,7 @@
         -   Expérience avec l'accessibilité (ADA/WCAG) Front-End pour un stage de 5 mois et actuellement en tant que coordinateur Web junior à temps partiel de 8 mois, Full-Stack, améliorant l'informatique/cybersécurité avec les langages Full-Stack et Git (Contrôle de version, SDLC).
         -   Projets développés et certifications obtenues présentées sur mon GitHub, démontrant des compétences techniques mises à jour à mesure que la technologie avance.
 -   🔗 Tous les projets publics :[Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
--   🔗 Contributions GitHub (y compris CMSC Capstone) :[My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
+-   🔗 Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 -   _Les informations détaillées sur le profil commencent ci-dessous._
 
 ## Informations supplémentaires UNIQUEMENT pour les secteurs publics
@@ -72,9 +72,12 @@
 -   Mes cours dans un collège communautaire, y compris le programme de transfert d'enseignement général intersegmentaire (IGETC), m'ont donné une compréhension fondamentale de la justice pénale, de la psychologie et de l'histoire, toutes pertinentes pour l'application de la loi.
 -   Mon BS En informatique, avec une mineure en droit des affaires, m'a donné une base en informatique, théorie du droit, systèmes et institutions juridiques, pratiques juridiques contemporaines, recherche et rédaction de rapports, tous pertinents pour les études juridiques et l'application de la loi.
 -   Mon futur MS En cyber-opérations, ainsi qu'un certificat d'études supérieures en criminalistique numérique et en cyber-enquêtes que je poursuis actuellement, me donneront des connaissances et une expérience précieuses en informatique, en technologies de l'information et en cybersécurité, et me permettront de préparer des rapports professionnels pour les professionnels de l'informatique/de la cybersécurité et le personnel chargé de l'application de la loi.
--   Mon GitHub montre également ma capacité à enseigner et à pratiquer la boxe/kickboxing (compétence professionnelle limitée), le Wing Chun (compétence élémentaire) et les armes à feu Nerf Toy (compétence professionnelle limitée).
-          - Other "Elementary Proficiency" combat skills I know but do not practice often include BJJ. Krav Maga, and Karate. These combat skills are useful in law enforcement or government sectors that require them.
+-   Mes passe-temps secondaires autres que la gym/les poids/la course à pied montrent également ma capacité à apprendre et à pratiquer la boxe/le kickboxing (compétence professionnelle limitée), le Wing Chun (compétence élémentaire) et les armes à feu Nerf Toy (compétence professionnelle limitée)
+    -   D'autres compétences de combat de « compétence élémentaire » dont je connais les techniques, mais que je ne pratique pas souvent, incluent le BJJ, le Krav Maga et le karaté.
+    -   Dans l'ensemble, toutes ces « compétences en matière d'armes à feu de combat/jouets » sont utiles dans les secteurs chargés de l'application de la loi ou du gouvernement qui en ont besoin.
 -   En ce qui concerne les langues, je comprends le français (maîtrise pratique limitée), le russe (maîtrise élémentaire) et l'espagnol (maîtrise élémentaire) (principalement le français et le russe), qui sont utiles dans les études juridiques et l'application de la loi.
+-   [Référez-vous à ce lien pour**Mon profil GitHub**](https://github.com/VictoriaRaven/My-Portfolio)
+-   [Référez-vous au**table des matières**de mon profil](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#table-of-contents)
 
 ## Contributions d'équipe et de groupe
 
@@ -134,7 +137,7 @@
     -   **Sujets annexes :**
     -   Cryptographie (hachage ; MSGS ; sécurité)
     -   Science des données (cabinets d'avocats comme Westlaw/Nexus Uni ; bases de données Gov/Intelligence)
-    -   AI/Machine Learning (Any topics)
+    -   IA/apprentissage automatique (tous les sujets)
     -   Mathématiques (Calcul : 1-3 ; Équations différentielles et algèbre linéaire ; Statistiques de base) ;
     -   Physique générale (1-3)
 
