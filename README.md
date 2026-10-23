@@ -71,6 +71,8 @@
      - Other "Elementary Proficiency" combat skills I know the techniques, but do not practice often include BJJ, Krav Maga, and Karate.
      - Overall, All of these "combat / toy firearm skills" are useful in law enforcement or government sectors that require them.
 - As for languages, I understand French (Limited Working Proficiency), Russian(Elementary Proficiency), and Spanish (Elementary Proficiency), (mostly French and Russian), which are useful in legal studies and law enforcement.
+- [Refer to this link for **My GitHub Profile**](https://github.com/VictoriaRaven/My-Portfolio)
+- [Refer to the **table of contents** of my profile](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#table-of-contents
 ## Team & Group Contributions
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
