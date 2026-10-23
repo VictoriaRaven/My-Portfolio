@@ -67,8 +67,9 @@
 - My community college coursework, including the Intersegmental General Education Transfer Curriculum (IGETC), gave me a foundational understanding of criminal justice, psychology, and history, all relevant to law enforcement.
 - My B.S. in Computer Science, with a minor in Law for Business, gave me a foundation in computer science, legal theory, legal systems and institutions, contemporary legal practices, and research and report writing, all relevant to legal studies and law enforcement.
 - My future M.S. in Cyber Operations, along with a graduate certificate in Digital Forensics and Cyber Investigations that I am currently pursuing, will give me valuable knowledge and experience in computer science, information technology, and cybersecurity, and will equip me to prepare professional reports for both IT/cybersecurity professionals and law enforcement personnel.
-- My GitHub also shows my ability to teach and practice boxing/kickboxing (Limited Working Proficiency), Wing Chun (Elementary Proficiency), and Nerf Toy Firearms (Limited Working Proficiency).
-        - Other "Elementary Proficiency" combat skills I know but do not practice often include BJJ. Krav Maga, and Karate. These combat skills are useful in law enforcement or government sectors that require them.
+- My side hobbies other than gym/weights/running also shows my ability to learn and practice boxing/kickboxing (Limited Working Proficiency), Wing Chun (Elementary Proficiency), and Nerf Toy Firearms (Limited Working Proficiency)
+     - Other "Elementary Proficiency" combat skills I know the techniques, but do not practice often include BJJ, Krav Maga, and Karate.
+     - Overall, All of these "combat / toy firearm skills" are useful in law enforcement or government sectors that require them.
 - As for languages, I understand French (Limited Working Proficiency), Russian(Elementary Proficiency), and Spanish (Elementary Proficiency), (mostly French and Russian), which are useful in legal studies and law enforcement.
 ## Team & Group Contributions
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
