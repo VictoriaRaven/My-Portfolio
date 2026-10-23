@@ -33,7 +33,7 @@
 -  🔗 uCertify Profile Certificate (UMGC): [uCertify](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
 ## Table of Contents
 - [Quick Profile Overview (Recruiter Scan)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
-- [Public Sector ONLY Quick Profile Overview (Recuriter Scan)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#additional-information-only-for-public-sectors)
+- [*Public Sector ONLY Quick Profile Overview (Recruiter Scan)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#additional-information-only-for-public-sectors)
 - [Team & Group Contributions](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
 - [Technical Stack](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#technical-stack)
 - [Projects in Order](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#projects-in-order)
