@@ -2,10 +2,6 @@
 name: Translate README with Gemini
 
 on:
-  push:
-    branches:
-      - main
-      - master
   workflow_dispatch:
 
 permissions:
