@@ -15,14 +15,14 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Setup Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
           node-version: 24.x
 
-      # Remove old translations so they regenerate
+      # Prepare languages folder
       - name: Prepare languages folder
         run: |
           rm -rf languages
@@ -33,23 +33,26 @@ jobs:
         uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: fr
-          FILES: README.md
+          FILES: |-
+            README.md
 
       # Generate Russian translation
       - name: Generate Russian README
         uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: ru
-          FILES: README.md
+          FILES: |-
+            README.md
 
       # Generate Spanish translation
       - name: Generate Spanish README
         uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: es
-          FILES: README.md
+          FILES: |-
+            README.md
 
-      # Move translated READMEs into languages folder
+      # Move translations into languages folder
       - name: Move translated READMEs
         run: |
           mv -f README.fr.md languages/README.fr.md
@@ -62,7 +65,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Commit and push translations
+      # Commit and push changes
       - name: Commit and push changes
         run: |
           git add -A
