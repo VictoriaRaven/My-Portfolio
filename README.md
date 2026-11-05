@@ -22,6 +22,7 @@
 - 🎓 Associate of Science — A.S. Physics — Cypress College (2023)
     - Cypress College Dean’s List, Cypress, California | December 2020
     - Cypress College President’s Honor List, Cypress, California | May 2020
+    - NASA | NCAS 2022 for Cypress College: [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
 -  💻 Departments Focused: Information Technology (IT), Cybersecurity, Full-Stack (Web Development and Security)
 -  🔍🎯 **Specific Topics & Positions I am Interested In:** Computer Science (Full-Stack, Website & Security), Cybersecurity, Information Technology (IT), Digital Forensics, Cybersecurity Investigations, Cyber/IT Analyst, Technical Intelligence, Cybersecurity Threat Work, Vulnerability Analysis, Network Security, Network Exploitation, Cybersecurity and Security for Finance, Computer Science Law, Cybersecurity/IT/Forensics Law Enforcement Officer
 -  🔗 GitHub: [https://github.com/VictoriaRaven](https://github.com/VictoriaRaven)
@@ -62,6 +63,7 @@
        - Developed projects and earned certifications showcased on my GitHub, demonstrating updated technical skills as technology advances.
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
+- 🔗 NASA | NCAS 2022 for Cypress College: [VictoriaRaven's NASA NCAS Experience Community College 2023](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
 - *Detailed information about the profile begins below.*
 
 ## Additional Information ONLY for Public Sectors
@@ -72,12 +74,15 @@
      - Other "Elementary Proficiency" combat skills I know the techniques, but do not practice often include BJJ, Krav Maga, and Karate.
      - Overall, All of these "combat / toy firearm skills" are useful in law enforcement or government sectors that require them.
 - As for languages, I understand French (Limited Working Proficiency), Russian(Elementary Proficiency), and Spanish (Elementary Proficiency), (mostly French and Russian), which are useful in legal studies and law enforcement.
+- You can also find my NASA NCAS related to My Community college and how it also correlates to government. My repo is here: [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+- You can also find my 2025 UMGC Minor in Business Law, Legal Studies, Communications, Federal Courts (law and law enforcement) and Criminal Justice writings in this repository here: [My UMGC LGST BMGT COMM OTHER GitHub Repository](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main)
 - [Refer to this link for **My GitHub Profile**](https://github.com/VictoriaRaven/My-Portfolio)
 - [Refer to the **table of contents** of my profile](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#table-of-contents)
 
 ## Team & Group Contributions
 - 🔗 GitHub Contributions (including CMSC Capstone): [My GitHub Contributions](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
 - 🔗 All public projects: [Public Repositories](https://github.com/VictoriaRaven?tab=repositories)
+- 🔗 NASA | NCAS 2022 for Cypress College: [VictoriaRaven's NASA NCAS Experience Community College 2023](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
 ## Technical Stack
 ### Professional Certifications
 - z/OS: Mainframe Practitioner Professional Certificate (Coursera)
@@ -86,10 +91,10 @@
 - COMPTIA Network+ N008 Course: uCertify Profile Certificate (UMGC): [uCertify Network+ Course](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
 - CompTIA Security+ (Currently working on passing the Exam; Completed Google Cybersecurity Course, which is relevant for this.)
 ### Professional Certifications with ACE CREDIT for Coursework
--**Notice:** *The American Council on Education (ACE) is a coordinating body for colleges and universities in the United States. ACE evaluates courses and programs to determine whether they meet collegiate learning outcomes, and provides recommendations on the subject level, credit hours, and course subject for transfer credit.*
+-**Notice:** *The American Council on Education (ACE) is a coordinating body for colleges and universities in the United States. ACE evaluates courses and programs to determine whether they meet collegiate learning outcomes, and provides recommendations on the show the level, credit hours, and course subject for transfer credit.*
 - **CS50x Certificate** - ACE Credit Unit: 4 credits - edX and HarvardX (Harvard University)
     - [Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
-    - [CS50 Other Minor Code + Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
+    - [CS50 OthallMinor Code combat/toy Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
 ### Languages
 - Java (Intermediate → Advanced)
 - Python (Intermediate → Advanced)
@@ -160,7 +165,9 @@ These projects best reflect my technical ability, growth, and readiness for indu
 - **Focus:** Collaboration, requirements analysis, Git workflow, delivery
 - **Roles:** Project Manager; Technical Writer; Tester/Debug Developer
 - [CMSC Capstone Project (Team-Based)](https://github.com/javonpayne100/CMSC495Capstone)
-
+### NASA | NCAS 2022 for Cypress College, group-based, real extracurricular activity to participate with NASA at my Cypress Community College in 2022:
+- [VictoriaRaven's NASA NCAS Experience Community College 2023](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+- Government-related: NASA Community College Aerospace Scholars (NCAS) | Apr–Aug 2022. Participated in NASA research simulations, managed a $609.5M project budget, performed risk assessment and resource planning, and collaborated with multidisciplinary teams to meet mission objectives.
 ## Education — University of Maryland Global Campus
 - University of Maryland Global Campus (UMGC), M.S. Cyber Operations (2028) + Graduate Certificate: Digital Forensics & Cyber Investigation (2028)
 - University of Maryland Global Campus (UMGC), B.S. Computer Science with Minor in Law for Business (2025)
