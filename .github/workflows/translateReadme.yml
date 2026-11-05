@@ -23,41 +23,48 @@ jobs:
           node-version: 24.x
 
       # Prepare languages folder
-      - name: Prepare languages folder
+      - name: Prepare translations
         run: |
-          rm -rf languages
           mkdir -p languages
 
-      # Generate French translation
+      # French
       - name: Generate French README
         uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: fr
-          FILES: |-
-            README.md
+          FILES: README.md
+          COMMIT: false
+          PUSH: false
 
-      # Generate Russian translation
+      # Russian
       - name: Generate Russian README
         uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: ru
-          FILES: |-
-            README.md
+          FILES: README.md
+          COMMIT: false
+          PUSH: false
 
-      # Generate Spanish translation
+      # Spanish
       - name: Generate Spanish README
         uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: es
-          FILES: |-
-            README.md
+          FILES: README.md
+          COMMIT: false
+          PUSH: false
 
-      # Move translations into languages folder
+      # Move translations
       - name: Move translated READMEs
         run: |
-          mv -f README.fr.md languages/README.fr.md
-          mv -f README.ru.md languages/README.ru.md
-          mv -f README.es.md languages/README.es.md
+          for lang in fr ru es; do
+            if [ -f "README.$lang.md" ]; then
+              mv -f "README.$lang.md" "languages/README.$lang.md"
+            else
+              echo "ERROR: README.$lang.md was not generated"
+              exit 1
+            fi
+          done
 
       # Configure Git
       - name: Configure Git
@@ -65,13 +72,13 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Commit and push changes
+      # Commit and push once
       - name: Commit and push changes
         run: |
-          git add -A
+          git add languages/
           if ! git diff --cached --quiet; then
             git commit -m "Update translated READMEs"
             git push
           else
-            echo "No translation changes to commit."
+            echo "No translation changes."
           fi
