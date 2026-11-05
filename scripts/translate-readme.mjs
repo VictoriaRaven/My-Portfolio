@@ -2,7 +2,7 @@
 import fs from "node:fs/promises";
 
 const API_KEY = process.env.GEMINI_API_KEY;
-const MODEL = "gemini-2.5-flash-lite";
+const MODEL = "gemini-3.5-flash-lite";
 
 const language = process.argv[2];
 const outputFile = process.argv[3] || `languages/README.${language}.md`;
