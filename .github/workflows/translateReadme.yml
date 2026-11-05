@@ -1,11 +1,18 @@
+
 name: Translate README
 
 on:
+  push:
+    branches:
+      - main
+      - master
   workflow_dispatch:
 
 jobs:
   translate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
@@ -13,47 +20,55 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 12.x
+          node-version: 24.x
 
       # Remove old translations so they regenerate
-      - name: Remove old translated READMEs
+      - name: Prepare languages folder
         run: |
-          rm -f README.fr.md README.ru.md README.es.md
           rm -rf languages
           mkdir -p languages
 
-      # Generate translations
+      # Generate French translation
       - name: Generate French README
-        uses: dephraiim/translate-readme@main
+        uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: fr
+          FILES: README.md
 
+      # Generate Russian translation
       - name: Generate Russian README
-        uses: dephraiim/translate-readme@main
+        uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: ru
+          FILES: README.md
 
+      # Generate Spanish translation
       - name: Generate Spanish README
-        uses: dephraiim/translate-readme@main
+        uses: ikhsan3adi/markdown-translator@v3
         with:
           LANG: es
+          FILES: README.md
 
-      # Move translations into languages folder (overwrite safely)
+      # Move translated READMEs into languages folder
       - name: Move translated READMEs
         run: |
           mv -f README.fr.md languages/README.fr.md
           mv -f README.ru.md languages/README.ru.md
           mv -f README.es.md languages/README.es.md
 
-      # Git config
+      # Configure Git
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Commit once
+      # Commit and push translations
       - name: Commit and push changes
         run: |
           git add -A
-          git commit -m "Update translated READMEs"
-          git push
+          if ! git diff --cached --quiet; then
+            git commit -m "Update translated READMEs"
+            git push
+          else
+            echo "No translation changes to commit."
+          fi
