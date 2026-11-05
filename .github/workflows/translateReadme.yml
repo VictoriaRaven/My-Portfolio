@@ -1,5 +1,5 @@
 
-name: Translate README
+name: Translate README with Gemini
 
 on:
   push:
@@ -8,74 +8,49 @@ on:
       - master
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   translate:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
-      - uses: actions/checkout@v5
+      - name: Checkout repository
+        uses: actions/checkout@v5
 
       - name: Setup Node.js
         uses: actions/setup-node@v6
         with:
           node-version: 24.x
 
-      # Prepare languages folder
-      - name: Prepare translations
-        run: |
-          mkdir -p languages
+      - name: Prepare languages folder
+        run: mkdir -p languages
 
-      # French
-      - name: Generate French README
-        uses: ikhsan3adi/markdown-translator@v3
-        with:
-          LANG: fr
-          FILES: README.md
-          COMMIT: false
-          PUSH: false
+      - name: Translate README into French
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/translate-readme.mjs fr
 
-      # Russian
-      - name: Generate Russian README
-        uses: ikhsan3adi/markdown-translator@v3
-        with:
-          LANG: ru
-          FILES: README.md
-          COMMIT: false
-          PUSH: false
+      - name: Translate README into Russian
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/translate-readme.mjs ru
 
-      # Spanish
-      - name: Generate Spanish README
-        uses: ikhsan3adi/markdown-translator@v3
-        with:
-          LANG: es
-          FILES: README.md
-          COMMIT: false
-          PUSH: false
+      - name: Translate README into Spanish
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/translate-readme.mjs es
 
-      # Move translations
-      - name: Move translated READMEs
-        run: |
-          for lang in fr ru es; do
-            if [ -f "README.$lang.md" ]; then
-              mv -f "README.$lang.md" "languages/README.$lang.md"
-            else
-              echo "ERROR: README.$lang.md was not generated"
-              exit 1
-            fi
-          done
-
-      # Configure Git
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Commit and push once
-      - name: Commit and push changes
+      - name: Commit and push translations
         run: |
           git add languages/
+
           if ! git diff --cached --quiet; then
             git commit -m "Update translated READMEs"
             git push
