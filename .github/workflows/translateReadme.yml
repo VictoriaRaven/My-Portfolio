@@ -23,26 +23,19 @@ jobs:
       - name: Prepare languages folder
         run: mkdir -p languages
 
-      - name: Translate README into French
+      # One Gemini request for all three languages
+      - name: Translate README into French, Russian and Spanish
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/translate-readme.mjs fr
+        run: node scripts/translate-readme.mjs
 
-      - name: Translate README into Russian
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/translate-readme.mjs ru
-
-      - name: Translate README into Spanish
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: node scripts/translate-readme.mjs es
-
+      # Configure Git
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
+      # Commit all translations together
       - name: Commit and push translations
         run: |
           git add languages/
