@@ -1,293 +1,247 @@
-# Mon portfolio — VictoriaRaven
+# Mon Portfolio — VictoriaRaven
 
-[![Language: Français|French(FR)](https://img.shields.io/badge/Language-Français|French(FR)-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)[![Language: Español|Spanish(SP)](https://img.shields.io/badge/Language-Español|Spanish(SP)-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)[![Language: Русский|Russian(RU)](https://img.shields.io/badge/Language-Русский|Russian(RU)-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
+[![Language: Français|French(FR)](https://img.shields.io/badge/Language-Français|French(FR)-blue)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.fr.md)
+[![Language: Español|Spanish(SP)](https://img.shields.io/badge/Language-Español|Spanish(SP)-orange)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.es.md)
+[![Language: Русский|Russian(RU)](https://img.shields.io/badge/Language-Русский|Russian(RU)-red)](https://github.com/VictoriaRaven/My-Portfolio/blob/main/languages/README.ru.md)
+> **Remarque :** Certaines traductions sont automatisées et peuvent contenir des imprécisions. Mis à jour le 11/05/2026.
+-  🎓 Master of Science — M.S. Cyber Operations — University of Maryland Global Campus (2028) + Certificat d'études supérieures : Digital Forensics & Cyber Investigation (2028)
+    - Spécialisation : Cyber Operations
+    - Mineure / Certificat d'études supérieures : Digital Forensics & Cyber Investigation
+    - Adhésion étudiante IEEE UMGC (à l'étude)
+    - Autres sociétés d'honneur : Inconnues
+    - Début et fin : 2027-2028
+-  🎓 Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025)
+    - Spécialisation : Computer Science
+    - Mineure : Law for Business
+    - Mentions de fin d'études : Summa Cum Laude
+    - Sociétés d'honneur (Officiellement accréditées aux États-Unis par l'Association of College Honor Societies (ACHS)) :
+        - Phi Kappa Phi Honor Society (Chapitre UMGC 2025)
+        - Upsilon Pi Epsilon Honor Society (Chapitre UMGC 2025)
+    - Liste du président de l'University of Maryland Global Campus (UMGC), Adelphi, Maryland | Juillet 2025
+    - Liste du doyen de l'University of Maryland Global Campus (UMGC), Adelphi, Maryland | Janv. 2024 – Juin 2025
+- 🎓 Associate of Arts — A.A. Math and Science — Cypress College (2023)
+- 🎓 Associate of Science — A.S. Mathematics — Cypress College (2023)
+- 🎓 Associate of Science — A.S. Physics — Cypress College (2023)
+    - Liste du doyen du Cypress College, Cypress, Californie | Décembre 2020
+    - Liste d'honneur du président du Cypress College, Cypress, Californie | Mai 2020
+    - NASA | NCAS 2022 pour le Cypress College : [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+-  💻 Départements ciblés : Technologies de l'information (IT), Cybersécurité, Full-Stack (Développement Web et Sécurité)
+-  🔍🎯 **Sujets et postes spécifiques qui m'intéressent :** Informatique (Full-Stack, Site Web & Sécurité), Cybersécurité, Technologies de l'information (IT), Informatique forensique, Enquêtes en cybersécurité, Analyste Cyber/IT, Renseignement technique, Travail sur les menaces en cybersécurité, Analyse des vulnérabilités, Sécurité des réseaux, Exploitation des réseaux, Cybersécurité et sécurité pour la finance, Droit informatique, Agent des forces de l'ordre en cybersécurité/IT/informatique forensique
+-  🔗 GitHub : [https://github.com/VictoriaRaven](https://github.com/VictoriaRaven)
+-  🔗 Chaîne YouTube VRave6 (Mes vidéos de tutoriels éducatifs uniquement) : [youtube/@virave6-vr6/playlist](https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9)
+-  🔗 Certificats professionnels : z/OS: Mainframe Practitioner Professional Certificate (Coursera) ; Google Cybersecurity Professional Certificate (Coursera) ; CompTIA Network+ (cours uCertify complété avec l'UMGC ; en cours de préparation pour l'examen)
+-  🔗 Profil Coursera de tous les certificats (Coursera) : [https://www.coursera.org/user](https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f)
+-  🔗 Profil LeetCode : [leetcode/VictoriaRaven/](https://www.leetcode.com/VictoriaRaven/)
+-  🔗 Profil HackerRank : [hackerrank/victoria_lee_co1](https://www.hackerrank.com/profile/victoria_lee_co1)
+-  🔗 Certificat du profil uCertify (UMGC) : [uCertify](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
+## Table des matières
+- [Aperçu rapide du profil (Analyse pour recruteur)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
+- [*Aperçu rapide du profil UNIQUEMENT pour le secteur public (Analyse pour recruteur)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#additional-information-only-for-public-sectors)
+- [Contributions aux équipes et groupes](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
+- [Stack technique](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#technical-stack)
+- [Projets par ordre](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#projects-in-order)
+- [Projets phares](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#featured-projects-representative-work)
+- [Éducation — UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#education--university-of-maryland-global-campus)
+- [Cours suivis à l'UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#umgc-coursework)
+- [Cours précédents / anciens](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#previous--old-coursework)
+- [Badges et certifications](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#badges--certifications)
+- [À propos de moi](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#about-me)
+- [Généralités](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#overall)
 
-> **Note:**Certaines traductions sont automatisées et peuvent contenir des inexactitudes. Depuis octobre 2026, je me concentre sur les technologies de l'information (TI), la cybersécurité et le Full-Stack.
->
-> -   🎓 (EN COURS ; MISE À JOUR EN 2027) Master of Science — M.S. Cyber-Opérations — Campus mondial de l'Université du Maryland (2028) + Certificat d'études supérieures : Digital Forensics & Cyber ​​Investigation (2028)
->     -   Majeure : Cyberopérations
->     -   Certificat mineur/diplôme : criminalistique numérique et cyberenquête
->     -   Adhésion étudiante UMGC IEEE (à considérer)
-> -   🎓 Baccalauréat ès sciences — BS Informatique — Campus mondial de l'Université du Maryland (2025)
->     -   Majeure : Informatique
->     -   Mineure : Droit des Affaires
->     -   Mentions d'obtention du diplôme : Summa Cum Laude
->     -   Sociétés d'honneur (officiellement accréditées aux États-Unis par l'Association of College Honor Societies (ACHS)) :
->         -   Société d'honneur Phi Kappa Phi (chapitre UMGC 2025)
->         -   Société d'honneur Upsilon Pi Epsilon (chapitre UMGC 2025)
->     -   Liste du président du campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | juillet 2025
->     -   Liste du doyen du campus mondial de l'Université du Maryland (UMGC), Adelphi, Maryland | janvier 2024 – juin 2025
-> -   🎓 Associé en Arts — A.A. Mathématiques et sciences — Cypress College (2023)
-> -   🎓 Associé ès sciences — A.S. Mathématiques — Cypress College (2023)
-> -   🎓 Associé ès sciences — A.S. Physique — Cypress College (2023)
->     -   Liste des doyens du Cypress College, Cypress, Californie | décembre 2020
->     -   Liste d'honneur du président du Cypress College, Cypress, Californie | mai 2020
-> -   💻 Départements ciblés : technologies de l'information (TI), cybersécurité, Full-Stack (développement Web et sécurité)
-> -   🔍🎯**Sujets et postes spécifiques qui m'intéressent :**Informatique (Full-Stack, Site Web et sécurité), Cybersécurité, Technologies de l'information (TI), Forensique numérique, Enquêtes sur la cybersécurité, Analyste cyber/informatique, Intelligence technique, Travail sur les menaces de cybersécurité, Analyse de vulnérabilité, Sécurité des réseaux, Exploitation des réseaux, Cybersécurité et sécurité pour la finance, Droit informatique, Agent d'application de la loi en cybersécurité/informatique/criminalité
-> -   🔗GitHub :<https://github.com/VictoriaRaven>
-> -   🔗 Chaîne Youtube VRave6 (mes vidéos de didacticiels éducatifs ; uniquement) :[youtube/@viravesh-vrush/playlist](https://youtube.com/playlist?list=PLAW2GohZkMvFc0HUdVZJcsEwRPuS05YyC&si=5VVKaJrbI5agslJ9)
-> -   🔗 Certificats professionnels : z/OS : Certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (cours uCertify suivi avec UMGC ; je travaille actuellement sur l'examen)
-> -   🔗 Profil Coursera de tous les certificats (Coursera) :[https://www.coursera.org/user](https://www.coursera.org/user/2991ef1725fa5540d5401955b20f963f)
-> -   🔗 Profil LeetCode :[leetcode/VictoriaRaven/](https://www.leetcode.com/VictoriaRaven/)
-> -   🔗 Profil HackerRank :[hackerrank/victoria_lee_co1](https://www.hackerrank.com/profile/victoria_lee_co1)
-> -   🔗 Certificat de profil uCertify (UMGC) :[uCertifier](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
->
-> ## Table des matières
->
-> -   [Aperçu rapide du profil (analyse du recruteur)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#quick-profile-overview-recruiter-scan)
-> -   [\*Secteur public UNIQUEMENT Aperçu rapide du profil (analyse du recruteur)](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#additional-information-only-for-public-sectors)
-> -   [Contributions d'équipe et de groupe](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#team--group-contributions)
-> -   [Pile technique](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#technical-stack)
-> -   [Projets en ordre](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#projects-in-order)
-> -   [Projets en vedette](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#featured-projects-representative-work)
-> -   [Éducation – UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#education--university-of-maryland-global-campus)
-> -   [Cours UMGC](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#umgc-coursework)
-> -   [Cours précédents / anciens](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#previous--old-coursework)
-> -   [Insignes et certifications](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#badges--certifications)
-> -   [Sur moi](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#about-me)
-> -   [Dans l'ensemble](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#overall)
+## Aperçu rapide du profil (Analyse pour recruteur)
+-  🎓 (EN COURS ; MIS À JOUR EN 2027)
+- **Diplôme(s) :** (1) Master of Science — M.S. Cyber Operations — University of Maryland Global Campus (2028), Certificat d'études supérieures (Mineure) : Digital Forensics & Cyber Investigation — University of Maryland Global Campus (2028) ; (2) Bachelor of Science — B.S. Computer Science — University of Maryland Global Campus (2025) ; (3) Associate of Arts — A.A. Math and Science — Cypress College (2023), Associate of Science — A.S. Mathematics — Cypress College (2023), Associate of Science — A.S. Physics — Cypress College (2023)
+- **Domaines de spécialisation :** Technologies de l'information (IT) / Cybersécurité / Full-Stack (Développement Web et Sécurité)
+- **Certifications professionnelles :** z/OS: Mainframe Practitioner Professional Certificate (Coursera) ; Google Cybersecurity Professional Certificate (Coursera) ; CompTIA Network+ (cours uCertify complété avec l'UMGC ; en cours de préparation pour réussir l'examen) ; CompTIA Security+ (Cours Google Cybersecurity complété ; en cours de préparation pour réussir l'examen)
+- **Stack technique :** Java, Python, C++, C, HTML, JavaScript, CSS, SQL, VBScript, TypeScript, Git, Bash, .Net, .ASP, Node.js, Microsoft & Google Office, z/OS: Mainframe Practitioner, Google Cybersecurity
+- **Style de travail :** Autonome et en équipe | Éthique / Perspicace | Investigatif | Communicateur direct
+- **Compétences techniques :** Java (Intermédiaire, notions avancées), Python ; C++ ; C ; HTML ; JavaScript ; CSS ; SQL ; Git (Intermédiaire)
+- **Logiciels et concepts informatiques :** Adobe Dreamweaver 2021, .ASP .NET, Microsoft SQL Server, Git, VS Code, Outils Microsoft & Google, TRENDnet’s ChatGPT, Full-Stack, WCAG, ADA, SDLC, Cybersécurité, IT, Débogage, Tests en boîte noire, Tests en boîte blanche, Atténuation des failles XSS, Atténuation des injections SQL
+- **Langues :** Français (Compétence professionnelle limitée), Espagnol (Compétence élémentaire) ; Russe (Compétence élémentaire)
+- **Traits de personnalité :** Travail d'équipe, Leadership, Capacité d'adaptation, Résolution de problèmes, Esprit critique, Communication directe, Analytique
+- **Disponibilité :**
+   - **Principaux rôles ouverts et aspirations professionnelles : Informatique (Full-Stack, site web et sécurité), Cybersécurité, Technologies de l'information (IT), Informatique forensique, Enquêteur en cybersécurité, Analyste Cyber/IT, Renseignement technique, Travail sur les menaces en cybersécurité, Analyse des vulnérabilités, Sécurité des réseaux, Exploitation des réseaux, Cybersécurité et sécurité pour la finance, Droit informatique, Agent des forces de l'ordre en cybersécurité/IT/informatique forensique.**
+       - Expérience en matière d'accessibilité (ADA/WCAG) Front-End lors d'un stage de 5 mois et actuellement en tant que Coordinateur web junior à temps partiel (8 mois), Full-Stack, améliorant l'IT/Cybersécurité avec les langages Full-Stack et Git (Gestion de versions, SDLC).
+       - Développement de projets et obtention de certifications présentés sur mon GitHub, démontrant des compétences techniques actualisées à mesure que la technologie progresse.
+- 🔗 Tous les projets publics : [Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
+- 🔗 Contributions GitHub (y compris le projet de fin d'études CMSC) : [Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
+- 🔗 NASA | NCAS 2022 pour le Cypress College : [VictoriaRaven's NASA NCAS Experience Community College 2023](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+- *Des informations détaillées sur le profil commencent ci-dessous.*
 
-## Aperçu rapide du profil (analyse du recruteur)
+## Informations supplémentaires UNIQUEMENT pour le secteur public
+- Mes cours au community college, y compris l'Intersegmental General Education Transfer Curriculum (IGETC), m'ont donné une compréhension fondamentale de la justice pénale, de la psychologie et de l'histoire, tous des domaines pertinents pour les forces de l'ordre.
+- Mon B.S. en Computer Science, avec une mineure en Law for Business, m'a fourni des bases en informatique, théorie juridique, systèmes et institutions juridiques, pratiques juridiques contemporaines, ainsi qu'en recherche et rédaction de rapports, le tout pertinent pour les études juridiques et l'application de la loi.
+- Mon futur M.S. en Cyber Operations, ainsi que le certificat d'études supérieures en Digital Forensics and Cyber Investigations que je poursuis actuellement, m'apporteront des connaissances et une expérience précieuses en informatique, technologies de l'information et cybersécurité, et me prépareront à rédiger des rapports professionnels tant pour les professionnels de l'IT/cybersécurité que pour le personnel des forces de l'ordre.
+- Mes loisirs en dehors de la musculation, des poids et de la course à pied démontrent également ma capacité à apprendre et à pratiquer la boxe / kickboxing (Compétence professionnelle limitée), le Wing Chun (Compétence élémentaire) et les armes à feu jouets Nerf (Compétence professionnelle limitée)
+     - D'autres compétences de combat de niveau « Compétence élémentaire » dont je connais les techniques mais que je ne pratique pas souvent incluent le BJJ, le Krav Maga et le karaté.
+     - Dans l'ensemble, toutes ces compétences de « combat / armes à feu jouets » sont utiles dans les forces de l'ordre ou les secteurs gouvernementaux qui les exigent.
+- En ce qui concerne les langues, je comprends le français (Compétence professionnelle limitée), le russe (Compétence élémentaire) et l'espagnol (Compétence élémentaire) (principalement le français et le russe), qui sont utiles dans les études juridiques et l'application de la loi.
+- Vous pouvez également trouver mes travaux liés au programme NASA NCAS de mon community college et leur corrélation avec le gouvernement. Mon dépôt se trouve ici : [VictoriaRaven's NASA NCAS Experience Community College 2022](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+- Vous pouvez également retrouver mes écrits de 2025 à l'UMGC portant sur la mineure en droit des affaires, études juridiques, communications, tribunaux fédéraux (droit et application de la loi) et justice pénale dans ce dépôt ici : [My UMGC LGST BMGT COMM OTHER GitHub Repository](https://github.com/VictoriaRaven/Legal-Studies-Minor-2025-LAW-Projects-Assgn/tree/main)
+- [Consultez ce lien pour **Mon profil GitHub**](https://github.com/VictoriaRaven/My-Portfolio)
+- [Consultez la **table des matières** de mon profil](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#table-of-contents)
 
--   🎓 (EN COURS ; MISE À JOUR EN 2027)
--   **Diplôme(s) :**(1) Master of Science — MS Cyber-Opérations — Campus mondial de l'Université du Maryland (2028), Certificat d'études supérieures (mineure) : Digital Forensics & Cyber ​​Investigation — Campus mondial de l'Université du Maryland (2028) ; (2) Baccalauréat ès sciences — BS. Informatique — Campus mondial de l'Université du Maryland (2025) ; (3) Associé ès arts — AA Mathématiques et sciences — Cypress College (2023), associé en sciences — A.S. Mathématiques — Cypress College (2023), Associate of Science — A.S. Physique — Cypress College (2023)
--   **Domaines d'intervention :**Technologies de l'information (TI) / Cybersécurité / Full-Stack (Développement Web et sécurité)
--   **Certifications professionnelles :**z/OS : certificat professionnel de praticien mainframe (Coursera) ; Certificat professionnel de cybersécurité Google (Coursera) ; CompTIA Network+ (cours uCertify suivi avec UMGC ; travaille actuellement à la réussite de l'examen) ; CompTIA Security+ (Cybersécurité Google obligatoire ; travaille actuellement à la réussite de l'examen)
--   **Pile technologique :**Java, Python, C++, C, HTML, JavaScript, CSS, SQL, VBScript, TypeScript, Git, Bash, .Net, .ASP, Node.js, Microsoft et Google Office, z/OS : Mainframe Practitioner, Google Cybersecurity
--   **Style de travail :**Indépendant et en équipe | Éthique/Perspective | Enquête | Communicateur direct
--   **Compétences techniques :**Java (intermédiaire, certains avancés), Python ; C++ ; C ; HTML ; Javascript ; CSS ; SQL ; Git (intermédiaire)
--   **Concepts logiciels et CS :**Adobe Dreamweaver 2021, .ASP .NET, Microsoft SQL Server, Git, VS Code, Microsoft et Google Tools, ChatGPT de TRENDnet, Full-Stack, WCAG, ADA, SDLC, Cybersécurité, informatique, débogage, tests boîte noire, tests boîte blanche, atténuations XSS, atténuation des injections SQL
--   **Langues :**français (compétence professionnelle limitée), espagnol (compétence élémentaire); Russe (compétence élémentaire)
--   **Traits de personnalité :**Travail d'équipe, leadership, adaptabilité, résolution de problèmes, pensée critique, communication directe, analytique
--   **Disponibilité:**
-    -   **Principaux rôles ouverts à cibler et désirs d'emploi : informatique (Full-Stack, site Web et sécurité), cybersécurité, technologie de l'information (TI), criminalistique numérique, enquêteur en cybersécurité, analyste cyber/informatique, renseignement technique, travail sur les menaces de cybersécurité, analyse de vulnérabilité, sécurité des réseaux, exploitation des réseaux, cybersécurité et sécurité pour la finance, droit informatique, agent d'application de la loi en cybersécurité/informatique/criminalité.**
-        -   Expérience avec l'accessibilité (ADA/WCAG) Front-End pour un stage de 5 mois et actuellement en tant que coordinateur Web junior à temps partiel de 8 mois, Full-Stack, améliorant l'informatique/cybersécurité avec les langages Full-Stack et Git (Contrôle de version, SDLC).
-        -   Projets développés et certifications obtenues présentées sur mon GitHub, démontrant des compétences techniques mises à jour à mesure que la technologie avance.
--   🔗 Tous les projets publics :[Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
--   🔗 Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
--   _Les informations détaillées sur le profil commencent ci-dessous._
-
-## Informations supplémentaires UNIQUEMENT pour les secteurs publics
-
--   Mes cours dans un collège communautaire, y compris le programme de transfert d'enseignement général intersegmentaire (IGETC), m'ont donné une compréhension fondamentale de la justice pénale, de la psychologie et de l'histoire, toutes pertinentes pour l'application de la loi.
--   Mon BS En informatique, avec une mineure en droit des affaires, m'a donné une base en informatique, théorie du droit, systèmes et institutions juridiques, pratiques juridiques contemporaines, recherche et rédaction de rapports, tous pertinents pour les études juridiques et l'application de la loi.
--   Mon futur MS En cyber-opérations, ainsi qu'un certificat d'études supérieures en criminalistique numérique et en cyber-enquêtes que je poursuis actuellement, me donneront des connaissances et une expérience précieuses en informatique, en technologies de l'information et en cybersécurité, et me permettront de préparer des rapports professionnels pour les professionnels de l'informatique/de la cybersécurité et le personnel chargé de l'application de la loi.
--   Mes passe-temps secondaires autres que la gym/les poids/la course à pied montrent également ma capacité à apprendre et à pratiquer la boxe/le kickboxing (compétence professionnelle limitée), le Wing Chun (compétence élémentaire) et les armes à feu Nerf Toy (compétence professionnelle limitée)
-    -   D'autres compétences de combat de « compétence élémentaire » dont je connais les techniques, mais que je ne pratique pas souvent, incluent le BJJ, le Krav Maga et le karaté.
-    -   Dans l'ensemble, toutes ces « compétences en matière d'armes à feu de combat/jouets » sont utiles dans les secteurs chargés de l'application de la loi ou du gouvernement qui en ont besoin.
--   En ce qui concerne les langues, je comprends le français (maîtrise pratique limitée), le russe (maîtrise élémentaire) et l'espagnol (maîtrise élémentaire) (principalement le français et le russe), qui sont utiles dans les études juridiques et l'application de la loi.
--   [Référez-vous à ce lien pour**Mon profil GitHub**](https://github.com/VictoriaRaven/My-Portfolio)
--   [Référez-vous au**table des matières**de mon profil](https://github.com/VictoriaRaven/My-Portfolio?tab=readme-ov-file#table-of-contents)
-
-## Contributions d'équipe et de groupe
-
--   🔗 Contributions GitHub (y compris CMSC Capstone) :[Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
--   🔗 Tous les projets publics :[Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
-
-## Pile technique
-
+## Contributions aux équipes et groupes
+- 🔗 Contributions GitHub (y compris le projet de fin d'études CMSC) : [Mes contributions GitHub](https://github.com/stars/VictoriaRaven/lists/my-contributions-teamwork)
+- 🔗 Tous les projets publics : [Dépôts publics](https://github.com/VictoriaRaven?tab=repositories)
+- 🔗 NASA | NCAS 2022 pour le Cypress College : [VictoriaRaven's NASA NCAS Experience Community College 2023](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+## Stack technique
 ### Certifications professionnelles
-
--   z/OS : Certificat professionnel de praticien mainframe (Coursera)
--   Certificat professionnel de cybersécurité Google (Coursera)
--   CompTIA Network+ (je travaille actuellement à la réussite de l'examen N009 ; cours UDEMY/UMGC terminé)
--   Cours COMPTIA Network+ N008 : Certificat de profil uCertify (UMGC) :[Cours uCertify Network+](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
--   CompTIA Security+ (je travaille actuellement à la réussite de l'examen ; j'ai terminé le cours de cybersécurité de Google, ce qui est pertinent pour cela.)
-
-### Certifications professionnelles avec ACE CREDIT pour les cours
-
-\-**Avis:**_L'American Council on Education (ACE) est un organisme de coordination des collèges et universités des États-Unis. ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage collégial et fournit des recommandations sur le niveau de matière, les heures de crédit et la matière de cours pour le transfert de crédits._
-
--   **Certificat CS50x**- Unité de crédit ACE : 4 crédits - edX et HarvardX (Harvard University)
-    -   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
-    -   [CS50 Autre code mineur + Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
-
+- z/OS: Mainframe Practitioner Professional Certificate (Coursera)
+- Google Cybersecurity Professional Certificate (Coursera)
+- CompTIA Network+ (En cours de préparation pour l'examen N009 ; Cours UDEMY/UMGC complété)
+- COMPTIA Network+ N008 Course: uCertify Profile Certificate (UMGC) : [uCertify Network+ Course](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
+- CompTIA Security+ (En cours de préparation pour l'examen ; Cours Google Cybersecurity complété, ce qui est pertinent pour cela.)
+### Certifications professionnelles avec CRÉDIT ACE pour les cours
+-**Avis :** *L'American Council on Education (ACE) est un organisme de coordination pour les collèges et universités aux États-Unis. L'ACE évalue les cours et les programmes pour déterminer s'ils répondent aux résultats d'apprentissage universitaires, et formule des recommandations sur le niveau, les heures de crédit et la matière du cours pour les crédits de transfert.*
+- **Certificat CS50x** - Unité de crédit ACE : 4 crédits - edX et HarvardX (Université Harvard)
+    - [Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
+    - [CS50 OthallMinor Code combat/toy Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
 ### Langues
-
--   Java (Intermédiaire → Avancé)
--   Python (Intermédiaire → Avancé)
--   C++ (Intermédiaire → Avancé)
--   C (Intro → Intermédiaire)
--   JavaScript (Intro → Intermédiaire)
--   HTML / CSS (Intro → Intermédiaire)
--   SQL (Intro → Intermédiaire)
--   Git/GitHub (Intro → Intermédiaire)
--   Microsoft et Google Office (intermédiaire)
--   z/OS : Praticien Mainframe (Intro → Intermédiaire)
-
+- Java (Intermédiaire → Avancé)
+- Python (Intermédiaire → Avancé)
+- C++ (Intermédiaire → Avancé)
+- C (Intro → Intermédiaire)
+- JavaScript (Intro → Intermédiaire)
+- HTML / CSS (Intro → Intermédiaire)
+- SQL (Intro → Intermédiaire)
+- Git/GitHub (Intro → Intermédiaire)
+- Microsoft & Google Office (Intermédiaire)
+- z/OS: Mainframe Practitioner (Intro → Intermédiaire)
 ### Outils et technologies
+- GitHub
+- GitHub Actions (Test en boîte noire / Test en boîte blanche ; Test ; Système ; Manuel ; Unitaire ; Intégration ; Automatisé)
+- Git (Concepts et structure SDLC)
+- VS Code (préférence pour tous les langages)
+- Microsoft Visual Studio (préférence pour C/C++)
+- PyCharm (préférence pour Python)
+- Oracle (préférence pour Java)
+- Suite Microsoft et Google Office
+- Google Workspace
+- Adobe Dreamweaver 2021 et .NET .ASP (Expérience professionnelle en sites web Full-Stack et Sécurité)
+- Notepad/Notepad++
+### Concepts clés (principaux) et postes qui m'intéressent :
+- Technologies de l'information (IT) : Sécurité des réseaux, Exploitation des réseaux, Sécurité générale, Cybersécurité/IT pour la finance
+- Cybersécurité : Informatique forensique, Enquêtes en cybersécurité, Travail sur les menaces en cybersécurité, Analyse des vulnérabilités, Hacking, Antivirus, Sécurité, Agent des forces de l'ordre en cybersécurité/IT/informatique forensique
+- Full-Stack : Site web et sécurité, Informatique, Renseignement technique, Droit informatique, Agent des forces de l'ordre en cybersécurité/IT/informatique forensique
+    - **Sujets secondaires :**
+    - Cryptographie (Hachage ; MSGS ; Sécurité)
+    - Science des données (Cabinets d'avocats tels que Westlaw/Nexus Uni ; Bases de données gouvernementales/de renseignement)
+    - IA / Apprentissage automatique (Tous sujets)
+    - Mathématiques (Calcul 1-3 ; Équations différentielles et algèbre linéaire ; Statistiques de base) ;
+    - Physique générale (1-3)
 
--   GitHub
--   Actions GitHub (Test boîte noire/Test boîte blanche ; Test ; Système ; Manuel ; Unité ; Intégration ; Automatisé)
--   Git (concepts et mise en page SDLC)
--   VS Code (préférence pour toutes les langues)
--   Microsoft Visual Studio (préférence pour C/C++)
--   PyCharm (préférence pour Python)
--   Oracle (préférence pour Java)
--   Suite Microsoft et Google Office
--   Espace de travail Google
--   Adobe Dreamweaver 2021 et .NET .ASP (Website Full-Stack and Security Work Experience)
--   Bloc-notes/Bloc-notes++
-
-### Concepts de base (principaux) et postes qui m'intéressent :
-
--   Technologies de l'information (TI) : sécurité des réseaux, exploitation des réseaux, sécurité générale, cybersécurité/informatique pour la finance
--   Cybersécurité : criminalistique numérique, enquêtes sur la cybersécurité, travail sur les menaces de cybersécurité, analyse de vulnérabilité, piratage, antivirus, sécurité, agent d'application de la loi en cybersécurité/informatique/criminalité
--   Full-Stack : site Web et sécurité, informatique, renseignement technique, droit de l'informatique, cybersécurité/informatique/criminalité policière
-    -   **Sujets annexes :**
-    -   Cryptographie (hachage ; MSGS ; sécurité)
-    -   Science des données (cabinets d'avocats comme Westlaw/Nexus Uni ; bases de données Gov/Intelligence)
-    -   IA/apprentissage automatique (tous les sujets)
-    -   Mathématiques (Calcul : 1-3 ; Équations différentielles et algèbre linéaire ; Statistiques de base) ;
-    -   Physique générale (1-3)
-
-## Projets en ordre
-
-Projets commandés par**pertinence professionnelle, complexité et récence**(en haut = signal le plus fort pour les recruteurs). Mises à jour continues des liens.
-
-### 1. Capstone et principales applications
-
--   [Projet CMSC Capstone (en équipe)](https://github.com/javonpayne100/CMSC495Capstone)
--   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
--   [CS50 Autre code mineur + Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
-
+## Projets par ordre
+Projets classés par **pertinence professionnelle, complexité et récence** (en haut = signal le plus fort pour les recruteurs). Mises à jour régulières des liens.
+### 1. Projet de fin d'études (Capstone) et applications majeures
+- [CMSC Capstone Project (Team-Based)](https://github.com/javonpayne100/CMSC495Capstone)
+- [Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
+- [CS50 Other Minor Code + Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
 ### 2. Projets de génie logiciel et de développement
-
--   Applications Java (POO, structures de données)
--   Projets d'automatisation et d'interface graphique Python
--   Projets algorithmiques et systèmes C++
-
-### 3. Cybersécurité et projets informatiques
-
--   Laboratoires informatiques, Linux et réseaux
--   [Sécurité et cryptographie](https://github.com/VictoriaRaven/Cybersecurity-Google-Coursera-UMGC)
-
-### 4. Projets Web et bases de données
-
--   [Projets HTML, CSS, JavaScript (Développement Web)](https://github.com/VictoriaRaven/Front-End-Web-Developer-edX-W3C)
--   [Conception et requêtes de bases de données SQL](https://github.com/VictoriaRaven/Database-Projects-with-SQL)
-
+- Applications Java (POO, structures de données)
+- Projets d'automatisation et d'interface graphique Python
+- Projets algorithmiques et de systèmes C++
+### 3. Projets de cybersécurité et IT
+- Laboratoires d'informatique, Linux et réseaux
+- [Security and Cryptography](https://github.com/VictoriaRaven/Cybersecurity-Google-Coursera-UMGC)
+### 4. Projets web et de bases de données
+- [HTML, CSS, JavaScript Projects (Web Dev)](https://github.com/VictoriaRaven/Front-End-Web-Developer-edX-W3C)
+- [SQL Database Design & Queries](https://github.com/VictoriaRaven/Database-Projects-with-SQL)
 ### 5. Pratique, expériences et apprentissage
+- Pratique d'algorithmes
+- Démonstrations de concepts
+- Dépôts expérimentaux
+- Certificats et projets en IA et Apprentissage automatique
 
--   Pratique de l'algorithme
--   Démonstrations de concepts
--   Dépôts expérimentaux
--   Certs/projets d'IA et d'apprentissage automatique
+## Projets phares (Travaux représentatifs)
+Ces projets reflètent au mieux mes capacités techniques, ma progression et mon adéquation pour des postes dans l'industrie.
+### Application de traduction / dictionnaire de langues
+- **Technologies :** Python, Tkinter, SQLite, API
+- **Focus :** Conception d'interface graphique, fonctionnalités hors ligne/en ligne, tests, architecture modulaire
+- **Rôles :** Tous les rôles, s'agissant d'un projet en solo. Il inclut Développeur logiciel, Ingénieur logiciel, Chef de projet, Rédacteur technique et Développeur de tests/débogage.
+- **Points forts :** Panneau d'administration, fonctionnalités d'exportation, tests automatisés
+- [Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
+- [CS50 Other Minor Code + Translator Language Dictionary Application - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
+### Projet de fin d'études (Capstone) CMSC
+- **Type :** Développement logiciel en équipe
+- **Focus :** Collaboration, analyse des besoins, flux de travail Git, livraison
+- **Rôles :** Chef de projet ; Rédacteur technique ; Développeur de tests/débogage
+- [CMSC Capstone Project (Team-Based)](https://github.com/javonpayne100/CMSC495Capstone)
+### NASA | NCAS 2022 pour le Cypress College, activité extrascolaire réelle en groupe pour participer avec la NASA dans mon community college de Cypress en 2022 :
+- [VictoriaRaven's NASA NCAS Experience Community College 2023](https://github.com/VictoriaRaven/NCAS-NASA-missions-personal-CC)
+- En lien avec le gouvernement : NASA Community College Aerospace Scholars (NCAS) | Avril–Août 2022. Participation à des simulations de recherche de la NASA, gestion d'un budget de projet de 609,5 millions de dollars, évaluation des risques et planification des ressources, et collaboration avec des équipes multidisciplinaires pour atteindre les objectifs de la mission.
+## Éducation — University of Maryland Global Campus
+- University of Maryland Global Campus (UMGC), M.S. Cyber Operations (2028) + Certificat d'études supérieures : Digital Forensics & Cyber Investigation (2028)
+- University of Maryland Global Campus (UMGC), B.S. Computer Science avec mineure en Law for Business (2025)
+- Associate of Arts — A.A. Math and Science — Cypress College (2023)
+- Associate of Science — A.S. Mathematics — Cypress College (2023)
+- Associate of Science — A.S. Physics — Cypress College (2023)
+## Cours suivis à l'UMGC pour les diplômes de M.S. et B.S. (Mises à jour en cours) :
+### Informatique (M.S. et B.S.)
+- Programmation orientée objet
+- Structures de données et algorithmes
+- Génie logiciel
+- Systèmes de bases de données
+- Systèmes d'exploitation
+- Architecture des systèmes informatiques
+### Mathématiques et Physique/Ingénierie (M.S. et B.S.)
+- Calcul I–III
+- Algèbre linéaire
+- Équations différentielles
+- Statistiques
+- Physique générale I–III
+### Cybersécurité et IT (M.S. et B.S.)
+- Fondamentaux de la cybersécurité
+- Concepts de réseaux
+- Principes des systèmes et de la sécurité
+- COMPTIA NETWORK+ et COMPTIA SECURITY+
+### Droit et études professionnelles (M.S. et B.S.)
+- Droit des affaires (Mineure)
+- Éthique et responsabilité professionnelle
+## Cours précédents / anciens (Diplômes d'associé de Community College [3 diplômes d'associé], et M.S. & B.S.)
+Certains dépôts restent privés pour se conformer aux politiques d'intégrité académique.
+### Sujets couverts
+- Java, Python, C++, C
+- Fondamentaux du développement web
+- Algorithmes et résolution de problèmes
+- Bases de la sécurité et de la cryptographie
+   - > 🔒 **Remarque sur l'intégrité académique :** Les dépôts contenant du matériel évalué ou des corrigés sont gardés privés. Certains cours sélectionnés peuvent être partagés temporairement **sur demande** à des fins de recrutement ou d'évaluation.
 
-## Projets en vedette (travail représentatif)
-
-Ces projets reflètent le mieux mes capacités techniques, ma croissance et ma préparation à des rôles dans l'industrie.
-
-### Application de traducteur/dictionnaire de langue
-
--   **Technologies :**Python, Tkinter, SQLite, API
--   **Se concentrer:**Conception d'interface graphique, fonctionnalités hors ligne/en ligne, tests, architecture modulaire
--   **Rôles :**Tous les rôles, car il s'agissait d'un projet solo. Il comprend un développeur de logiciels, un ingénieur logiciel, un chef de projet, un rédacteur technique et un développeur testeur/débogage.
--   **Points forts:**Panneau d'administration, fonctionnalités d'exportation, tests automatisés
--   [Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/Translator-Language-Dictionary-App)
--   [CS50 Autre code mineur + Application de dictionnaire de langue de traducteur - CS50 Final Project Capstone](https://github.com/VictoriaRaven/CS50_Edx_Projects_Harvard)
-
-### Projet de synthèse du CMSC
-
--   **Taper:**Développement de logiciels en équipe
--   **Se concentrer:**Collaboration, analyse des besoins, workflow Git, livraison
--   **Rôles :**Chef de projet; Rédacteur technique ; Testeur/développeur de débogage
--   [Projet CMSC Capstone (en équipe)](https://github.com/javonpayne100/CMSC495Capstone)
-
-## Éducation — Campus mondial de l'Université du Maryland
-
--   Campus mondial de l'Université du Maryland (UMGC), MS Cyber-Opérations (2028) + Certificat d'études supérieures : Digital Forensics & Cyber ​​Investigation (2028)
--   Campus mondial de l'Université du Maryland (UMGC), BS Informatique avec mineure en droit des affaires (2025)
--   Associé ès arts — AA Mathématiques et sciences — Cypress College (2023)
--   Associé ès sciences — A.S. Mathématiques — Cypress College (2023)
--   Associé ès sciences — A.S. Physique — Cypress College (2023)
-
-## Cours UMGC pour les deux MS. et B.S. Diplômes (seront mis à jour et en cours) :
-
-### Informatique (MS et BS)
-
--   Programmation orientée objet
--   Structures de données et algorithmes
--   Génie logiciel
--   Systèmes de bases de données
--   Systèmes d'exploitation
--   Architecture des systèmes informatiques
-
-### Mathématiques et physique/ingénierie (MS et BS)
-
--   Calcul I – III
--   Algèbre linéaire
--   Équations différentielles
--   Statistiques
--   Physique générale I-III
-
-### Cybersécurité et informatique (MS et BS)
-
--   Fondamentaux de la cybersécurité
--   Concepts de réseautage
--   Systèmes et principes de sécurité
--   COMPTIA NETWORK+ et COMPTIA SECURITY+
-
-### Droit et études professionnelles (MS et BS)
-
--   Droit des affaires (mineure)
--   Éthique et responsabilité professionnelle
-
-## Cours précédents / anciens (ASSOCIÉS du Collège communautaire (3 diplômes d'associé) et MS et BS)
-
-Certains référentiels restent privés pour se conformer aux politiques d'intégrité académique.
-
-### Sujets abordés
-
--   Java, Python, C++, C
--   Fondamentaux du développement Web
--   Algorithmes et résolution de problèmes
--   Bases de la sécurité et de la cryptographie
-    -   > 🔒**Remarque sur l'intégrité académique :**Les référentiels contenant du matériel noté ou des corrigés restent privés. Les cours sélectionnés peuvent être temporairement partagés**à la demande**à des fins d’embauche ou d’évaluation.
-
-## Badges et certifications (MS et BS)
-
--   **Upsilon Pi Epsilon (UPE)**— Société d'honneur (UMGC, 9 mai 2025)
--   [![AEFIS Badge](https://img.shields.io/badge/HonorSocieties-UpsilonPiEpsilon-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
-    -   **Nom de l'insigne :**Insigne de la société d'honneur de l'UMGC UPE
-    -   **Émis:**[Université du Maryland, Campus mondial](https://gateway.aefis.net/services/exchange/api/ims/ob/issuers/umgc:institution:1)**; Temps**: 9 mai 2025
-    -   **Afficher la validation du badge (sauf PI) :**[Lien d’assertion AEFIS](https://gist.github.com/VictoriaRaven/fdcac42f23b30e5ee94f8ad211077ca0)
--   **CS50x - Harvardx - Certificat edx (Université de Harvard) :**[![CS50x Certificate - HarvardX and edX](https://img.shields.io/badge/Coursera-CS50xHarvard-yellow)](https://certificates.cs50.io/8e1af2b8-c9b3-43d7-ad70-156766976cc6.pdf?size=letter)
--   **Certificat professionnel de cybersécurité Google**[![Google Cybersecurity Professional Certificate Badge - Credly Badge](https://img.shields.io/badge/Coursera-GoogleCybersecurity-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
-    -   **Voir Bade Validation Credly :**[Badge de certificat professionnel de cybersécurité Google - Credly](https://www.credly.com/badges/13428837-66ba-40f6-9a44-4c21c0e18742)
--   **Praticien mainframe z/OS :**[![z/OS Mainframe Practitioner - Coursera](https://img.shields.io/badge/Coursera-zOSmainframe-yellow)](https://coursera.org/share/6d9495558399ec2257ebe447ae9d5338)
--   **Cours COMPTIA Network+ N008 : Certificat de profil uCertify (UMGC) :**[uCertifier](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
-
-## Sur moi
-
+## Badges et certifications (M.S. et B.S.)
+- **Upsilon Pi Epsilon (UPE)** — Société d'honneur (UMGC, 9 mai 2025)  
+- [![AEFIS Badge](https://img.shields.io/badge/HonorSocieties-UpsilonPiEpsilon-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
+   - **Nom du badge :** Badge de la société d'honneur UPE de l'UMGC
+   - **Délivré par :** [University of Maryland, Global Campus](https://gateway.aefis.net/services/exchange/api/ims/ob/issuers/umgc:institution:1) **; Date** : 9 mai 2025
+   - **Voir la validation du badge (PI exclue) :** [Lien d'assertion AEFIS](https://gist.github.com/VictoriaRaven/fdcac42f23b30e5ee94f8ad211077ca0)
+- **Certificat CS50x - Harvardx - edx (Université Harvard) :** [![CS50x Certificate - HarvardX and edX](https://img.shields.io/badge/Coursera-CS50xHarvard-yellow)](https://certificates.cs50.io/8e1af2b8-c9b3-43d7-ad70-156766976cc6.pdf?size=letter)
+- **Google Cybersecurity Professional Certificate** [![Google Cybersecurity Professional Certificate Badge - Credly Badge](https://img.shields.io/badge/Coursera-GoogleCybersecurity-yellow)](https://gateway.aefis.net/services/exchange/api/ims/ob/images/umgc:badge:18)
+    - **Voir la validation du badge Credly :** [Google Cybersecurity Professional Certificate Badge - Credly](https://www.credly.com/badges/13428837-66ba-40f6-9a44-4c21c0e18742)
+- **z/OS Mainframe Practitioner :** [![z/OS Mainframe Practitioner - Coursera](https://img.shields.io/badge/Coursera-zOSmainframe-yellow)](https://coursera.org/share/6d9495558399ec2257ebe447ae9d5338)
+- **COMPTIA Network+ N008 Course: uCertify Profile Certificate (UMGC) :** [uCertify](https://umgc.ucertify.com/my/resume.php?user=347163512f6470586f47616339645937325a324e7a513d3d/Victoria-Lee)
+## À propos de moi
 ### Langues
-
--   Français (compétence professionnelle limitée ; en cours d'obtention d'une compétence professionnelle professionnelle et d'une compétence professionnelle complète)
--   Espagnol (compétence élémentaire)
--   Russe (compétence élémentaire)
-    -   **NOTE:**En raison de mes cours et de la surcharge de l'équilibre travail-vie personnelle, j'ai souvent échangé le russe et l'espagnol sur mon CV, car je sais que je ne parlerai pas à 100%, mais au moins débutant.
-
+- Français (Compétence professionnelle limitée ; en route vers une compétence professionnelle de travail et une pleine compétence professionnelle)
+- Espagnol (Compétence élémentaire)
+- Russe (Compétence élémentaire)
+   - **REMARQUE :** En raison de la surcharge de mes cours et de mon équilibre vie professionnelle-vie privée, j'ai souvent alterné et permuté le russe et l'espagnol sur mon CV, sachant que je ne serai pas bilingue à 100 %, mais au moins débutante.
 ### Personnalité et éthique de travail
+- J'adore travailler de manière autonome ou en équipe, et avoir un impact positif sur les objectifs/l'éthique de l'entreprise ou sur les communautés.
+- J'adore découvrir différentes cultures et rester à jour avec les tendances en informatique, utiliser Git et associer le droit/la justice pénale à l'informatique.
+- Mes loisirs incluent la salle de sport/MMA (boxe, kickboxing, karaté, BJJ), les pistolets Nerf pour pratiquer le tir avec des armes jouets, les activités en plein air, la mode, la lecture (non-fiction), la programmation, les jeux vidéo, la composition musicale, la cuisine, l'apprentissage de différentes cultures et l'apprentissage des langues.
+- La plupart des gens que je connais me considèrent comme une introvertie dévouée, loyale, communiquant directement, ambitieuse, confiante (personne autonome, directe, sérieuse, soucieuse du détail), leader/enseignante, analytique, fine, protectrice et dotée d'un excellent esprit d'équipe.
+- Je préfère la communication directe car c'est la « vraie » moi, mais je me suis adaptée pour apprendre à la fois la communication indirecte et directe (notamment pour gérer les introvertis/extrovertis) grâce à ma mineure en droit des affaires.
+- Mon objectif (si je suis placée en position de leadership) est non seulement d'être directe, mais aussi d'enseigner aux autres, d'être à l'écoute, de m'adapter aux autres styles de communication, de privilégier les retours constructifs plutôt que de rejeter la faute sur quelqu'un, et de faire du travail d'équipe une réussite (en prenant le temps d'enseigner à mon équipe).
+- J'adore aider les autres et avoir un impact positif dans mon travail et mes expériences pour montrer que je me soucie de mon équipe.
+  - Je veux que chacun de mes membres ne fasse pas seulement partie de l'équipe, mais développe également ses compétences et ses traits de caractère, quel que soit son niveau (Intro, Intermédiaire, Avancé)
+    - La théorie de la communication stipule : La communication directe implique une expression explicite et directe, tandis que la communication indirecte repose sur des nuances, des implications, de l'agressivité passive et des indices non verbaux.
+      - [Exemples de communication directe vs indirecte](https://www.indeed.com/career-advice/career-development/direct-communication)
+      - [Affirmatif vs Passif vs Agressif](https://youtu.be/KmrokQdsjTA?feature=shared)
+      - [Direct vs Indirect selon les pays/cultures : Vidéo YouTube 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
+      - [Direct vs Indirect selon les pays/cultures : Vidéo YouTube 2](https://youtu.be/ZjwiX6KNAHE?feature=shared&t=229)
+      - [Direct vs Indirect selon les pays/cultures : Vidéo YouTube 3](https://youtu.be/qKViQSnW-UA?si=fBhuKTvSY6Wy9VXX)
 
--   J'aime travailler de manière indépendante ou en équipe (travail d'équipe/de manière indépendante) et avoir un impact positif sur les objectifs/la philosophie de l'entreprise ou sur les communautés.
--   J'aime découvrir différentes cultures et rester au courant des tendances CS, en utilisant Git et les hybrides Droit/Justice pénale avec CS.
--   Mes passe-temps incluent la gym/MMA (boxe, kickboxing, karaté, BJJ), les pistolets Nerf pour pratiquer les armes à feu jouets, le plein air, la mode, la lecture (non-fiction), le codage, les jeux, la création de musique, la cuisine, l'apprentissage de différentes cultures et l'apprentissage des langues.
--   La plupart des gens que je connais me considèrent comme une personne introvertie, dévouée, loyale, une communicante directe, ambitieuse, confiante (personne seule ; simple ; sérieuse ; soucieuse du détail), une leader/enseignante, analytique, astucieuse, protectrice et un excellent joueur d'équipe.
--   Je préfère la communication directe parce que c'est le « vrai » moi, mais je me suis adapté pour apprendre la communication indirecte et directe (y compris la gestion des introvertis/extravertis) grâce à ma mineure en droit des affaires.
--   Mon objectif (si je suis positionné en tant que leader) est non seulement d'être direct, mais aussi d'enseigner aux autres, d'être un bon auditeur, de m'adapter à d'autres styles de communication, comme des commentaires constructifs plutôt que de blâmer quelqu'un, et de réussir le travail d'équipe (en prenant le temps d'enseigner à mon équipe).
--   J'aime aider les autres et apporter un impact positif à mon travail et à mes expériences pour montrer que je me soucie de mon équipe.
-    -   Je veux que chacun de mes membres fasse non seulement partie de l'équipe, mais qu'il développe également ses compétences et ses traits de caractère, quel que soit son niveau (Intro, Intermédiaire, Avancé).
-        -   Selon la théorie de la communication : la communication directe implique une expression explicite et directe, tandis que la communication indirecte repose sur des nuances, des implications, une agressivité passive et des indices non verbaux.
-            -   [Exemples directs et indirects](https://www.indeed.com/career-advice/career-development/direct-communication)
-            -   [Assertif contre Passif contre Agressif](https://youtu.be/KmrokQdsjTA?feature=shared)
-            -   [Direct ou indirect en fonction des pays/cultures : vidéo YouTube 1](https://youtu.be/0W9iLrfyq20?si=9dHIS2LGlFsGASew)
-            -   [Direct ou indirect en fonction des pays/cultures : vidéo YouTube 2](https://youtu.be/ZjwiX6KNAHE?feature=shared&t=229)
-            -   [Direct ou indirect en fonction des pays/cultures : vidéo YouTube 3](https://youtu.be/qKViQSnW-UA?si=fBhuKTvSY6Wy9VXX)
-
-## Dans l'ensemble
-
-Ce portfolio reflète mes compétences techniques, mon éthique, mon style de communication et ma compatibilité avec les environnements d'équipe professionnels.
-Si mon parcours correspond aux objectifs de votre équipe, veuillez explorer mes référentiels ou demander du matériel supplémentaire.
-
--   Merci!
-    —**Victoria Corbeau**
+## Généralités
+Ce portfolio reflète mes compétences techniques, mon éthique, mon style de communication et mon adéquation avec des environnements d'équipe professionnels.
+Si mon profil correspond aux objectifs de votre équipe, n'hésitez pas à explorer mes dépôts ou à me contacter pour obtenir des documents supplémentaires.
+- Merci !
+— **Victoria Raven**
